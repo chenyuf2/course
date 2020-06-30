@@ -1,0 +1,4117 @@
+Course Title, Full Title, Prerequisite
+AAS 100,Intro Asian American Studies,NULL
+AAS 215,US Citizenship Comparatively,AAS 100 AAS 120 AFRO 100 AIS 101 GWS 250 LLS 100 
+AAS 260,Intro Asian American Theatre,NULL
+AAS 265,Politics of Hip Hop,NULL
+AAS 281,Constructing Race in America,NULL
+AAS 283,Asian American History,NULL
+AAS 286,Asian American Literature,NULL
+AAS 297,Asian Families in America,NULL
+AAS 300,Theories of Race  Gender  and Sexuality,NULL
+AAS 310,Race and Cultural Diversity,NULL
+AAS 315,War  Memory  and Cinema,AAS 100 AAS 120 
+AAS 343,Criminalization and Punishment,NULL
+AAS 365,Asian American Media and Film,NULL
+AAS 390,Intermed Topics Asian Am St,NULL
+ABE 141,ABE Principles: Biological,NULL
+ABE 199,Undergraduate Open Seminar,NULL
+ABE 225,ABE Principles: Bioenvironment,MATH 220 MATH 221 MATH 234 
+ABE 226,ABE Principles: Bioprocessing,MATH 220 MATH 221 MATH 234 
+ABE 397,Independent Study,NULL
+ABE 425,Engrg Measurement Systems,ECE 205 
+ABE 440,Applied Statistical Methods I,NULL
+ABE 446,Biological Nanoengineering,MCB 150 
+ABE 456,Land & Water Resources Engrg,TAM 335 
+ABE 457,NPS Pollution Processes,ABE 224 CEE 350 
+ABE 458,NPS Pollution Modeling,ABE 457 
+ABE 469,Industry-Linked Design Project,ABE 361 CHBE 421 TAM 335 ME 370 
+ABE 474,Indoor Environmental Control,TAM 335 ME 300 CHBE 321 
+ABE 497,Independent Study,NULL
+ABE 498,Special Topics,NULL
+ABE 594,Graduate Seminar,NULL
+ABE 597,Independent Study,NULL
+ABE 598,Special Topics,NULL
+ABE 599,Thesis Research,NULL
+ACCY 199,Undergraduate Open Seminar,NULL
+ACCY 200,Fundamentals of Accounting,NULL
+ACCY 201,Accounting and Accountancy I,ECON 102 ECON 103 
+ACCY 202,Accounting and Accountancy II,ACCY 201 
+ACCY 290,Prof Internship in Accountancy,ACCY 201 ACCY 202 
+ACCY 301,Atg Measurement & Disclosure,ACCY 202 ACCY 302 
+ACCY 302,Decision Making for Atg,ACCY 202 BADM 210 ACCY 301 
+ACCY 303,Atg Institutions and Reg,ACCY 301 ECON 302 FIN 221 
+ACCY 304,Accounting Control Systems,ACCY 301 ACCY 302 BADM 310 
+ACCY 312,Principles of Taxation,ACCY 202 
+ACCY 321,Principles of Public Policy,NULL
+ACCY 398,Practical Problems in Atg,NULL
+ACCY 405,Assurance and Attestation,ACCY 304 
+ACCY 410,Advanced Financial Reporting,ACCY 303 
+ACCY 415,Auditing Stds and Practice,ACCY 304 
+ACCY 451,Advanced Income Tax Problems,ACCY 312 
+ACCY 499,Senior Research,NULL
+ACCY 501,Accounting Analysis I,NULL
+ACCY 502,Accounting Analysis II,ACCY 501 
+ACCY 503,Managerial Accounting,ACCY 501 
+ACCY 506,Advanced Topics in Accounting,ACCY 501 ACCY 502 
+ACCY 507,Taxation of Business Entities,ACCY 505 
+ACCY 510,Financial Reporting Standards,ACCY 410 
+ACCY 512,Data Analytics for Management Accounting,NULL
+ACCY 515,Auditing & Assurance Standards,ACCY 405 
+ACCY 517,Financial Statement Analysis,ACCY 410 ACCY 500 ACCY 502 
+ACCY 518,Financial Statement Fraud,NULL
+ACCY 552,Partnership Income Taxation,ACCY 451 ACCY 556 
+ACCY 571,Statistical Analyses for Accountancy,NULL
+ACCY 575,Data Analytics Applications in Accountancy,ACCY 570 
+ACCY 593,Special Research Problems,NULL
+ACCY 595,Models of Decision and Choice,NULL
+ACCY 599,Thesis Research,NULL
+ACE 100,Agr Cons and Resource Econ,NULL
+ACE 161,Microcomputer Applications,NULL
+ACE 199,Undergraduate Open Seminar,NULL
+ACE 210,Environmental Economics,NULL
+ACE 222,Agricultural Marketing,NULL
+ACE 231,Food and Agribusiness Mgt,NULL
+ACE 232,Farm Management,NULL
+ACE 240,Personal Financial Planning,NULL
+ACE 251,The World Food Economy,ACE 100 ECON 102 
+ACE 254,Economic Systems in Africa,NULL
+ACE 255,Economics of Food and Environmental Justice,ACE 100 ECON 102 
+ACE 261,Applied Statistical Methods,MATH 124 MATH 125 
+ACE 270,Consumer Economics,NULL
+ACE 292,Farm  Food & Environmental Policy,NULL
+ACE 293,Off-Campus Internship,NULL
+ACE 294,On-Campus Internship,NULL
+ACE 295,Independent Study,NULL
+ACE 310,Natural Resource Economics,ACE 100 ECON 102 
+ACE 321,Principles of Public Policy,NULL
+ACE 341,Issues&Careers in Applied Econ,NULL
+ACE 360,Spreadsheet Models & Applic,ACE 100 ACE 161 CS 105 ACE 261 ECON 203 
+ACE 396,Honors Research or Thesis,NULL
+ACE 398,Seminar,NULL
+ACE 403,Agricultural Law,NULL
+ACE 427,Commodity Price Analysis,ACE 100 ECON 102 ACE 261 
+ACE 428,Commodity Futures and Options,ACE 222 FIN 300 
+ACE 430,Food Marketing,ACE 100 ECON 102 ACE 222 
+ACE 431,Agri-food Strategic Management,ACE 231 BADM 320 ACE 222 
+ACE 435,Global Agribusiness Management,ACE 231 ACE 222 BADM 320 
+ACE 440,Finan Plan for Professionals,ACE 345 ACE 346 ACE 444 ACE 449 
+ACE 444,Finan Serv & Invest Plan,ACE 240 ACE 345 FIN 221 ECON 302 
+ACE 446,Modeling App's Finan Plan,ACE 240 ACE 345 FIN 221 ACE 360 
+ACE 449,Retirement & Benefit Planning,ACE 240 ACE 345 ECON 302 
+ACE 451,Agriculture in Intl Dev,ECON 302 
+ACE 456,Agr and Food Policies,ECON 302 
+ACE 474,Econ of Consumption,ECON 302 
+ACE 476,Behavioral Economics and Financial Decision Making,ECON 302 
+ACE 496,Practicum,NULL
+ACE 499,Seminar,NULL
+ACE 502,Demand/Supply/Firms/Households,ECON 500 ACE 501 
+ACE 503,Equilibrium and Welfare Econ,ECON 500 
+ACE 528,Research in Futures Markets,ECON 500 
+ACE 530,Microeconometrics,ECON 506 ECON 507 
+ACE 532,Spatial Econometrics,ACE 562 ACE 564 ECON 535 
+ACE 557,Food  Poverty and Development,ACE 500 ACE 504 ECON 500 
+ACE 559,Food  Trade and Development,ACE 500 ACE 501 ECON 500 
+ACE 561,Adv Res and Scholarly Comm,NULL
+ACE 563,Math Program App Econ I,MATH 124 MATH 220 MATH 221 MATH 234 
+ACE 567,Math Program App Econ II,ACE 563 
+ACE 591,Independent Study,NULL
+ACE 592,Special Topics,NULL
+ACE 594,Seminars and Workshops,NULL
+ACE 599,Thesis Research,NULL
+ACES 199,Undergraduate Open Seminar,NULL
+ACES 293,International Internship,NULL
+ACES 295,Undergrad Research or Thesis,NULL
+ACES 298,International Experience,NULL
+ACES 299,ACES Study Abroad,NULL
+ACES 396,Honors Study Abroad Retrospect,NULL
+ACES 399,Honors Seminar,NULL
+ACES 499,Interdisciplinary ACES Seminar,NULL
+ADV 150,Introduction to Advertising,NULL
+ADV 199,Undergraduate Seminar,NULL
+ADV 281,Advertising Research Methods,ADV 150 STAT 100 
+ADV 283,Advertising and Brand Strategy,ADV 150 ADV 281 
+ADV 284,Consumer Insight,ADV 281 
+ADV 290,Special Topics in Advertising,NULL
+ADV 305,Digital Advertising Content  Technologies and Concepts,ADV 150 
+ADV 310,Intro to Public Relations,NULL
+ADV 311,Classic Campaigns,NULL
+ADV 312,Advertising History,NULL
+ADV 315,Emerging Media,NULL
+ADV 350,Writing for Public Relations,ADV 310 
+ADV 390,Content Creation,ADV 284 
+ADV 396,Research Experience in Advertising,ADV 150 ADV 281 
+ADV 399,Advertising Study Abroad,NULL
+ADV 400,Special Problems,NULL
+ADV 409,Media Entrepreneurship,NULL
+ADV 410,Public Relations Strategies,ADV 310 
+ADV 454,Creative Concepts II,ADV 452 
+ADV 460,Innovation in Advertising,ADV 283 ADV 284 
+ADV 476,Global Advertising,ADV 150 
+ADV 483,Audience Analysis,ADV 283 ADV 284 
+ADV 490,Advanced Special Topics in Advertising,NULL
+ADV 492,Tech and Advertising Campaigns,CS 225 
+ADV 495,Internship Seminar,NULL
+ADV 498,The Sandage Project,ADV 283 ADV 390 ADV 460 
+ADV 509,Media Entrepreneurship,NULL
+ADV 581,Quanti Research Methods in Adv,NULL
+ADV 588,Graduate Seminar II,ADV 587 
+ADV 590,Special Topics in Advertising,NULL
+ADV 594,Advanced Topics in Advertising,NULL
+ADV 598,Professional Project,ADV 588 
+ADV 599,Thesis Research,ADV 588 
+AE 199,Undergraduate Open Seminar,NULL
+AE 202,Aerospace Flight Mechanics,TAM 212 
+AE 298,Special Topics,NULL
+AE 311,Incompressible Flow,AE 202 MATH 241 
+AE 312,Compressible Flow,AE 202 MATH 285 ME 300 
+AE 321,Mechs of Aerospace Structures,MATH 285 TAM 210 
+AE 323,Applied Aerospace Structures,AE 321 MATH 241 MATH 285 TAM 210 
+AE 352,Aerospace Dynamical Systems,MATH 225 MATH 285 TAM 212 
+AE 353,Aerospace Control Systems,MATH 225 MATH 285 TAM 212 
+AE 370,Aerospace Numerical Methods,AE 311 AE 312 AE 321 AE 323 
+AE 395,Honors Project,NULL
+AE 396,Honors Seminar,NULL
+AE 397,Independent Study,NULL
+AE 403,Spacecraft Attitude Control,AE 352 AE 353 
+AE 410,Computational Aerodynamics,AE 311 AE 312 
+AE 419,Aircraft Flight Mechanics,AE 202 AE 353 
+AE 420,Finite Element Analysis,NULL
+AE 434,Rocket Propulsion,AE 312 AE 433 
+AE 435,Electric Propulsion,AE 433 
+AE 443,Aerospace Systems Design II,AE 442 
+AE 461,Structures & Control Lab,AE 321 AE 352 AE 323 AE 353 
+AE 468,Optical Remote Sensing,NULL
+AE 482,Introduction to Robotics,NULL
+AE 497,Independent Study,NULL
+AE 498,Special Topics,NULL
+AE 504,Optimal Aerospace Systems,AE 352 
+AE 510,Advanced Gas Dynamics,NULL
+AE 514,Boundary Layer Theory,AE 412 
+AE 515,Wing Theory,AE 416 
+AE 538,Combustion Fundamentals,NULL
+AE 543,Aerospace Syst Engineering II,AE 542 
+AE 554,Dynamical Systems Theory,TAM 416 ME 340 TAM 412 AE 352 
+AE 590,Seminar,NULL
+AE 597,Independent Study,NULL
+AE 598,Special Topics,NULL
+AE 599,Thesis Research,NULL
+AFAS 102,Leadership Laboratory,NULL
+AFAS 112,Heritage and Values of the United States Air Force II,AFAS 111 AFAS 102 
+AFAS 222,Team and Leadership Fundamentals II,AFAS 221 AFAS 102 
+AFAS 332,Leading People and Effective Communication II,AFAS 331 AFAS 102 
+AFAS 342,Nat Sec Afrs/Prep Actv Duty II,AFAS 341 
+AFRO 100,Intro to African American St,NULL
+AFRO 103,Black Women in the Diaspora,NULL
+AFRO 106,Hist Arch Americas,NULL
+AFRO 132,African American Music,NULL
+AFRO 215,US Citizenship Comparatively,NULL
+AFRO 220,Intro to Research Methods AfAm,NULL
+AFRO 221,History of the Prison,NULL
+AFRO 224,Humanist Persp of Afro-Am Exp,AFRO 100 
+AFRO 226,Black Women Contemp US Society,NULL
+AFRO 261,Intro to the African Diaspora,NULL
+AFRO 276,Afro-American Hist Since 1877,NULL
+AFRO 281,Constructing Race in America,NULL
+AFRO 287,African-American Women,NULL
+AFRO 298,Spec Topics African-Am Studies,AFRO 100 AFRO 101 
+AFRO 310,Race and Cultural Diversity,NULL
+AFRO 340,Dancing Black Popular Culture,NULL
+AFRO 342,Black Men and Masculinities,NULL
+AFRO 343,Criminalization and Punishment,NULL
+AFRO 383,Hist of Blk Women's Activism,AFRO 100 AFRO 101 AFRO 103 
+AFRO 398,Spec Topics Afro-Am Studies,AFRO 224 HIST 275 HIST 276 ENGL 259 ENGL 260 
+AFRO 421,Racial and Ethnic Families,NULL
+AFRO 474,Black Freed Move  1955-Present,AFRO 101 HIST 276 
+AFRO 495,Senior Thesis Seminar,AFRO 100 AFRO 220 AFRO 490 
+AFRO 501,Problems African American Hist,NULL
+AFRO 595,Directed Independent Readings,NULL
+AFRO 597,Problems in African-Am Studies,AFRO 500 
+AFST 103,Black Women in the Diaspora,NULL
+AFST 199,Undergraduate Open Seminar,NULL
+AFST 232,Elementary Swahili II,NULL
+AFST 242,Elementary Wolof II,NULL
+AFST 254,Economic Systems in Africa,NULL
+AFST 313,Modern and Contemp African Art,NULL
+AFST 406,Topics Swahili Lang & Lit II,NULL
+AFST 408,Adv Topics Swahili Lang&Lit II,NULL
+AFST 434,Intermediate Swahili II,NULL
+AFST 436,Advanced Swahili II,NULL
+AFST 443,Intermediate Wolof I,NULL
+AFST 445,Advanced Wolof I,NULL
+AFST 446,Advanced Wolof II,NULL
+AFST 490,Independent Study,NULL
+AFST 495,Special Topics,NULL
+AFST 515,Practicum in African Studies,NULL
+AFST 522,Development of African Studies,NULL
+AFST 550,Special Topics,NULL
+AFST 599,Thesis Research,NULL
+AGCM 220,Communicating Agriculture,NULL
+AGCM 230,Agricultural and Environmental Photography,NULL
+AGCM 250,Visual Principles for Ag Comm,NULL
+AGCM 270,Ag Sales and Persuasive Communication,NULL
+AGCM 293,Communications Internship,NULL
+AGCM 294,Research Internship,NULL
+AGCM 295,Independent Study or Research,NULL
+AGCM 315,Emerging Media,NULL
+AGCM 320,Public Information Campaigns,NULL
+AGCM 330,Environmental Communications,NULL
+AGCM 396,Honors Research or Thesis,NULL
+AGED 199,Undergraduate Open Seminar,NULL
+AGED 250,Observation and Program Analys,AGED 220 EDPR 203 
+AGED 260,Intro to Leadership Studies,NULL
+AGED 293,Ag Leadership Internship,NULL
+AGED 295,Independent Study or Research,NULL
+AGED 300,Training and Development,AGED 280 
+AGED 310,Prof Dev in Leadership Ed,NULL
+AGED 380,Leadership in Groups and Teams,AGED 260 
+AGED 396,Honors Research or Thesis,NULL
+AGED 410,Grad Early Field Experience,EDPR 203 
+AGED 420,Curr Design & Instruction,AGED 220 
+AGED 421,Teaching Strategies in AGED,AGED 300 AGED 420 
+AGED 450,Program Delivery and Eval,AGED 420 
+AGED 451,Professional Dev in Ag Ed,NULL
+AGED 480,Collaborative Leadership,AGED 260 
+AGED 540,Volunteer Management,NULL
+AGED 545,Research Methods & Design,NULL
+AGED 549,Independent Study,NULL
+AGED 599,Thesis Research,NULL
+AHS 199,Undergraduate Open Seminar,NULL
+AHS 292,AHS Study Abroad,NULL
+AHS 365,Civic Engagement in Wellness,NULL
+AHS 375,Comm Partners & Health,NULL
+AHS 399,Advanced Open Seminar,NULL
+AHS 494,Special Topics,NULL
+AIS 101,Intro to Amer Indian Studies,NULL
+AIS 265,Intro to American Indian Lit,NULL
+AIS 275,Am Indian and Indigenous Film,NULL
+AIS 285,Indigenous Thinkers,NULL
+AIS 295,US Citizenship Comparatively,NULL
+AIS 343,Criminalization and Punishment,NULL
+AIS 491,Readings in Am Ind Studies,NULL
+AIS 503,Seminar in Indigenous Studies,AIS 501 AIS 502 
+ANSC 100,Intro to Animal Sciences,NULL
+ANSC 101,Contemporary Animal Issues,NULL
+ANSC 103,Working With Farm Animals,ANSC 100 
+ANSC 110,Life With Animals and Biotech,NULL
+ANSC 199,Undergraduate Open Seminar,NULL
+ANSC 204,Intro Dairy Cattle Evaluation,ANSC 100 
+ANSC 205,World Animal Resources,NULL
+ANSC 207,Companion Animal Biology &Care,NULL
+ANSC 211,Breeding Animal Evaluation,NULL
+ANSC 223,Animal Nutrition,ANSC 100 ANSC 221 CHEM 104 CHEM 105 
+ANSC 224,Animal Reproduction and Growth,ANSC 100 ANSC 221 
+ANSC 250,Companion Animals in Society,NULL
+ANSC 256,Horse's Role in Human History,NULL
+ANSC 298,Undergraduate Seminar,NULL
+ANSC 301,Food Animal Production  Management  and Evaluation,ANSC 223 ANSC 224 
+ANSC 305,Human Animal Interactions,NULL
+ANSC 306,Equine Science,ANSC 206 ANSC 222 ANSC 224 
+ANSC 363,Behavior of Domestic Animals,ANSC 100 
+ANSC 366,Animal Behavior,NULL
+ANSC 398,UG Experiential Learning,NULL
+ANSC 402,Sheep Production,ANSC 223 
+ANSC 403,Pork Production,ANSC 221 ANSC 223 ANSC 467 ANSC 224 ANSC 431 
+ANSC 404,Poultry Science,NULL
+ANSC 406,Zoo Animal Conservation Sci,ANSC 221 IB 104 
+ANSC 407,Animal Shelter Management,ANSC 207 ANSC 307 
+ANSC 409,Meat Science,ANSC 221 ANSC 222 ANSC 223 ANSC 224 
+ANSC 423,Advanced Dairy Nutrition,ANSC 201 
+ANSC 438,Lactation Biology,ANSC 224 
+ANSC 440,Applied Statistical Methods I,NULL
+ANSC 444,Applied Animal Genetics,NULL
+ANSC 446,Population Genetics,ANSC 221 IB 204 MATH 220 MATH 221 MATH 234 
+ANSC 448,Math Modeling in Life Sciences,IB 104 
+ANSC 450,Comparative Immunobiology,NULL
+ANSC 498,Integrating Animal Sciences,ANSC 293 ANSC 294 ANSC 295 ANSC 299 ANSC 396 ANSC 398 ACES 293 ACES 298 ACES 299 
+ANSC 499,Seminar,NULL
+ANSC 520,Protein and Energy Nutrition,MCB 450 ANSC 222 
+ANSC 521,Regulation of Metabolism,NULL
+ANSC 525,Topics in Nutrition Research,NULL
+ANSC 526,Adv Companion Animal Nutrition,ANSC 422 
+ANSC 543,Bioinformatics,NULL
+ANSC 590,Animal Sciences Seminar,NULL
+ANSC 591,Grad Bioinformatics Seminar,NULL
+ANSC 593,Res Studies in Animal Sciences,NULL
+ANSC 599,Thesis Research,NULL
+ANTH 101,Introduction to Anthropology,NULL
+ANTH 103,Anthro in a Changing World,NULL
+ANTH 106,Hist Arch Americas,NULL
+ANTH 109,Religion & Society in West II,NULL
+ANTH 175,Archaeology and Pop Culture,NULL
+ANTH 199,Undergraduate Open Seminar,NULL
+ANTH 210,Families in Global Perspective,NULL
+ANTH 230,Sociocultural Anthropology,NULL
+ANTH 240,Biological Anthropology,ANTH 102 ANTH 143 
+ANTH 246,Forensic Science,NULL
+ANTH 247,Forensic Science DNA Lab,ANTH 246 
+ANTH 249,Evolution and Human Disease,NULL
+ANTH 250,The World Through Museums,NULL
+ANTH 261,Intro to the African Diaspora,NULL
+ANTH 270,Language in Culture,NULL
+ANTH 271,Language in Culture-ACP,NULL
+ANTH 342,Animal Behavior,NULL
+ANTH 361,Ecology and Human Health,NULL
+ANTH 379,Medical Anthropology,ANTH 230 ANTH 260 
+ANTH 390,Individual Study,ANTH 391 ANTH 495 
+ANTH 399,Special Topics,NULL
+ANTH 404,Disability  Culture & Society,NULL
+ANTH 414,Writing Ethnography,NULL
+ANTH 432,Genes and Behavior,NULL
+ANTH 436,Biogeography,NULL
+ANTH 444,Methods in Bioanthropology,ANTH 240 
+ANTH 445,Research in Bioanthropology,ANTH 240 
+ANTH 447,Advanced Skeletal Biology,ANTH 347 
+ANTH 454,Archaeological Field School,NULL
+ANTH 455,Lab Analysis in Archaeology,ANTH 102 
+ANTH 459,The Ancient Maya,ANTH 105 
+ANTH 462,Museum Theory and Practice,NULL
+ANTH 466,Class  Culture and Society,ANTH 103 ANTH 230 
+ANTH 471,Ethnography through Language,ANTH 230 ANTH 270 
+ANTH 495,Honors Senior Thesis II,ANTH 390 
+ANTH 496,Individual Field Research,ANTH 230 ANTH 497 
+ANTH 497,Individual Field Data Analysis,ANTH 230 
+ANTH 499,Topics in Anthropology,NULL
+ANTH 523,Dynamic Embodiment,NULL
+ANTH 555,The Archaeology of Complexity,NULL
+ANTH 570,Cultural Aspects of Tourism,NULL
+ANTH 589,Readings in Anthropology,NULL
+ANTH 590,Dissertation Readings,NULL
+ANTH 599,Thesis Research,NULL
+ARAB 150,Lang&Culture of Arab World,NULL
+ARAB 202,Elementary Standard Arabic II,ARAB 201 
+ARAB 211,Colloquial Arabic II,ARAB 210 
+ARAB 404,Intermediate Stand Arabic II,ARAB 403 
+ARAB 406,Advanced Standard Arabic II,ARAB 405 
+ARAB 408,Topics Stand Arabic LangLit II,ARAB 407 
+ARAB 410,AdvTop Stand Arabic LangLit II,ARAB 409 
+ARAB 490,Readings in Advanced Arabic,ARAB 410 
+ARCH 172,Drawing and Modeling,NULL
+ARCH 199,Undergraduate Open Seminar,NULL
+ARCH 222,Islamic Gardens & Architecture,NULL
+ARCH 232,Structural Fundamentals,MATH 220 MATH 221 MATH 231 PHYS 101 
+ARCH 274,Representation,NULL
+ARCH 314,History of World Landscapes,NULL
+ARCH 341,Environment Tech HVAC,ARCH 233 
+ARCH 342,Environment Tech Ltg & Acoust,ARCH 233 
+ARCH 352,Mech of Mat & Design Appl,ARCH 351 
+ARCH 374,Arch Design and the City,ARCH 373 
+ARCH 400,Senior Honors in Architecture,NULL
+ARCH 401,Independent Study,NULL
+ARCH 409,Special Topics in Spanish Arch,ARCH 210 
+ARCH 415,Modernity’s Mirror: Nineteenth-Century Architecture 1750-1900,ARCH 210 ARTH 112 
+ARCH 416,Modern American Architecture,ARCH 210 ARTH 112 
+ARCH 434,Environmental Control Systems I,ARCH 374 
+ARCH 452,Theory of Reinforced Concrete,ARCH 352 
+ARCH 468,Overseas Architectural Studies,NULL
+ARCH 472,Arch Des in Landscape & Cities,ARCH 471 ARCH 233 
+ARCH 475,Arch Design & Development,ARCH 374 ARCH 472 
+ARCH 476,Arch Design & Exploration,ARCH 475 
+ARCH 491,Arch Professional Internship,NULL
+ARCH 499,Off-Campus Study,NULL
+ARCH 501,Architectural Practice,NULL
+ARCH 510,History of World Landscapes,NULL
+ARCH 517,Architectural History 1850-Present,NULL
+ARCH 544,Bldg Sys & Design Integration,NULL
+ARCH 553,Adv Reinforced Concrete Design,ARCH 551 ARCH 560 
+ARCH 556,Advanced Structural Planning,ARCH 552 ARCH 553 ARCH 554 ARCH 555 
+ARCH 558,Structural Wood Design,ARCH 451 
+ARCH 560,Advanced Structural Analysis,ARCH 551 
+ARCH 563,Soc/Beh Research Designed Env,NULL
+ARCH 571,Design: Detail and Architectonics,NULL
+ARCH 572,Design: Behavior and Environment,NULL
+ARCH 573,Design: Technology and Performance,NULL
+ARCH 574,Design: Architecture and Urban Design,ARCH 536 
+ARCH 576,Architectural Design Seminar,NULL
+ARCH 590,Directed Research,NULL
+ARCH 591,Spec Prob Arch Hist & Pres,NULL
+ARCH 593,Spec Prob Arch Practice & Mgt,NULL
+ARCH 597,Spec Prob Arch Design,NULL
+ARCH 599,Thesis Research,NULL
+ART 100,Understanding Visual Culture,NULL
+ART 102,Drawing for Non-Majors,NULL
+ART 103,Painting for Non-Majors,NULL
+ART 104,Sculpture for Non-Majors,NULL
+ART 140,Introduction to Art,NULL
+ART 150,Introduction to Drawing,NULL
+ART 152,Experimental Photography,NULL
+ART 154,Digital Video,NULL
+ART 155,Introduction to Graphic Design - Unit One,NULL
+ART 191,Unit One Studio/Seminar,NULL
+ART 199,Undergraduate Open Seminar,NULL
+ART 299,Special Topics in Art,NULL
+ART 310,Design Thinking,NULL
+ARTD 101,Introduction to Industrial Design,NULL
+ARTD 151,Introduction to Graphic Design,NULL
+ARTD 160,The Image World,NULL
+ARTD 202,Industrial Design II,ARTD 201 ARTD 224 ARTD 225 
+ARTD 209,Chado (The Way of Tea),NULL
+ARTD 217,Graphic Design for Non-Majors,NULL
+ARTD 222,Typographic Practice,NULL
+ARTD 228,Computer Applications,ARTD 201 ARTD 202 
+ARTD 260,Basic Photography,NULL
+ARTD 261,Photography II,ARTD 260 
+ARTD 299,Spec Topics in Design Courses,NULL
+ARTD 302,Industrial Design IV,ARTD 301 
+ARTD 318,Digital Interaction,NULL
+ARTD 326,Sustainability & Manufacturing,NULL
+ARTD 333,Type & Image,ARTD 222 
+ARTD 362,Photography Workshop,NULL
+ARTD 391,Special Problems in Design,NULL
+ARTD 399,Internship in Design,NULL
+ARTD 402,Industrial Design VI,ARTD 401 
+ARTD 415,Ninth Letter,NULL
+ARTD 444,Typographic Systems,ARTD 318 ARTD 333 
+ARTD 448,Professional Design Practice,NULL
+ARTD 451,Ethics of a Designer in a Global Economy,ARTD 333 
+ARTD 460,Advanced Photography,NULL
+ARTD 471,Graphic Design Capstone,ARTD 444 ARTD 451 
+ARTD 490,Senior Honors,NULL
+ARTD 502,Industrial Design II,ARTD 501 
+ARTD 504,Industrial Design IV,ARTD 503 
+ARTD 570,Design Methods Workshop,NULL
+ARTD 591,Special Problems in Design,NULL
+ARTD 595,Design Laboratory,NULL
+ARTD 599,Industrial Design Thesis,NULL
+ARTE 101,Art  Design  and Society,NULL
+ARTE 201,Foundations of Art Education,NULL
+ARTE 260,Museums in Action,NULL
+ARTE 301,Curriculum  Assessment  and Art Education,ARTE 203 ARTE 204 
+ARTE 391,Independent Study,NULL
+ARTE 401,Teaching Seminar,ARTE 302 EDPR 438 EDPR 442 
+ARTE 490,Senior Honors,NULL
+ARTE 501,Issues in Art Education,NULL
+ARTE 502,Curriculum Development in Art,NULL
+ARTE 591,Independent Graduate Studies,NULL
+ARTE 599,Thesis Research,NULL
+ARTF 102,Observational Drawing,NULL
+ARTF 104,Expressive Drawing,NULL
+ARTF 106,Visualization Drawing,NULL
+ARTF 199,Undergraduate Open Seminar,NULL
+ARTH 110,Introduction to the History of Art and Visual Culture,NULL
+ARTH 113,Introduction to African Art,NULL
+ARTH 114,Introduction to East Asian Art,NULL
+ARTH 235,Art  Power and Culture in 17th-Century Europe,NULL
+ARTH 241,Modern Art  1880-1940,NULL
+ARTH 257,History of Photography,NULL
+ARTH 313,Modern and Contemp African Art,NULL
+ARTH 344,Spanish Modern Art,NULL
+ARTH 391,Individual Art History Topics,NULL
+ARTH 395,Junior Seminar in Art History,NULL
+ARTH 416,The Archaeology of Italy,NULL
+ARTH 435,Italian Baroque Art,NULL
+ARTH 462,Museum Theory and Practice,NULL
+ARTH 489,Senior Art-History Honors-BA,NULL
+ARTH 490,Senior Art-History Honors-BFA,NULL
+ARTH 491,Topics in Art History,NULL
+ARTH 501,Seminar in Chinese Art,ARTH 401 
+ARTH 541,Seminar in Modern Art,NULL
+ARTH 591,Individual Readings,NULL
+ARTH 599,Thesis Research,NULL
+ARTS 201,Crafts Design,NULL
+ARTS 205,Introduction to Printmaking,NULL
+ARTS 210,Ceramics Sculpture I,NULL
+ARTS 230,Jewelry/Metals I,NULL
+ARTS 231,Jewelry/Metals II,ARTS 230 
+ARTS 241,Image Practice,NULL
+ARTS 243,Time Arts I,NULL
+ARTS 244,Interaction I,NULL
+ARTS 250,Life Drawing,ARTF 102 ARTF 104 
+ARTS 251,Beginning Painting,NULL
+ARTS 252,Making and Meaning,ARTS 102 ARTS 104 
+ARTS 280,Beginning Sculpture,NULL
+ARTS 299,Spec Topics in Studio Art,NULL
+ARTS 330,Jewelry Metals III,ARTS 231 
+ARTS 331,Jewelry Metals IV,ARTS 330 
+ARTS 332,Metal Technology,ARTS 330 
+ARTS 351,Intermediate Studio II,ARTS 350 
+ARTS 354,Intermediate Painting,ARTS 251 
+ARTS 381,Intermediate Sculpture,ARTS 280 
+ARTS 391,Independent Study,NULL
+ARTS 392,Current Art Issues Seminar,NULL
+ARTS 405,Special Topics in Printmaking,ARTS 205 
+ARTS 430,Jewelry Metals V,ARTS 331 
+ARTS 431,Jewelry Metals VI,ARTS 430 
+ARTS 444,Interaction II,ARTS 344 
+ARTS 445,Special Topics in New Media,NULL
+ARTS 449,Advanced Seminar in New Media,NULL
+ARTS 451,Advanced Studio II,ARTS 450 
+ARTS 454,Advanced Drawing,NULL
+ARTS 490,Senior Honors,NULL
+ARTS 591,Graduate Studio,NULL
+ARTS 595,Graduate Laboratory,NULL
+ASRM 210,Theory of Interest,MATH 231 
+ASRM 390,Introduction to Actuarial Research,NULL
+ASRM 392,Actuarial Problem Solving,NULL
+ASRM 401,Actuarial Statistics I,NULL
+ASRM 406,Linear Algebra with Financial Applications,MATH 241 ASRM 210 MATH 210 FIN 221 
+ASRM 409,Stochastic Processes for Finance and Insurance,ASRM 401 MATH 408 MATH 461 
+ASRM 410,Investments and Financial Markets,STAT 409 STAT 410 
+ASRM 450,Methods of Applied Statistics,NULL
+ASRM 451,Basics of Statistical Learning,NULL
+ASRM 453,Applied Bayesian Analysis,NULL
+ASRM 461,Loss Models,ASRM 401 MATH 408 MATH 461 MATH 463 ASRM 402 MATH 409 MATH 464 
+ASRM 472,Life Contingencies II,ASRM 471 MATH 471 
+ASRM 490,Actuarial Research,ASRM 390 
+ASRM 499,Topics in Actuarial Science,NULL
+ASRM 551,Statistical Learning,NULL
+ASRM 552,Predictive Analytics,ASRM 401 STAT 410 
+ASRM 561,Loss Data Analytics & Credibility,ASRM 401 MATH 408 MATH 461 MATH 463 
+ASRM 595,Advanced Topics in Actuarial Science and Risk Analytics,NULL
+ASRM 598,Literature Seminar,NULL
+ASST 199,Undergraduate Open Seminar,NULL
+ASST 208,Cultures & Literatures of South Asia,NULL
+ASST 390,Individual Study,NULL
+ASST 590,Individual Study and Research,NULL
+ASTR 100,Introduction to Astronomy,NULL
+ASTR 121,Solar System and Worlds Beyond,NULL
+ASTR 122,Stars and Galaxies,NULL
+ASTR 150,Killer Skies: Astro-Disasters,NULL
+ASTR 210,Introduction to Astrophysics,PHYS 211 
+ASTR 310,Computing in Astronomy,PHYS 211 MATH 220 ASTR 210 
+ASTR 330,Extraterrestrial Life,NULL
+ASTR 390,Individual Study,NULL
+ASTR 401,Scientific Writing for Astronomy,NULL
+ASTR 405,Planetary Systems,PHYS 212 ASTR 210 PHYS 213 
+ASTR 414,Astronomical Techniques,MATH 241 PHYS 212 ASTR 210 PHYS 213 PHYS 214 
+ASTR 490,Senior Thesis,NULL
+ASTR 496,Seminar in Astronomy,NULL
+ASTR 506,Galaxies,ASTR 406 
+ASTR 590,Individual Study,NULL
+ASTR 596,Seminar in Special Topics,NULL
+ASTR 599,Thesis Research,NULL
+ATMS 100,Introduction to Meteorology,NULL
+ATMS 120,Severe and Hazardous Weather,NULL
+ATMS 140,Climate and Global Change,NULL
+ATMS 199,Undergraduate Open Seminar,NULL
+ATMS 201,General Physical Meteorology,MATH 220 MATH 221 MATH 231 PHYS 211 
+ATMS 205,Introduction to Computational Geosciences,NULL
+ATMS 304,Radiative Transfer-Remote Sens,MATH 241 PHYS 212 
+ATMS 305,Computing and Data Analysis,MATH 241 
+ATMS 306,Cloud Physics,ATMS 301 
+ATMS 307,Climate Processes,ATMS 201 
+ATMS 311,Environmental Issues Today,NULL
+ATMS 312,Atmospheric Dynamics II,ATMS 301 ATMS 302 
+ATMS 313,Synoptic Weather Forecasting,ATMS 302 ATMS 303 
+ATMS 314,Mesoscale Dynamics,ATMS 301 ATMS 302 ATMS 303 
+ATMS 315,Meteorological Instrumentation,ATMS 201 ATMS 305 
+ATMS 411,Satellite Remote Sensing,MATH 285 PHYS 212 
+ATMS 420,Atmospheric Chemistry,CHEM 102 PHYS 211 MATH 241 
+ATMS 447,Climate Change Assessment,NULL
+ATMS 490,Individual Study,NULL
+ATMS 492,Capstone Undergraduate Research,NULL
+ATMS 502,Numerical Fluid Dynamics,MATH 285 
+ATMS 505,Weather Systems,NULL
+ATMS 507,Climate Dynamics,NULL
+ATMS 510,Precipitation Physics,ATMS 504 
+ATMS 535,Aerosol Sampling and Analysis,NULL
+ATMS 590,Individual Study,NULL
+ATMS 591,Atmospheric Sciences Seminar,NULL
+ATMS 596,Non-Thesis Research,NULL
+ATMS 597,Special Topics in Atmospheric Sciences,NULL
+ATMS 599,Thesis Research,NULL
+BADM 199,Undergraduate Open Seminar,NULL
+BADM 205,Business Location Decisions,NULL
+BADM 210,Business Analytics I,NULL
+BADM 211,Business Analytics II,BADM 210 
+BADM 300,The Legal Environment of Bus,NULL
+BADM 303,Principles of Public Policy,NULL
+BADM 310,Mgmt and Organizational Beh,NULL
+BADM 311,Leading Individuals and Teams,NULL
+BADM 312,Designing and Managing Orgs,NULL
+BADM 313,Strategic Human Resource Management,NULL
+BADM 314,Leading Negotiations,NULL
+BADM 320,Principles of Marketing,NULL
+BADM 322,Marketing Research,NULL
+BADM 323,Marketing Communications,NULL
+BADM 324,Purchasing and Supply Mgmnt,NULL
+BADM 325,Consumer Behavior,NULL
+BADM 326,Pricing Policies,NULL
+BADM 327,Marketing to Business and Govt,NULL
+BADM 329,New Product Development,NULL
+BADM 331,Making Things,NULL
+BADM 333,Sustainable Product Design & Marketing Plans II: Bottom-Up Enterprise & Marketing Innovation,BADM 332 
+BADM 335,Supply Chain Management Basics,NULL
+BADM 337,Practicum in Supply Chain Mgt,NULL
+BADM 340,Ethical Dilemmas of Business,NULL
+BADM 350,IT for Networked Organizations,NULL
+BADM 351,E-Business Management,BADM 350 
+BADM 352,Database Design and Management,NULL
+BADM 353,Info Sys Analysis and Design,BADM 350 
+BADM 356,Data Science and Analytics,NULL
+BADM 357,Digital Making Seminar,NULL
+BADM 359,Business Problem Formulation and Solution,NULL
+BADM 366,Product Design and Development,NULL
+BADM 374,Management Decision Models,NULL
+BADM 375,Operations Management,NULL
+BADM 378,Logistics Management,NULL
+BADM 379,Business Process Improvement,NULL
+BADM 380,International Business,NULL
+BADM 381,Multinational Management,NULL
+BADM 382,International Marketing,NULL
+BADM 394,Senior Research I,NULL
+BADM 395,Senior Research II,NULL
+BADM 403,Corporate & Commercial Law,NULL
+BADM 420,Advanced Marketing Management,NULL
+BADM 438,Agri-food Strategic Management,NULL
+BADM 440,Business Applications of GIS,NULL
+BADM 445,Small Business Consulting,NULL
+BADM 446,Entrepreneurship: New Venture Creation,NULL
+BADM 449,Business Policy and Strategy,NULL
+BADM 453,Business Intelligence,NULL
+BADM 461,Tech  Eng  & Mgt Final Project,BADM 366 BADM 367 BADM 460 
+BADM 508,Leadership and Teams,NULL
+BADM 509,Managing Organizations,NULL
+BADM 510,Founds of Organizational Behav,NULL
+BADM 512,HR Management and Strategy,NULL
+BADM 520,Marketing Management,NULL
+BADM 521,Marketing Strategy,NULL
+BADM 524,Pricing Strategy and Tactics,NULL
+BADM 533,Sustainable Product Design & Enterprise Plan Development - II: Bottom-Up Enterprise & Innovation,BADM 532 
+BADM 537,Advanced Topics in Marketing,NULL
+BADM 538,Res Sem in Consumer Behavior,NULL
+BADM 540,Frontiers in Technology,NULL
+BADM 543,Technology Strategy,NULL
+BADM 544,Strategic Management,BADM 509 BADM 520 BADM 567 FIN 520 
+BADM 546,Strategy Content Research,NULL
+BADM 549,Current Strategy Research,NULL
+BADM 550,Technology Practicum,NULL
+BADM 555,Info Sys Development and Mgt,NULL
+BADM 557,Dec Support and Knowledge Mgt,NULL
+BADM 562,Social Media Strategy,NULL
+BADM 564,Business Process Improvement,BADM 567 MBA 502 
+BADM 566,Supply Chain Management,NULL
+BADM 571,Digital Business & IT Strategy,NULL
+BADM 572,Stat for Mgt Decision Making,NULL
+BADM 573,Decision Analytics,NULL
+BADM 574,Simulation and Risk Analysis,NULL
+BADM 583,Current Topics in Intl Bus,NULL
+BADM 584,Global Marketing,NULL
+BADM 588,Business Practice Immersion,NULL
+BADM 589,Project Management,NULL
+BADM 590,Seminar in Business Admin,NULL
+BADM 591,Proseminar in Business Admin,NULL
+BADM 593,Research in Special Fields,NULL
+BADM 594,Independent Study and Research,NULL
+BADM 599,Dissertation Research,NULL
+BASQ 401,Beginners' Basque,NULL
+BCOG 200,Introduction to Programming for the Brain and Cognitive Sciences,NULL
+BCOG 301,Intelligence and the Brain,NULL
+BCS 102,First Year Bosnian-Croatian-Serbian II,BCS 101 
+BCS 115,South Slavic Cultures,NULL
+BCS 199,Undergraduate Open Seminar,NULL
+BCS 202,Second Year Bosnian-Croatian-Serbian II,BCS 201 
+BIOC 199,Undergraduate Open Seminar,NULL
+BIOC 290,Individual Topics,NULL
+BIOC 445,Current Topics in Biochemistry,MCB 354 MCB 406 
+BIOC 446,Physical Biochemistry,CHEM 440 MCB 354 MCB 450 
+BIOC 455,Technqs Biochem & Biotech,CHEM 232 CHEM 236 MCB 251 MCB 354 MCB 450 
+BIOC 492,Senior Thesis,MCB 354 BIOC 455 
+BIOC 590,Individual Topics,NULL
+BIOC 595,Biochemistry Seminar,NULL
+BIOC 599,Thesis Research,NULL
+BIOE 120,Introduction to Bioengineering,NULL
+BIOE 198,Special Topics,NULL
+BIOE 202,Cell & Tissue Engineering Lab,MCB 150 BIOE 206 
+BIOE 205,Signals & Systems in Bioengrg,CS 101 PHYS 212 MATH 285 
+BIOE 210,Linear Algebra for Biomedical Data Science,CS 101 MATH 231 
+BIOE 297,Individual Study,NULL
+BIOE 298,Special Topics,NULL
+BIOE 303,Quantitative Physiology Lab,BIOE 302 
+BIOE 310,Comp Tools Bio Data,BIOE 205 BIOE 206 
+BIOE 360,Transport & Flow in Bioengrg,BIOE 201 BIOE 220 MATH 285 
+BIOE 397,Individual Study,NULL
+BIOE 414,Biomedical Instrumentation,BIOE 205 ECE 205 ECE 210 
+BIOE 415,Biomedical Instrumentation Lab,BIOE 414 
+BIOE 420,Intro Bio Control Systems,BIOE 205 BIOE 302 BIOE 303 BIOE 414 BIOE 415 
+BIOE 436,Senior Design II,BIOE 435 
+BIOE 460,Gene Editing Lab,BIOE 202 BIOE 206 
+BIOE 467,Biophotonics,NULL
+BIOE 477,Imaging and Therapeutic Probes,NULL
+BIOE 479,Cancer Nanotechnology,BIOE 206 CHEM 232 
+BIOE 481,Whole-Body Musculoskel Biomech,NULL
+BIOE 487,Stem Cell Bioengineering,BIOE 476 
+BIOE 497,Individual Study,NULL
+BIOE 499,Senior Thesis,NULL
+BIOE 500,Graduate Seminar,NULL
+BIOE 507,Advanced Bioinstrumentation,BIOE 504 
+BIOE 570,Seminar Series,NULL
+BIOE 572,Biological Measurement II,BIOE 571 
+BIOE 574,Innovation and Introduction to Financial Decision Making,NULL
+BIOE 575,Capstone Project,NULL
+BIOE 597,Individual Study,NULL
+BIOE 598,Special Topics,NULL
+BIOE 599,Thesis Research,NULL
+BIOL 599,Thesis Research,NULL
+BIOP 419,Brain  Behavior & Info Process,NULL
+BIOP 586,Special Topics in Biophysics,NULL
+BIOP 590,Individual Topics,NULL
+BIOP 595,Biophysics Seminars,NULL
+BIOP 599,Thesis Research,NULL
+BSE 634,Clinical Neuroscience,NULL
+BSE 635,Musculoskeletal,NULL
+BTW 250,Principles Bus Comm,NULL
+BTW 261,Principles Tech Comm,NULL
+BTW 263,Writing in the Disciplines,NULL
+BTW 271,Persuasive Writing,NULL
+BTW 290,Individual Study,NULL
+BTW 402,Descriptive English Grammar,NULL
+BUS 199,Undergraduate Open Seminar,NULL
+BUS 201,Business Dynamics,BUS 101 
+BUS 299,BUS Internship,NULL
+BUS 302,Principles Prof Responsibility,BUS 101 
+BUS 399,Business Study Abroad,NULL
+CAS 587,Advanced Study: Special Topics,NULL
+CB 290,Independent Research,NULL
+CB 434,Pesticide Toxicology,NULL
+CB 514,Neurotoxicology,MCB 450 
+CB 540,Wildlife Ecosystem Health,NULL
+CB 554,Systems Toxicology,NULL
+CB 590,Seminar,NULL
+CB 591,Biosciences Seminar Series,NULL
+CB 592,Special Problems,NULL
+CB 596,Interdisciplinary Tox Sem,NULL
+CB 599,Thesis Research,NULL
+CB 692,Special Problems,NULL
+CDB 590,Individual Topics,NULL
+CDB 595,Graduate Sem Cell Devel Biol,MCB 400 
+CDB 599,Thesis Research,NULL
+CEE 201,Systems Engrg & Economics,MATH 231 MATH 225 
+CEE 202,Engineering Risk & Uncertainty,MATH 241 
+CEE 300,Behavior of Materials,CHEM 104 TAM 251 
+CEE 310,Transportation Engineering,TAM 251 CEE 202 
+CEE 320,Construction Engineering,CEE 201 CS 101 CEE 202 
+CEE 330,Environmental Engineering,CHEM 104 
+CEE 350,Water Resources Engineering,CEE 202 CEE 201 
+CEE 360,Structural Engineering,TAM 251 
+CEE 380,Geotechnical Engineering,TAM 251 
+CEE 398,Special Topics,NULL
+CEE 410,Railway Signaling & Control,CEE 310 
+CEE 411,RR Project Design & Constr,CEE 310 
+CEE 415,Geometric Design of Roads,CEE 310 
+CEE 417,Urban Transportation Planning,NULL
+CEE 418,Public Transportation Systems,CEE 310 
+CEE 420,Construction Productivity,CEE 320 
+CEE 421,Construction Planning,CEE 320 
+CEE 422,Construction Cost Analysis,CEE 320 
+CEE 424,Sustainable Const Methods,CEE 320 CEE 420 CEE 421 CEE 422 
+CEE 433,Water Technology and Policy,CEE 340 CEE 350 
+CEE 437,Water Quality Engineering,CEE 330 TAM 335 
+CEE 440,Fate Cleanup Environ Pollutant,CEE 330 
+CEE 442,Environmental Engineering Principles  Physical,CEE 437 
+CEE 447,Atmospheric Chemistry,NULL
+CEE 449,Environmental Engineering Lab,CEE 437 CEE 446 
+CEE 452,Hydraulic Analysis and Design,TAM 335 
+CEE 453,Urban Hydrology and Hydraulics,CEE 350 
+CEE 460,Steel Structures I,CEE 360 
+CEE 461,Reinforced Concrete I,CEE 360 
+CEE 462,Steel Structures II,CEE 460 
+CEE 465,Design of Structural Systems,CEE 460 CEE 461 
+CEE 468,Prestressed Concrete,CEE 461 
+CEE 470,Structural Analysis,CEE 360 
+CEE 480,Foundation Engineering,CEE 380 
+CEE 483,Soil Mechanics and Behavior,CEE 380 
+CEE 484,Applied Soil Mechanics,CEE 483 
+CEE 495,Professional Practice,NULL
+CEE 497,Independent Study,NULL
+CEE 498,Special Topics,NULL
+CEE 503,Constr Matls Deterioration,CEE 401 CEE 405 
+CEE 506,Pavement Design II,CEE 406 
+CEE 517,Traffic Signal Systems,CEE 416 
+CEE 537,Water Quality Control Proc I,CEE 442 CEE 443 
+CEE 538,Water Quality Control Proc II,CEE 442 CEE 443 CEE 444 
+CEE 544,Advanced Surface Science,CEE 442 
+CEE 545,Aerosol Sampling and Analysis,CEE 446 MATH 285 
+CEE 546,Air Quality Control,CEE 442 CEE 446 
+CEE 550,Hydroclimatology,CEE 450 
+CEE 553,River Morphodynamics,TAM 335 
+CEE 554,Hydrologic Variability,CEE 450 
+CEE 562,Highway Bridge Design,CEE 460 CEE 461 CEE 472 
+CEE 570,Finite Element Methods,CEE 471 TAM 551 
+CEE 572,Earthquake Engineering,CEE 472 
+CEE 573,Structural Dynamics II,CEE 472 
+CEE 583,Shear Strength of Soils,CEE 483 
+CEE 585,Deep Foundations,CEE 484 
+CEE 592,Sustainable Urban Systems,ATMS 421 CEE 491 NRES 439 UP 456 UP 480 NRES 454 UP 418 GEOG 480 
+CEE 595,Seminar,NULL
+CEE 597,Independent Study,NULL
+CEE 598,Special Topics,NULL
+CEE 599,Thesis Research,NULL
+CHBE 121,CHBE Profession,CHEM 102 CHEM 202 
+CHBE 199,Undergraduate Open Seminar,NULL
+CHBE 202,Cooperative Education Practice,NULL
+CHBE 210,CHBE Internship,NULL
+CHBE 221,Principles of CHE,CHEM 104 CHEM 204 CS 101 
+CHBE 297,Individual Study Sophomores,NULL
+CHBE 321,Thermodynamics,CHBE 221 
+CHBE 397,Individual Study for Juniors,NULL
+CHBE 421,Momentum and Heat Transfer,CHBE 221 
+CHBE 422,Mass Transfer Operations,CHBE 321 CHBE 421 
+CHBE 424,Chemical Reaction Engineering,CHBE 422 
+CHBE 430,Unit Operations Laboratory,CHBE 422 CHBE 424 
+CHBE 431,Process Design,CHBE 422 CHBE 424 
+CHBE 440,Process Control and Dynamics,CHBE 421 MATH 285 CS 101 
+CHBE 455,Polymers Synthesis and Industrial Applications,NULL
+CHBE 473,Biomolecular Engineering,NULL
+CHBE 476,Biotransport,CHBE 421 CHBE 422 
+CHBE 494,Special Topics,NULL
+CHBE 497,Individual Study for Seniors,NULL
+CHBE 499,Senior Thesis,NULL
+CHBE 510,Graduate CHBE Internship,NULL
+CHBE 522,Fluid Dynamics,NULL
+CHBE 525,Statistical Thermodynamics for Chemical Engineers,CHBE 321 
+CHBE 565,CHBE Seminar,CHBE 422 
+CHBE 571,Bioinformatics,NULL
+CHBE 593,Individual Study,NULL
+CHBE 594,Special Topics,NULL
+CHBE 597,Special Problems,NULL
+CHBE 598,Research Seminar,NULL
+CHBE 599,Thesis Research,NULL
+CHEM 101,Introductory Chemistry,MATH 112 
+CHEM 102,General Chemistry I,MATH 112 CHEM 102 CHEM 103 
+CHEM 103,General Chemistry Lab I,CHEM 102 
+CHEM 104,General Chemistry II,CHEM 102 CHEM 202 
+CHEM 105,General Chemistry Lab II,CHEM 102 CHEM 103 CHEM 104 
+CHEM 108,Chemistry  Everyday Phenomena,MATH 112 
+CHEM 197,Individual Study Freshman,NULL
+CHEM 199,Undergraduate Open Seminar,NULL
+CHEM 204,Accelerated Chemistry II,CHEM 202 CHEM 203 CHEM 205 
+CHEM 205,Accelerated Chemistry Lab II,CHEM 204 
+CHEM 232,Elementary Organic Chemistry I,CHEM 104 CHEM 105 CHEM 204 
+CHEM 233,Elementary Organic Chem Lab I,CHEM 232 
+CHEM 236,Fundamental Organic Chem I,CHEM 204 CHEM 222 CHEM 223 
+CHEM 237,Structure and Synthesis,CHEM 236 
+CHEM 293,Cooperative Education Practice,NULL
+CHEM 297,Individual Study Sophomore,NULL
+CHEM 312,Inorganic Chemistry,CHEM 232 CHEM 236 
+CHEM 315,Instrumental Chem Systems Lab,CHEM 237 CHEM 223 CHEM 233 
+CHEM 317,Inorganic Chemistry Lab,CHEM 312 
+CHEM 332,Elementary Organic Chem II,CHEM 232 CHEM 233 
+CHEM 360,Chemistry of the Environment,CHEM 102 CHEM 202 CHEM 232 CHEM 236 CHEM 360 
+CHEM 397,Individual Study Junior,NULL
+CHEM 420,Instrumental Characterization,CHEM 440 CHEM 442 
+CHEM 436,Fundamental Organic Chem II,CHEM 236 CHEM 237 CHEM 232 CHEM 233 
+CHEM 437,Organic Chemistry Lab,CHEM 233 CHEM 237 CHEM 332 CHEM 436 
+CHEM 442,Physical Chemistry I,CHEM 204 CHEM 222 MATH 225 MATH 415 PHYS 211 PHYS 212 PHYS 214 
+CHEM 444,Physical Chemistry II,CHEM 442 
+CHEM 445,Physical Principles Lab I,CHEM 315 CHEM 444 
+CHEM 447,Physical Principles Lab II,CHEM 445 
+CHEM 472,Physical Biochemistry,NULL
+CHEM 474,Drug Discovery & Development,CHEM 332 CHEM 436 MCB 354 MCB 450 
+CHEM 482,Polymer Physics,NULL
+CHEM 492,Special Topics in Chemistry,NULL
+CHEM 494,Lab Safety Fundamentals,NULL
+CHEM 497,Individual Study Senior,NULL
+CHEM 499,Senior Thesis,NULL
+CHEM 515,Inorganic Chemistry Seminar,NULL
+CHEM 516,Physical Inorganic Chemistry,CHEM 444 
+CHEM 517,Advanced Inorganic Chem Lab,NULL
+CHEM 524,Electrochemical Methods,NULL
+CHEM 525,Analytical Chemistry Seminar,NULL
+CHEM 530,Structure and Spectroscopy,CHEM 332 CHEM 436 
+CHEM 535,Organic Chemistry Seminar,NULL
+CHEM 536,Organic Chemistry Research,NULL
+CHEM 538,Topics in Organic Chemistry,CHEM 532 CHEM 534 
+CHEM 542,Quantum Mech and Spectroscopy,CHEM 540 
+CHEM 545,Physical Chemistry Seminar,NULL
+CHEM 546,Advanced Statistical Mechanics,CHEM 540 CHEM 544 
+CHEM 571,Chemical Biology Laboratory,NULL
+CHEM 575,Chemical Biology Seminar,NULL
+CHEM 585,Materials Chemistry Seminar,NULL
+CHEM 588,Physical Methods Mat Chem,NULL
+CHEM 590,Special Topics in Chemistry,CHEM 599 
+CHEM 599,Thesis Research,NULL
+CHIN 201,Elementary Chinese I,NULL
+CHIN 202,Elementary Chinese II,CHIN 201 
+CHIN 203,Intermediate Chinese I,CHIN 202 
+CHIN 204,Intermediate Chinese II,CHIN 203 
+CHIN 242,Chinese Reading and Writing,CHIN 241 
+CHIN 306,Advanced Chinese II,CHIN 305 
+CHIN 409,Social Science Rdgs Chinese,NULL
+CHIN 441,Fourth-Year Chinese II,CHIN 440 
+CHIN 490,Readings in Chinese Lit,NULL
+CHLH 100,Contemporary Health,NULL
+CHLH 101,Introduction to Public Health,NULL
+CHLH 125,Orientation KIN & Comm Health,NULL
+CHLH 199,Undergraduate Open Seminar,NULL
+CHLH 200,Mental Health,NULL
+CHLH 201,Public Health Research Methods,NULL
+CHLH 206,Human Sexuality,NULL
+CHLH 210,Community Health Organizations,NULL
+CHLH 243,Drug Use and Abuse,NULL
+CHLH 250,Health Care Systems,NULL
+CHLH 260,Introduction to Medical Ethics,NULL
+CHLH 274,Introduction to Epidemiology,NULL
+CHLH 304,Foundations of Health Behavior,CHLH 100 
+CHLH 330,Disability in American Society,NULL
+CHLH 336,Tomorrow's Environment,NULL
+CHLH 365,Civic Engagement in Wellness,NULL
+CHLH 380,Orientation to Internship,NULL
+CHLH 393,Special Projects,NULL
+CHLH 407,Disability  Culture & Society,NULL
+CHLH 409,Women's Health,CHLH 100 
+CHLH 410,Public Health Practice,CHLH 210 
+CHLH 415,International Health,NULL
+CHLH 421,Health Data Analysis,NULL
+CHLH 444,LGBT Indiv  Fam & Community,NULL
+CHLH 455,Health Services Financing,NULL
+CHLH 457,Health Planning,CHLH 250 
+CHLH 458,Health Administration,NULL
+CHLH 461,Environ Toxicology & Health,NULL
+CHLH 469,Environmental Health,CHLH 274 
+CHLH 485,Community Health Internship,NULL
+CHLH 494,Special Topics,NULL
+CHLH 540,Health Behavior: Theory,NULL
+CHLH 550,Health Policy: United States,CHLH 429 
+CHLH 569,Systematic Review and Meta-analysis,NULL
+CHLH 572,Principles of Epidemiology,NULL
+CHLH 577,Health Program Evaluation,NULL
+CHLH 585,Community Health Internship,CHLH 429 CHLH 474 CHLH 510 
+CHLH 589,MPH Integrative Learning Experience,NULL
+CHLH 591,Seminar,NULL
+CHLH 593,Special Projects,EPSY 480 KIN 501 CHLH 540 
+CHLH 594,Special Topics,NULL
+CHLH 599,Thesis Research,NULL
+CHP 199,Special Topics,NULL
+CHP 395,Interdisciplinary Seminar,NULL
+CI 205,Undergraduate Honors Research,NULL
+CI 395,Independent Study,NULL
+CI 401,Introductory Teaching in a Diverse Society,NULL
+CI 404,Teaching and Assessing Secondary School Students,CI 402 CI 403 EDPR 442 
+CI 407,Theory Practice in Elementary School Teaching II,CI 406 EDPR 432 
+CI 415,Language Varieties  Cultures and Learning,NULL
+CI 420,Foundations of Early Childhood Education,EPSY 236 EPS 201 
+CI 424,Child Development & Technology,NULL
+CI 431,Tchg Elementary Mathematics,MATH 103 
+CI 432,Invest Approach Elem Math Inst,CI 430 CI 431 
+CI 437,Educational Game Design,NULL
+CI 442,Math  Sci  Tech in Early Child,CI 420 MATH 103 EDPR 432 
+CI 443,Mathematics in Early Childhood Education,CI 420 
+CI 444,Social Stud Early Childhood Ed,CI 420 
+CI 446,Culture in the Classroom,NULL
+CI 448,Tchg Elem Social Studies,NULL
+CI 451,Teaching Elementary Science II,CI 450 
+CI 466,Language Literacy in Early Childhood Education II,CI 465 CI 420 CI 443 
+CI 467,Princ Tchg Lit to Child Youth,NULL
+CI 473,Disciplinary Literacy,NULL
+CI 475,Teaching Elementary Reading and Language Arts I,CI 467 
+CI 477,Biling ESL Methods & Material,CI 433 
+CI 484,Learning Technologies,NULL
+CI 489,DELTA Capstone Project,CI 481 
+CI 507,Prob Trends in Spec Fields,NULL
+CI 520,History of Early Childhood Pedagogy and Programs,NULL
+CI 550,Methods of Educational Inquiry,NULL
+CI 560,Trends & Issues Language Arts,NULL
+CI 565,Topics Research and Writing,NULL
+CI 567,Child Lit in the School Curr,CI 467 LIS 404 
+CI 569,Topics Discourse and Writing,NULL
+CI 590,Sem for Adv Stu of Education,NULL
+CI 591,Field Study & Thesis Seminar,NULL
+CI 595,Independent Study,NULL
+CI 599,Thesis Research,NULL
+CIC 500,CIC Traveling Scholar,NULL
+CLCV 102,Medical Terms-GRK & LAT Roots,NULL
+CLCV 111,Mythology of Greece and Rome,NULL
+CLCV 114,Introduction to Greek Culture,NULL
+CLCV 115,Mythology of Greece and Rome,NULL
+CLCV 116,The Roman Achievement,NULL
+CLCV 132,Class Archaeology  Rome-Italy,NULL
+CLCV 160,Ancient Greek & Roman Religion,NULL
+CLCV 199,Undergraduate Open Seminar,NULL
+CLCV 203,Ancient Philosophy,NULL
+CLCV 220,Origins of Western Literature,NULL
+CLCV 221,The Heroic Tradition,NULL
+CLCV 240,Sex & Gender in Antiquity,NULL
+CLCV 291,Freshman Honors Tutorial,NULL
+CLCV 444,The Archaeology of Italy,NULL
+CLCV 492,Senior Thesis,NULL
+CLCV 493,Independent Reading,NULL
+CLCV 498,Senior Survey,NULL
+CLE 612,Clinical Integration II,NULL
+CLE 622,Physical Diagnosis II,NULL
+CMN 101,Public Speaking,NULL
+CMN 102,Intro to Comm Theory & Res,NULL
+CMN 112,Oral & Written Comm II,CMN 111 
+CMN 191,Freshman Honors Tutorial,NULL
+CMN 204,Internship in Teaching Comm,NULL
+CMN 211,Business Communication,CMN 101 
+CMN 212,Intro to Organizational Comm,NULL
+CMN 213,Small Group Communication,NULL
+CMN 215,Interviewing Principles & Practices,CMN 101 CMN 111 CMN 112 
+CMN 220,Communicating Public Policy,NULL
+CMN 230,Intro to Interpersonal Comm,NULL
+CMN 231,Communication and Conflict,NULL
+CMN 232,Intro to Intercultural Comm,NULL
+CMN 250,Social Movement Communication,NULL
+CMN 260,Intro to Health Communication,NULL
+CMN 277,Introduction to Mediated Communication,NULL
+CMN 280,Comm Technology & Society,NULL
+CMN 304,Communication Internship,NULL
+CMN 312,Communicating for Innovation,NULL
+CMN 321,Strategies of Persuasion,NULL
+CMN 323,Argumentation,CMN 101 
+CMN 336,Family Communication,NULL
+CMN 338,Relationships and Technologies,NULL
+CMN 340,Visual Politics,NULL
+CMN 368,Sexual Communication,NULL
+CMN 375,Popular Media and Culture,NULL
+CMN 390,Individual Study,NULL
+CMN 396,Special Topics in Comm,NULL
+CMN 410,Workplace Comm Technology,NULL
+CMN 412,Adv Organizational Comm,CMN 212 
+CMN 421,Persuasion Theory & Research,NULL
+CMN 424,Campaigning to Win,NULL
+CMN 429,Race and the Mass Media,NULL
+CMN 435,Adv Interpersonal Comm,CMN 230 
+CMN 462,Interpersonal Health Comm,NULL
+CMN 463,Organizational Health Comm,NULL
+CMN 464,Health Communication Campaigns,NULL
+CMN 491,Honors Individual Study,NULL
+CMN 493,Honors Senior Thesis,NULL
+CMN 496,Adv Topics in Communication,NULL
+CMN 504,Health & Family Communication,NULL
+CMN 508,Successful Health Campaigns,NULL
+CMN 529,Seminar Communication Theory,NULL
+CMN 538,Seminar Rhetorical Theory,NULL
+CMN 575,Capstone Individual Study,NULL
+CMN 595,Special Problems,NULL
+CMN 599,Thesis Research,NULL
+CPSC 112,Introduction to Crop Sciences,NULL
+CPSC 116,The Global Food Production Web,NULL
+CPSC 117,Agriculture and Science of Coffee,NULL
+CPSC 131,Agriculture in Mythology,NULL
+CPSC 180,Medicinal Plants and Herbology,NULL
+CPSC 199,Special Topics,NULL
+CPSC 241,Intro to Applied Statistics,NULL
+CPSC 261,Biotechnology in Agriculture,NULL
+CPSC 265,Genetic Engineering Lab,NULL
+CPSC 293,Off-Campus Crop Sci Internship,NULL
+CPSC 294,On-Campus Crop Sci Internship,NULL
+CPSC 295,Undergrad Research or Thesis,NULL
+CPSC 336,Tomorrow's Environment,NULL
+CPSC 352,Plant Genetics,IB 103 IB 104 
+CPSC 396,Undergrad Honors Res or Thesis,NULL
+CPSC 418,Crop Growth and Management,IB 103 CPSC 112 
+CPSC 436,Conservation Biology,NULL
+CPSC 440,Applied Statistical Methods I,MATH 112 
+CPSC 453,Principles of Plant Breeding,IB 103 CPSC 352 
+CPSC 475,Insect Pathology,NULL
+CPSC 484,Plant Physiology,NULL
+CPSC 488,Soil Fertility and Fertilizers,NULL
+CPSC 491,Ugrad Bioinformatics Seminar,NULL
+CPSC 499,Advanced Special Topics,NULL
+CPSC 505,Research Methods in Crop Sciences,NULL
+CPSC 518,Crop Growth and Development,CPSC 418 CPSC 484 
+CPSC 526,Herbicide Action in Plants,CPSC 426 CPSC 484 
+CPSC 542,Applied Statistical Methods II,CPSC 440 
+CPSC 556,Plant Breeding Literature,NULL
+CPSC 567,Bioinformatics & Systems Biol,NULL
+CPSC 591,Grad Bioinformatics Seminar,NULL
+CPSC 593,Adv Studies in Crop Sciences,NULL
+CPSC 598,Seminar,NULL
+CPSC 599,Thesis Research,NULL
+CS 101,Intro Computing: Engrg & Sci,MATH 220 MATH 221 
+CS 102,Little Bits to Big Ideas,NULL
+CS 105,Intro Computing: Non-Tech,MATH 112 
+CS 125,Intro to Computer Science,MATH 112 
+CS 126,Software Design Studio,CS 125 
+CS 173,Discrete Structures,CS 125 ECE 220 MATH 220 MATH 221 
+CS 196,Freshman Honors,NULL
+CS 199,Undergraduate Open Seminar in Computer Science,NULL
+CS 210,Ethical & Professional Issues,CS 225 
+CS 225,Data Structures,CS 125 ECE 220 CS 173 MATH 213 
+CS 233,Computer Architecture,CS 125 CS 173 CS 225 
+CS 241,System Programming,CS 225 CS 233 
+CS 242,Programming Studio,CS 241 
+CS 296,Honors Course,NULL
+CS 357,Numerical Methods I,MATH 225 MATH 415 MATH 241 
+CS 361,Probability & Statistics for Computer Science,MATH 220 MATH 221 MATH 225 MATH 415 MATH 416 
+CS 374,Introduction to Algorithms & Models of Computation,CS 225 MATH 225 MATH 415 
+CS 397,Individual Study,NULL
+CS 398,Special Topics,NULL
+CS 410,Text Information Systems,CS 225 
+CS 411,Database Systems,CS 225 
+CS 412,Introduction to Data Mining,CS 225 
+CS 413,Intro to Combinatorics,NULL
+CS 418,Interactive Computer Graphics,CS 225 MATH 225 MATH 415 MATH 241 
+CS 421,Programming Languages & Compilers,CS 233 CS 240 CS 374 
+CS 422,Programming Language Design,CS 421 
+CS 423,Operating Systems Design,CS 241 ECE 391 
+CS 425,Distributed Systems,CS 241 ECE 391 
+CS 428,Software Engineering II,CS 427 
+CS 429,Software Engineering II  ACP,CS 427 
+CS 431,Embedded Systems,CS 241 ECE 391 
+CS 433,Computer System Organization,CS 233 
+CS 438,Communication Networks,CS 241 ECE 391 ECE 313 MATH 461 MATH 463 
+CS 440,Artificial Intelligence,CS 225 ECE 391 
+CS 446,Machine Learning,CS 373 CS 440 
+CS 450,Numerical Analysis,CS 101 CS 125 CS 357 MATH 415 MATH 285 
+CS 460,Security Laboratory,CS 461 
+CS 461,Computer Security I,CS 241 ECE 391 
+CS 463,Computer Security II,CS 461 CS 475 
+CS 465,User Interface Design,CS 225 
+CS 466,Introduction to Bioinformatics,CS 225 
+CS 467,Social Visualization,CS 225 
+CS 468,Tech and Advertising Campaigns,NULL
+CS 476,Program Verification,CS 225 CS 374 MATH 414 
+CS 477,Formal Software Devel Methods,CS 225 CS 373 MATH 414 
+CS 482,Simulation,NULL
+CS 483,Applied Parallel Programming,NULL
+CS 484,Parallel Programming,CS 241 
+CS 491,Seminar,NULL
+CS 492,Senior Project I,NULL
+CS 497,CS Team Project,NULL
+CS 498,Special Topics,NULL
+CS 499,Senior Thesis,NULL
+CS 508,Manycore Parallel Algorithms,NULL
+CS 512,Data Mining Principles,CS 412 
+CS 513,Theory & Practice of Data Cleaning,NULL
+CS 526,Advanced Compiler Construction,CS 426 
+CS 527,Topics in Software Engineering,CS 428 CS 429 
+CS 533,Parallel Computer Architecture,CS 433 
+CS 538,Advanced Computer Networks,CS 438 
+CS 543,Computer Vision,NULL
+CS 544,Optimiz in Computer Vision,CS 450 CS 473 
+CS 555,Numerical Methods for PDEs,CS 450 CS 457 
+CS 565,Human-Computer Interaction,CS 465 
+CS 579,Computational Complexity,CS 473 CS 475 
+CS 591,Advanced Seminar,NULL
+CS 597,Individual Study,NULL
+CS 598,Special Topics,NULL
+CS 599,Thesis Research,NULL
+CSE 401,Numerical Analysis,NULL
+CSE 408,Applied Parallel Programming,NULL
+CSE 412,Numerical Thermo-Fluid Mechs,NULL
+CSE 422,Computer System Organization,NULL
+CSE 423,Operating Systems Design,NULL
+CSE 427,Interactive Computer Graphics,NULL
+CSE 428,Statistical Computing,NULL
+CSE 429,Software Engineering II,NULL
+CSE 440,Statistical Data Management,NULL
+CSE 441,Introduction to Optimization,NULL
+CSE 448,Advanced Data Analysis,NULL
+CSE 451,Finite Element Analysis,NULL
+CSE 461,Computational Aerodynamics,NULL
+CSE 510,Numerical Methods for PDEs,NULL
+CSE 517,Adv Finite Element Methods,NULL
+CSE 521,Computer Architecture,NULL
+CSE 522,Parallel Computer Architecture,NULL
+CSE 542,Statistical Learning,NULL
+CSE 551,Finite Element Methods,NULL
+CSE 566,Numerical Fluid Dynamics,NULL
+CW 100,Intro to Creative Writing,NULL
+CW 104,Introductory Narrative Writing,NULL
+CW 106,Introductory Poetry Writing,NULL
+CW 200,Reading for Writers,CW 104 CW 106 
+CW 202,Topics in Creative Writing,NULL
+CW 204,Intermediate Narrative Writing,CW 104 
+CW 206,Intermediate Poetry Writing,CW 106 
+CW 208,Creative Nonfiction Writing,RHET 233 CW 243 
+CW 243,Inter Expository Writing,NULL
+CW 404,Advanced Narrative Writing,CW 204 
+CW 406,Advanced Poetry Writing,CW 206 
+CW 455,Creative Writing Tutorial,CW 208 CW 404 CW 406 
+CW 460,Intro to Literary Editing,CW 104 CW 106 
+CW 504,Writing Workshop in Fiction,NULL
+CW 506,Writing Workshop in Poetry,NULL
+CW 560,Literary Publishing &Promotion,NULL
+CW 563,Special Topics,NULL
+CW 591,Independent Study,NULL
+CW 595,Final Project,NULL
+CWL 119,Literature of Fantasy,NULL
+CWL 190,Lit of Asia & Africa II,NULL
+CWL 191,Freshman Honors Tutorial,NULL
+CWL 199,Undergraduate Open Seminar,NULL
+CWL 202,Literature and Ideas,CWL 241 CWL 242 
+CWL 207,Indian Cinema in Context,NULL
+CWL 208,Cultures & Literatures of South Asia,NULL
+CWL 220,Origins of Western Literature,NULL
+CWL 226,Humanist Persp of Afro-Am Exp,NULL
+CWL 242,Modern Masterpieces of Western Culture,NULL
+CWL 249,Russian Lit and Revolution,NULL
+CWL 253,Medieval Lit and Culture,NULL
+CWL 254,Grimm's Fairy Tales in Context,NULL
+CWL 255,Renaissance Lit and Culture,NULL
+CWL 257,Enlightenment Lit and Culture,NULL
+CWL 262,Sex & Gender in Antiquity,NULL
+CWL 263,The Heroic Tradition,NULL
+CWL 267,The Short Story,NULL
+CWL 273,The Holocaust in Context,NULL
+CWL 275,Masterpieces of East Asian Lit,NULL
+CWL 320,Lit Responses to the Holocaust,NULL
+CWL 323,Tolstoy,NULL
+CWL 350,South Asian Goddesses,NULL
+CWL 389,French & Comparative Cinema II,NULL
+CWL 412,Mod Chinese Lit in Translation,NULL
+CWL 413,Dante,NULL
+CWL 477,Post-Communist Fiction,NULL
+CWL 481,Topics in Arabic Literature & Culture,NULL
+CWL 493,Senior Thesis and Honors,NULL
+CWL 496,Special Topics in Comp Lit II,NULL
+CWL 502,Methods of Comparative Lit,NULL
+CWL 504,Theories of Cinema,NULL
+CWL 551,Seminar Lit Movements,NULL
+CWL 571,Seminar in Literary Relations,NULL
+CWL 581,Seminar Lit Themes,NULL
+CWL 593,Special Studies,NULL
+CWL 599,Thesis Research,NULL
+CZCH 484,Readings in Czech,CZCH 202 
+DANC 100,Intro to Contemporary Dance,NULL
+DANC 101,Modern Dance I,NULL
+DANC 102,Modern Dance II,DANC 101 
+DANC 103,Contact Improvisation,NULL
+DANC 104,Making Dances,NULL
+DANC 105,Jazz Dance I,NULL
+DANC 107,Ballet I,NULL
+DANC 108,Ballet II,DANC 107 
+DANC 109,Ballet III,DANC 108 
+DANC 112,Hip Hop,NULL
+DANC 121,Tap Dance II,DANC 120 
+DANC 131,Production Practicum I,NULL
+DANC 160,Beg Contemp Modern Tech Core,NULL
+DANC 167,Beginning Ballet Tech Elect,NULL
+DANC 199,Undergraduate Open Seminar,NULL
+DANC 201,Yoga Practicum,NULL
+DANC 211,Int Hip Hop Technique,NULL
+DANC 212,Musical Theater Dance,NULL
+DANC 215,Int Tap Dance Technique,NULL
+DANC 220,Perf Pract Student Works I,NULL
+DANC 221,Performance in Grad Thesis I,NULL
+DANC 223,Perf Pract February I,NULL
+DANC 231,Production Practicum II,NULL
+DANC 245,Introduction to Somatics,NULL
+DANC 259,Contact Improv for Act/Mus/Dan,NULL
+DANC 260,Int Contemp Modern Tech Core,DANC 160 
+DANC 261,Int Contemp Modern Tech Elect,DANC 160 
+DANC 266,Intermediate Ballet Tech Core,DANC 166 DANC 167 
+DANC 267,Intermediate Ballet Tech Elect,DANC 166 DANC 167 
+DANC 268,Music Theory for Dancers,NULL
+DANC 301,Yoga Fundamentals,NULL
+DANC 330,Dance Documentation,NULL
+DANC 331,Production Practicum III,DANC 131 DANC 231 
+DANC 340,Dancing Black Popular Culture,NULL
+DANC 360,Int/Adv Contemp Mod Tech Core,NULL
+DANC 361,Int/Adv Contemp Mod Tech Elect,NULL
+DANC 362,Choreographic Process II,DANC 262 
+DANC 366,Int/Adv Ballet Tech Core,NULL
+DANC 367,Int/Adv Ballet Tech Elect,NULL
+DANC 375,Production in Dance,NULL
+DANC 400,Viewing Dance,NULL
+DANC 402,Alexander Technique Practicum,NULL
+DANC 411,Adv Hip Hop Technique,NULL
+DANC 420,Perf Pract Student Works II,NULL
+DANC 421,Performance in Grad Thesis II,NULL
+DANC 423,Perf Pract February II,NULL
+DANC 424,Collaborative Performance,DANC 162 DANC 259 
+DANC 425,Dance Internship,NULL
+DANC 431,Production Practicum IV,DANC 131 DANC 231 
+DANC 441,Dance History Seminar,DANC 240 
+DANC 450,Teaching Workshop,NULL
+DANC 451,Ind Study and Special Topics,NULL
+DANC 455,Supervised Teaching,NULL
+DANC 459,Contact Improv Act/Mus/Dan II,NULL
+DANC 460,Adv Contemp Modern Tech Core,NULL
+DANC 461,Adv Contemp Modern Tech Elect,NULL
+DANC 466,Advanced Ballet Tech Core,NULL
+DANC 467,Advanced Ballet Tech Elect,NULL
+DANC 497,BA Capstone Project,NULL
+DANC 498,Senior Thesis Production,DANC 375 DANC 499 
+DANC 499,Senior Thesis Project,DANC 362 DANC 498 
+DANC 530,Somatics in Dance Training,DANC 445 DANC 450 
+DANC 531,MFA Prof Practice Seminar,NULL
+DANC 542,Contemporary Directions II,DANC 541 
+DANC 550,Advanced Research in Dance,NULL
+DANC 560,Advanced Physical Practice,NULL
+DANC 562,Graduate Composition II,NULL
+DANC 598,Creative Thesis Project,NULL
+EALC 114,Introduction to East Asian Art,NULL
+EALC 120,East Asian Civilizations,NULL
+EALC 132,Zen,NULL
+EALC 199,Undergraduate Open Seminar,NULL
+EALC 221,Modern China,NULL
+EALC 250,Intro to Japanese Culture,NULL
+EALC 275,Masterpieces of East Asian Lit,NULL
+EALC 287,Introduction to Buddhism,NULL
+EALC 307,Classical Chinese Lit,NULL
+EALC 343,Gov & Pol of China,NULL
+EALC 367,History of Korea,NULL
+EALC 390,Individual Study,NULL
+EALC 391,Honors Tutorial,NULL
+EALC 398,Colloquium in EALC,NULL
+EALC 412,Mod Chinese Lit in Translation,NULL
+EALC 430,Intro to East Asian Ling,NULL
+EALC 488,History of Chinese Buddhism,REL 287 
+EALC 490,Individual Study,NULL
+EALC 495,Topics in Asian Religions,NULL
+EALC 501,Seminar in Chinese Art,NULL
+EALC 520,Problems in Chinese History,NULL
+EALC 521,Seminar in Chinese Literature,NULL
+EALC 550,Seminar in EALC,NULL
+EALC 588,Sem Second Lang Learn,NULL
+EALC 590,Individual Study and Research,NULL
+EALC 599,Thesis Research,NULL
+ECE 110,Introduction to Electronics,NULL
+ECE 120,Introduction to Computing,NULL
+ECE 198,Special Topics,NULL
+ECE 199,Undergraduate Open Seminar,NULL
+ECE 200,Seminar,NULL
+ECE 205,Electrical and Electronic Circuits,PHYS 212 
+ECE 206,Electrical and Electronic Circuits Lab,ECE 205 
+ECE 210,Analog Signal Processing,ECE 110 PHYS 212 MATH 285 MATH 286 
+ECE 211,Analog Circuits & Systems,ECE 110 PHYS 212 MATH 285 MATH 286 
+ECE 220,Computer Systems & Programming,ECE 120 
+ECE 297,Individual Study,NULL
+ECE 298,Special Topics,NULL
+ECE 307,Techniques for Engrg Decisions,ECE 210 ECE 313 
+ECE 310,Digital Signal Processing,ECE 210 
+ECE 311,Digital Signal Processing Lab,ECE 310 
+ECE 313,Probability with Engrg Applic,MATH 286 MATH 415 
+ECE 314,Probability in Engineering Lab,ECE 313 ECE 313 IE 300 STAT 410 
+ECE 316,Ethics and Engineering,RHET 105 
+ECE 317,ECE Technology & Management,MATH 220 MATH 221 MATH 234 
+ECE 329,Fields and Waves I,ECE 210 
+ECE 330,Power Ckts & Electromechanics,ECE 210 
+ECE 333,Green Electric Energy,ECE 205 ECE 210 
+ECE 340,Semiconductor Electronics,ECE 210 PHYS 214 ECE 329 
+ECE 342,Electronic Circuits,ECE 210 
+ECE 343,Electronic Circuits Laboratory,ECE 342 
+ECE 350,Fields and Waves II,ECE 329 
+ECE 365,Data Science and Engineering,ECE 313 
+ECE 374,Introduction to Algorithms & Models of Computation,NULL
+ECE 385,Digital Systems Laboratory,ECE 110 ECE 220 
+ECE 391,Computer Systems Engineering,ECE 220 CS 233 
+ECE 395,Advanced Digital Projects Lab,ECE 385 
+ECE 396,Honors Project,NULL
+ECE 397,Individual Study in ECE,NULL
+ECE 398,Special Topics in ECE,NULL
+ECE 402,Electronic Music Synthesis,ECE 310 
+ECE 403,Audio Engineering,ECE 210 ECE 310 
+ECE 408,Applied Parallel Programming,ECE 220 
+ECE 411,Computer Organization & Design,ECE 391 CS 241 
+ECE 414,Biomedical Instrumentation,NULL
+ECE 415,Biomedical Instrumentation Lab,NULL
+ECE 418,Image & Video Processing,ECE 310 ECE 313 STAT 400 IE 300 MATH 461 MATH 415 
+ECE 419,Security Laboratory,NULL
+ECE 420,Embedded DSP Laboratory,ECE 310 
+ECE 422,Computer Security I,NULL
+ECE 424,Computer Security II,NULL
+ECE 425,Intro to VLSI System Design,ECE 385 ECE 411 CS 233 
+ECE 428,Distributed Systems,NULL
+ECE 431,Electric Machinery,ECE 330 
+ECE 437,Sensors and Instrumentation,ECE 329 
+ECE 438,Communication Networks,NULL
+ECE 441,Physcs & Modeling Semicond Dev,ECE 340 
+ECE 443,LEDs and Solar Cells,ECE 340 
+ECE 444,IC Device Theory & Fabrication,ECE 340 
+ECE 445,Senior Design Project Lab,NULL
+ECE 448,Artificial Intelligence,NULL
+ECE 451,Adv Microwave Measurements,ECE 350 
+ECE 453,Wireless Communication Systems,ECE 329 ECE 342 
+ECE 457,Microwave Devices & Circuits,ECE 340 ECE 350 
+ECE 461,Digital Communications,ECE 210 ECE 313 
+ECE 462,Logic Synthesis,ECE 220 CS 233 
+ECE 463,Digital Communications Lab,ECE 361 ECE 459 
+ECE 467,Biophotonics,ECE 455 ECE 460 PHYS 402 
+ECE 468,Optical Remote Sensing,ECE 329 ECE 313 
+ECE 470,Introduction to Robotics,MATH 225 MATH 286 MATH 415 MATH 418 
+ECE 478,Formal Software Devel Methods,NULL
+ECE 481,Nanotechnology,CHEM 442 CHBE 457 ME 485 MSE 401 PHYS 460 
+ECE 483,Analog IC Design,ECE 342 
+ECE 486,Control Systems,ECE 210 
+ECE 489,Robot Dynamics and Control,NULL
+ECE 490,Introduction to Optimization,ECE 220 MATH 415 
+ECE 491,Numerical Analysis,NULL
+ECE 493,Advanced Engineering Math,NULL
+ECE 495,Photonic Device Laboratory,ECE 487 
+ECE 496,Senior Research Project,RHET 105 
+ECE 498,Special Topics in ECE,NULL
+ECE 499,Senior Thesis,ECE 496 
+ECE 500,ECE Colloquium,NULL
+ECE 508,Manycore Parallel Algorithms,ECE 408 CS 420 
+ECE 511,Computer Architecture,ECE 411 CS 433 
+ECE 513,Vector Space Signal Processing,ECE 310 ECE 313 MATH 415 
+ECE 515,Control System Theory & Design,ECE 486 
+ECE 528,Analysis of Nonlinear Systems,ECE 515 MATH 444 MATH 447 
+ECE 534,Random Processes,ECE 313 MATH 461 STAT 400 
+ECE 536,Integ Optics & Optoelectronics,ECE 455 ECE 487 PHYS 486 ECE 488 
+ECE 543,Statistical Learning Theory,ECE 534 
+ECE 549,Computer Vision,ECE 448 CS 225 
+ECE 553,Optimum Control Systems,ECE 313 ECE 515 
+ECE 555,Control of Stochastic Systems,ECE 515 ECE 534 
+ECE 561,Detection & Estimation Theory,ECE 534 
+ECE 572,Quantum Opto-Electronics,PHYS 485 
+ECE 579,Computational Complexity,NULL
+ECE 580,Optimiz by Vector Space Methds,MATH 415 MATH 482 MATH 447 
+ECE 586,Topics in Decision and Control,NULL
+ECE 590,Grad Sem in Special Topics,NULL
+ECE 594,Math Models of Language,ECE 537 
+ECE 596,Master's Project,NULL
+ECE 597,Individual Study in ECE,NULL
+ECE 598,Special Topics in ECE,NULL
+ECE 599,Thesis Research,NULL
+ECON 102,Microeconomic Principles,NULL
+ECON 103,Macroeconomic Principles,NULL
+ECON 198,Economics at Illinois,NULL
+ECON 199,Undergraduate Open Seminar,NULL
+ECON 202,Economic Statistics I,MATH 220 MATH 221 MATH 234 
+ECON 203,Economic Statistics II,ECON 202 MATH 220 MATH 221 MATH 234 
+ECON 210,Environmental Economics,NULL
+ECON 302,Inter Microeconomic Theory,ECON 102 MATH 220 MATH 221 MATH 234 
+ECON 303,Inter Macroeconomic Theory,ECON 102 ECON 103 MATH 220 MATH 221 MATH 234 
+ECON 399,Undergraduate Open Seminar,ECON 101 ECON 102 
+ECON 402,American Economic History,ECON 202 ECON 302 MATH 220 
+ECON 411,Public Sector Economics,ECON 302 
+ECON 414,Urban Economics,ECON 302 
+ECON 417,Cost-Benefit Analysis,ECON 202 ECON 302 MATH 220 MATH 221 ECON 203 
+ECON 418,Health Economics,ECON 202 ECON 302 MATH 220 MATH 221 
+ECON 420,International Economics,ECON 302 ECON 303 
+ECON 426,Monetary Economics and Policy,ECON 202 ECON 303 MATH 231 ECON 302 
+ECON 437,Game Theory,ECON 202 ECON 302 MATH 220 MATH 221 ECON 203 MATH 231 
+ECON 440,Economics of Labor Markets,ECON 302 
+ECON 447,Economics of the Workplace,ECON 202 ECON 302 MATH 220 MATH 221 
+ECON 448,Employee Compensation and Incentives,ECON 202 ECON 302 MATH 220 MATH 221 
+ECON 450,Development Economics,ECON 102 ECON 103 ECON 302 
+ECON 453,Economies of the Middle East and North Africa,ECON 202 ECON 302 MATH 220 MATH 221 
+ECON 455,Economics of Poverty Alleviation in Developing Countries,ECON 202 ECON 302 MATH 220 MATH 221 
+ECON 460,Financial Economics,ECON 202 ECON 302 MATH 220 MATH 221 
+ECON 471,Intro to Applied Econometrics,ECON 203 ECON 302 ECON 303 
+ECON 472,Financial Econometrics,ECON 203 ECON 302 MATH 220 MATH 221 MATH 231 ECON 471 
+ECON 475,Economic Forecasting,ECON 203 ECON 302 MATH 220 MATH 221 MATH 231 
+ECON 480,Industrial Comp and Monopoly,ECON 302 
+ECON 481,Govt Reg of Economic Activity,ECON 302 
+ECON 484,Law and Economics,ECON 302 
+ECON 490,Topics in Economics,NULL
+ECON 501,Macroeconomics,ECON 102 ECON 103 
+ECON 503,Econometrics,ECON 502 
+ECON 514,International Financial,ECON 302 ECON 303 
+ECON 517,Monetary Policy,NULL
+ECON 519,Development and Growth Policy,ECON 500 ECON 501 
+ECON 528,Microeconomics for Business,NULL
+ECON 529,Macroeconomics for Business,NULL
+ECON 533,Microeconomic Theory II,ECON 530 
+ECON 534,Macroeconomic Theory II,ECON 531 
+ECON 535,Econometric Analysis II,ECON 532 
+ECON 540,Labor Economics I,ECON 302 ECON 303 
+ECON 542,Collective Bargaining,NULL
+ECON 550,Econ of Development and Growth,ECON 533 ECON 534 
+ECON 553,Demand/Supply/Firms/Households,NULL
+ECON 578,Large Sample Theory,NULL
+ECON 582,Empirical Ind Organization,NULL
+ECON 590,Individual Study and Research,NULL
+ECON 598,Workshop and Research Seminar,NULL
+ECON 599,Thesis Research,NULL
+EDPR 199,Undergraduate Open Seminar,NULL
+EDPR 250,School & Community Experiences,NULL
+EDPR 420,Ed Prac Students with Sp Needs,NULL
+EDPR 432,Ed Prac in EC & ELED,CI 420 CI 406 
+EDPR 438,Educational Practice in Special Fields,NULL
+EDPR 442,Educational Practice in Secondary Education,NULL
+EDPR 550,School and Community Experience,NULL
+EDUC 201,Identity and Difference in Education,NULL
+EDUC 202,Social Justice  School & Society,NULL
+EDUC 299,Education Study Abroad,NULL
+EDUC 499,Education Abroad,NULL
+EIL 199,Undergraduate Open Seminar,NULL
+EIL 214,TESL in the Elementary School,NULL
+EIL 215,TESL in the Secondary School,NULL
+EIL 411,Intro to TESL Methodology,NULL
+EIL 422,Engl Grammar for ESL Teachers,NULL
+EIL 445,Second Lang Reading & Writing,NULL
+EIL 456,Lang and Social Interaction I,NULL
+EIL 460,Principles of Language Testing,EIL 489 
+EIL 488,Phonology for Second Language Teachers,NULL
+EIL 591,Research in Special Topics,NULL
+EIL 599,Thesis Research,NULL
+ENG 198,Special Topics,NULL
+ENG 199,Undergraduate Open Seminar,NULL
+ENG 298,Special Topics,NULL
+ENG 299,Engineering Study Abroad,NULL
+ENG 300,Engrg Transfer Orientation,NULL
+ENG 310,Engineering Internship,NULL
+ENG 398,Special Topics,NULL
+ENG 441,International Water Project II,ENG 440 
+ENG 471,Seminar Energy & Sustain Engrg,MATH 220 MATH 221 CHEM 104 CHEM 204 PHYS 101 PHYS 211 NPRE 201 
+ENG 491,Interdisciplinary Design Proj,NULL
+ENG 498,Special Topics,NULL
+ENG 510,Engineering Practice,NULL
+ENG 571,Theory Energy & Sustain Engrg,ENG 471 
+ENG 572,Professional Practicum,NULL
+ENG 573,Capstone Project,NULL
+ENG 591,Engineering Advanced Seminar,NULL
+ENG 598,Special Topics,NULL
+ENGH 397,Honors Independent Study,NULL
+ENGL 101,Intro to Poetry,NULL
+ENGL 103,Intro to Fiction,NULL
+ENGL 104,Intro to Film,NULL
+ENGL 109,Intro to Fiction-ACP,NULL
+ENGL 115,Intro to British Literature,NULL
+ENGL 116,Introduction to American Literature,NULL
+ENGL 119,Literature of Fantasy,NULL
+ENGL 120,Science Fiction,NULL
+ENGL 191,Freshman Honors Tutorial,NULL
+ENGL 199,Undergraduate Open Seminar,NULL
+ENGL 200,Intro to the Study of Lit,NULL
+ENGL 202,Medieval Lit and Culture,NULL
+ENGL 204,Renaissance Lit and Culture,NULL
+ENGL 206,Enlightenment Lit and Culture,NULL
+ENGL 209,British Lit to 1800,NULL
+ENGL 213,Modernist Lit and Culture,NULL
+ENGL 218,Introduction to Shakespeare,NULL
+ENGL 220,Literature and Science,NULL
+ENGL 224,Latina/o Popular Culture,NULL
+ENGL 245,The Short Story,NULL
+ENGL 247,The British Novel,NULL
+ENGL 250,Nineteenth-Century American Fiction,NULL
+ENGL 251,The American Novel Since 1914,NULL
+ENGL 255,Early American Literature,ENGL 200 
+ENGL 265,Intro to American Indian Lit,NULL
+ENGL 266,Grimm's Fairy Tales in Context,NULL
+ENGL 269,The Holocaust in Context,NULL
+ENGL 270,American Film Genres,NULL
+ENGL 273,American Cinema Since 1950,NULL
+ENGL 274,Literature and Society,NULL
+ENGL 275,Am Indian and Indigenous Film,NULL
+ENGL 277,Gender in Gaming,NULL
+ENGL 280,Women Writers,NULL
+ENGL 285,Postcolonial Lit in English,NULL
+ENGL 286,Asian American Literature,NULL
+ENGL 290,Individual Study,NULL
+ENGL 300,Writing About Lit Text&Culture,NULL
+ENGL 301,CriticalApproaches to Lit&Text,ENGL 200 
+ENGL 310,Introduction to the Study of the English Language,NULL
+ENGL 323,Tolstoy,NULL
+ENGL 359,Lit Responses to the Holocaust,NULL
+ENGL 360,Environmental Writing,NULL
+ENGL 373,Special Topics in Film Studies,NULL
+ENGL 380,Topics in Writing Studies,NULL
+ENGL 390,Advanced Individual Study,NULL
+ENGL 391,Honors Individual Study,NULL
+ENGL 396,Honors Seminar I,NULL
+ENGL 402,Descriptive English Grammar,NULL
+ENGL 404,Engl Grammar for ESL Teachers,NULL
+ENGL 418,Shakespeare,NULL
+ENGL 421,Later Renaiss Poetry & Prose,NULL
+ENGL 455,Major Authors,NULL
+ENGL 458,Latina/o Performance,NULL
+ENGL 460,Lit of American Minorities,NULL
+ENGL 461,Topics in Literature,NULL
+ENGL 462,Topics in Modern Fiction,NULL
+ENGL 475,Lit and Other Disciplines,NULL
+ENGL 498,Environmental Writing for Publication,NULL
+ENGL 504,Theories of Cinema,NULL
+ENGL 524,Seminar in 17th C Literature,NULL
+ENGL 543,Seminar Mod British Lit,NULL
+ENGL 547,Seminar Earlier American Lit,NULL
+ENGL 553,Seminar Later American Lit,NULL
+ENGL 581,Seminar Literary Theory,NULL
+ENGL 582,Topics Research and Writing,NULL
+ENGL 584,Topics Discourse and Writing,NULL
+ENGL 591,Research in Special Topics,NULL
+ENGL 592,Masters Exam Tutorial,NULL
+ENGL 593,Prof Seminar College Tchg,NULL
+ENGL 599,Thesis Research,NULL
+ENSU 310,Renewable & Alternative Energy,NULL
+ENSU 410,Sustainable Organizations,NULL
+ENT 599,Thesis Research,NULL
+ENVS 101,Introduction to Energy Sources,NULL
+ENVS 210,Environmental Economics,NULL
+ENVS 220,Communicating Agriculture,NULL
+ENVS 299,Ind Studies of Env. Topics,NULL
+ENVS 301,Tools for Sustainability,NULL
+ENVS 310,Natural Resource Economics,NULL
+ENVS 330,Environmental Communications,NULL
+ENVS 336,Tomorrow's Environment,NULL
+ENVS 380,Environmental Geology,NULL
+ENVS 406,Urban Ecology,NULL
+ENVS 420,Conservation Biology,NULL
+ENVS 431,Environ Toxicology & Health,NULL
+ENVS 433,Pesticide Toxicology,NULL
+ENVS 469,Environmental Health,NULL
+ENVS 491,Sustainability Experience,NULL
+ENVS 514,Neurotoxicology,NULL
+ENVS 596,Interdisciplinary Tox Sem,NULL
+EOL 541,Supervision of Learning Envir,EOL 540 
+EOL 542,Leading Learning-Centrd Schls,EOL 540 
+EOL 544,Leading Improvement and Innovation,NULL
+EOL 546,Public School Finance,NULL
+EOL 547,Education Law,NULL
+EOL 548,Poli & Cultural Context of Ed,NULL
+EOL 560,Clinical Experience Admin,NULL
+EOL 565,Human Resource Management,EOL 547 
+EOL 568,Diversity  Leadership & Policy,NULL
+EOL 571,Foundation of Higher Edu,NULL
+EOL 574,Diversity in Higher Education,NULL
+EOL 582,College Student Development,EOL 572 
+EOL 585,College Teaching,NULL
+EOL 588,Capstone Experience I & II,NULL
+EOL 589,Internship in Higher Ed,NULL
+EOL 590,Advanced Seminar,NULL
+EOL 598,Thesis Seminar,NULL
+EPOL 199,Undergraduate Open Seminar,NULL
+EPOL 395,Independent Study,EPS 201 
+EPOL 550,Methods of Educational Inquiry,NULL
+EPOL 585,Ethnographic Methods in Educ,NULL
+EPOL 591,Thesis Seminar,NULL
+EPOL 595,Independent Study,NULL
+EPOL 599,Thesis Research,NULL
+EPS 201,Foundations of Education,NULL
+EPS 202,Foundations of Education-ACP,NULL
+EPS 310,Race and Cultural Diversity,NULL
+EPS 380,Education and Social Justice,NULL
+EPS 390,Undergraduate Advanced Seminar,NULL
+EPS 391,Thesis,NULL
+EPS 411,School and Society,NULL
+EPS 421,Racial and Ethnic Families,NULL
+EPS 423,Politics of Education,NULL
+EPS 424,Economics of Education,NULL
+EPS 500,Topics in Educational Policy,NULL
+EPS 529,Education and Human Rights,NULL
+EPS 535,Assessment for Learning,NULL
+EPS 537,Globalizing Educational Policy,NULL
+EPS 553,Global Issues in Learning,NULL
+EPS 554,New Media and Literacies,NULL
+EPS 570,Postcolonial Theory & Methodology,NULL
+EPS 580,Researching Global Education,NULL
+EPS 590,Advanced Graduate Seminar,NULL
+EPSY 199,Undergraduate Open Seminar,NULL
+EPSY 201,Educational Psychology,NULL
+EPSY 202,Exploring Cultural Diversity,NULL
+EPSY 203,Social Issues Group Dialogues,NULL
+EPSY 220,Career Theory and Practice,NULL
+EPSY 222,Language & Culture of Deaf Communities,NULL
+EPSY 395,Independent Study,NULL
+EPSY 398,Thesis,NULL
+EPSY 401,Child Language and Education,EPSY 201 EPSY 236 
+EPSY 405,Personality and Soc Dev,NULL
+EPSY 408,Learning & Hum Dev w/ EdTech,NULL
+EPSY 419,Counseling Pre-Practicum,NULL
+EPSY 420,Theories of Psychotherapy,PSYC 238 
+EPSY 471,Intro to Evaluation Methods,EPSY 480 
+EPSY 480,Educational Statistics,NULL
+EPSY 487,Principles of Language Testing,NULL
+EPSY 490,Developments in Educ Psyc,NULL
+EPSY 491,Educ Psyc Field Instruction,NULL
+EPSY 510,Counseling Psych/Ethics ProSem,NULL
+EPSY 515,Multicultural Counseling,NULL
+EPSY 520,Counseling Psych Practicum,NULL
+EPSY 553,Global Issues in Learning,NULL
+EPSY 567,Personality Assessment,NULL
+EPSY 573,Methods of Educational Inquiry,NULL
+EPSY 575,Mixed Method Inquiry,EPSY 574 EPSY 580 EPSY 577 EPSY 578 
+EPSY 581,Applied Regression Analysis,EPSY 580 
+EPSY 586,Theories of Measurement II,EPSY 585 PSYC 490 
+EPSY 587,Hierarchical Linear Models,EPSY 581 EPSY 582 PSYC 406 PSYC 407 
+EPSY 590,Advanced Seminar in Educ Psyc,NULL
+EPSY 591,Field Study and Thesis Seminar,NULL
+EPSY 595,Independent Study,NULL
+EPSY 599,Thesis Research,NULL
+ESE 103,Earth's Physical Systems,NULL
+ESE 104,Geology of the National Parks,NULL
+ESE 106,Geographies of Globalization,NULL
+ESE 111,Emergence of Life,NULL
+ESE 118,Natural Disasters,NULL
+ESE 120,Severe and Hazardous Weather,NULL
+ESE 140,Climate and Global Change,NULL
+ESE 208,History of the Earth System,NULL
+ESE 210,Social & Environmental Issues,NULL
+ESE 222,Big Rivers of the World,NULL
+ESE 254,American People  Places  & Environments,NULL
+ESE 287,Environment and Society,NULL
+ESE 311,Environmental Issues Today,NULL
+ESE 333,Earth Materials and the Env,NULL
+ESE 350,Sustainability and the City,NULL
+ESE 360,Environmental Writing,NULL
+ESE 379,Intro to GIS Systems,NULL
+ESE 380,GIS II: Spatial Prob Solving,NULL
+ESE 401,ESE Capstone,NULL
+ESE 439,Biogeography,NULL
+ESE 445,Earth Resources Sustainability,NULL
+ESE 497,Special Topics in ESE,NULL
+ESE 498,Environmental Writing for Publication,NULL
+ESL 110,English Pronunciation & Oral Fluency,NULL
+ESL 111,Intro to Academic Writing I,NULL
+ESL 112,Intro to Academic Writing II,ESL 111 
+ESL 115,Principles of Academic Writing,NULL
+ESL 504,English Pronunciation for ITAs,NULL
+ESL 506,Oral Communication for ITAs,NULL
+ESL 508,Seminar for Intl TAs,NULL
+ESL 510,English Pronunciation & Oral Fluency,NULL
+ESL 511,Written and Oral Communication,NULL
+ESL 512,Introduction to Academic Writing,ESL 511 
+ESL 515,Introduction to Academic Writing,NULL
+ESL 521,Written and Oral Business Communication,NULL
+ESL 522,Introduction to Business Writing,ESL 521 
+ESL 592,Advanced Academic Writing,ESL 515 
+ESL 593,Academic Presentation Skills,NULL
+EURO 385,Politics of the European Union,NULL
+EURO 410,Labor and the European Union,NULL
+EURO 418,Language & Minorities in Europe,NULL
+EURO 502,The EU in a Global Context,NULL
+EURO 580,Research Design & Techniques,NULL
+EURO 590,Directed Ind Study,NULL
+EURO 596,Special Topics in EU Studies,NULL
+EURO 599,Thesis Research,EURO 501 EURO 502 
+FAA 102,Design Beyond Boundaries,NULL
+FAA 110,Exploring Arts and Creativity,NULL
+FAA 199,Undergraduate Open Seminar,NULL
+FAA 202,Artsful Teaching through Integ,NULL
+FAA 299,FAA Study Abroad,NULL
+FAA 499,Special Topics,NULL
+FIN 199,Undergraduate Open Seminar,NULL
+FIN 221,Corporate Finance,ECON 102 ECON 103 
+FIN 230,Introduction to Insurance,NULL
+FIN 241,Fundamentals of Real Estate,ECON 102 
+FIN 300,Financial Markets,FIN 221 
+FIN 321,Advanced Corporate Finance,FIN 300 
+FIN 390,Finance Academy,NULL
+FIN 391,Investment Banking Academy,NULL
+FIN 392,Investment Management Academy,NULL
+FIN 411,Investment & Portfolio Mngt,FIN 300 
+FIN 412,Options and Futures Markets,FIN 300 
+FIN 414,Urban Economics,NULL
+FIN 418,Financial Modeling,FIN 300 FIN 321 
+FIN 419,Real Client Managed Portfolios,FIN 321 
+FIN 422,Cases in Corporate Finance,FIN 300 FIN 321 
+FIN 423,Financing Emerging Businesses,NULL
+FIN 434,Employee Benefit Plans,FIN 300 
+FIN 435,Personal Wealth Management,FIN 300 
+FIN 443,Legal Issues in Real Estate,NULL
+FIN 444,Urban Real Estate Valuation,FIN 300 FIN 241 
+FIN 446,Real Estate Financial Markets,FIN 300 FIN 241 
+FIN 461,Financial Intermediation,FIN 300 
+FIN 463,Investment Banking,FIN 300 FIN 300 FIN 391 
+FIN 490,Special Topics in Finance,FIN 300 
+FIN 494,Senior Research,NULL
+FIN 495,Senior Research,NULL
+FIN 500,Introduction to Finance,NULL
+FIN 511,Investments,FIN 520 MBA 505 
+FIN 512,Financial Derivatives,FIN 520 MBA 505 
+FIN 513,Financial Engineering I,FIN 520 MBA 505 
+FIN 514,Financial Engineering II,FIN 513 
+FIN 518,Financial Modeling,NULL
+FIN 521,Advanced Corporate Finance,FIN 520 ECON 506 BADM 572 MBA 505 
+FIN 526,Enterprise Risk Management,NULL
+FIN 527,Mergers & Acquisitions Topics,NULL
+FIN 544,Urban Real Estate Valuation,FIN 541 
+FIN 546,Real Estate Financial Markets,FIN 541 
+FIN 551,International Finance,FIN 520 MBA 505 
+FIN 561,Financial Intermediation,FIN 520 MBA 505 
+FIN 563,Investment Banking,NULL
+FIN 567,Financial Risk Management,FIN 500 IE 522 FIN 502 FIN 512 
+FIN 571,Retirement Policy,NULL
+FIN 572,Health Care Policy,NULL
+FIN 579,Applied Portfolio Management,FIN 511 
+FIN 580,Special Topics in Finance,NULL
+FIN 590,Individual Study and Research,NULL
+FIN 593,Seminar in Investments,FIN 591 ECON 507 
+FIN 594,Seminar in Corporate Finance,FIN 591 ECON 507 
+FIN 599,Thesis Research,NULL
+FLTE 471,Introduction to Second Language Teaching,NULL
+FLTE 478,Secondary World Language Teaching,FLTE 471 FLTE 475 
+FR 101,Elementary French I,NULL
+FR 102,Elementary French II,FR 101 
+FR 103,Intermediate French I,FR 102 FR 102 
+FR 104,Intermediate French II,FR 103 FR 103 
+FR 134,Accel Intermed French II,FR 133 FR 103 FR 103 
+FR 191,Freshman Honors Tutorial,NULL
+FR 199,Undergraduate Open Seminar,NULL
+FR 205,Oral French,FR 104 FR 134 
+FR 207,Writing and Grammar Workshop,FR 134 FR 104 
+FR 211,Introduction to Literary Studies,FR 207 
+FR 212,Introduction to Cultural Analysis: French Identities,FR 207 
+FR 213,French Phonetics,FR 104 FR 134 
+FR 299,Study Abroad,FR 205 
+FR 311,Narrative Literature,FR 207 FR 211 FR 212 
+FR 335,French Cultural History to 1789,FR 211 FR 212 
+FR 385,Politics of the European Union,NULL
+FR 389,French & Comparative Cinema II,NULL
+FR 390,Indiv Study Major Tutorial,FR 205 FR 207 
+FR 418,Language & Minorities in Europe,NULL
+FR 460,Principles of Language Testing,NULL
+FR 462,Introduction to Romance Linguistics,NULL
+FR 481,Theoretical Foundations of SLA,NULL
+FR 492,Senior Thesis,NULL
+FR 501,Reading French Grads,FR 500 FR 101 FR 102 
+FR 578,Seminar 20thC French Lit,NULL
+FR 579,Seminar in French Literature,NULL
+FR 588,Sem Second Lang Learn,NULL
+FR 591,Individual Topics,NULL
+FR 599,Thesis Research,NULL
+FSHN 101,Intro Food Science & Nutrition,NULL
+FSHN 120,Contemporary Nutrition,CHEM 101 
+FSHN 145,Intro Hospitality Management,NULL
+FSHN 195,Intro to Undergrad Research,NULL
+FSHN 199,Undergraduate Open Seminar,NULL
+FSHN 232,Science of Food Preparation,FSHN 101 
+FSHN 260,Raw Materials for Processing,FSHN 101 
+FSHN 293,Off Campus Internship,NULL
+FSHN 294,On Campus Internship,NULL
+FSHN 295,UG Research or Thesis,NULL
+FSHN 312,Applied Microbiology Methods,MCB 100 MCB 101 
+FSHN 322,Nutrition and the Life Cycle,NULL
+FSHN 329,Communication in Nutrition,NULL
+FSHN 340,Food Production and Service,FSHN 332 FSHN 349 FSHN 345 
+FSHN 349,Food Service Sanitation,FSHN 101 FSHN 232 MCB 100 MCB 101 FSHN 340 
+FSHN 396,UG Honors Research or Thesis,NULL
+FSHN 398,Undergraduate Seminar,NULL
+FSHN 414,Food Chemistry,CHEM 232 
+FSHN 418,Food Analysis,CHEM 232 FSHN 414 FSHN 416 
+FSHN 421,Pediatric Clinical Nutrition,FSHN 420 FSHN 322 
+FSHN 423,Advances in Foods & Nutrition,FSHN 220 FSHN 332 
+FSHN 425,Food Marketing,NULL
+FSHN 426,Biochemical Nutrition I,FSHN 220 FSHN 120 FSHN 414 MCB 450 
+FSHN 427,Biochemical Nutrition II,FSHN 220 FSHN 120 FSHN 414 MCB 450 
+FSHN 440,Applied Statistical Methods I,NULL
+FSHN 442,Hospitality Management & Leadership Skills,FSHN 340 
+FSHN 443,Management of Fine Dining,FSHN 340 FSHN 442 
+FSHN 460,Food Processing Engineering,PHYS 101 MATH 220 
+FSHN 462,Food Processing II,FSHN 461 
+FSHN 464,Beverage Science & Technology,FSHN 414 
+FSHN 471,Food & Industrial Microbiology,MCB 101 MCB 301 
+FSHN 499,Cur Topics in FS & Human Nutr,NULL
+FSHN 502,Advanced Sensory Science,FSHN 302 
+FSHN 510,Topics in Nutrition Research,NULL
+FSHN 511,Regulation of Metabolism,NULL
+FSHN 520,Advanced Clinical Nutrition,NULL
+FSHN 573,Advanced Food Microbiology,NULL
+FSHN 591,Dietetic Internship II,FSHN 590 
+FSHN 592,Graduate Internship Experience,NULL
+FSHN 593,Seminar in Foods and Nutrition,NULL
+FSHN 595,Advanced Topics in Food Science and Human Nutrition,NULL
+FSHN 597,Graduate Seminar,NULL
+FSHN 598,Advanced Special Problems,NULL
+FSHN 599,Thesis Research,NULL
+GC 295,URAP Research Apprenticeship,NULL
+GC 498,Graduate Domestic Study Away,NULL
+GC 500,URAP Graduate Mentor Practicum,NULL
+GC 599,Thesis Research,NULL
+GCL 125,Health and Wellness in Life Sciences,NULL
+GCL 144,Stereotypes  Prejudice & Discrimination,NULL
+GCL 145,Social Justice and the Arts,NULL
+GCL 147,Social Justice in the Social Sciences,NULL
+GCL 185,Health  Wellness  and the Black Experience,NULL
+GEOG 100,Introduction to Meteorology,NULL
+GEOG 101,Global Development&Environment,NULL
+GEOG 103,Earth's Physical Systems,NULL
+GEOG 106,Geographies of Globalization,NULL
+GEOG 198,Freshman Honors Seminar,NULL
+GEOG 199,Undergraduate Open Seminar,NULL
+GEOG 204,Cities of the World,NULL
+GEOG 205,Business Location Decisions,ECON 102 ECON 103 
+GEOG 210,Social & Environmental Issues,NULL
+GEOG 222,Big Rivers of the World,NULL
+GEOG 254,American People  Places  & Environments,NULL
+GEOG 287,Environment and Society,NULL
+GEOG 350,Sustainability and the City,NULL
+GEOG 371,Spatial Analysis,NULL
+GEOG 379,Intro to GIS Systems,NULL
+GEOG 380,GIS II: Spatial Prob Solving,GEOG 379 
+GEOG 384,Population Geography,NULL
+GEOG 390,Individual Study,NULL
+GEOG 391,Honors Individual Study,NULL
+GEOG 392,Geography & GIS Internship,NULL
+GEOG 401,Watershed Hydrology,NULL
+GEOG 436,Biogeography,NULL
+GEOG 440,Business Applications of GIS,NULL
+GEOG 459,Ecohydraulics,NULL
+GEOG 460,Aerial Photo Analysis,MATH 014 GEOG 103 
+GEOG 477,Introduction to Remote Sensing,GEOG 280 
+GEOG 480,Principles of GIS,GEOG 379 GEOG 380 
+GEOG 489,Programming for GIS,GEOG 379 GEOG 380 
+GEOG 491,Research in Geography,GEOG 471 
+GEOG 595,Advanced Studies in Geography,NULL
+GEOG 598,Graduate Capstone Project,NULL
+GEOG 599,Thesis Research,NULL
+GEOL 100,Planet Earth,NULL
+GEOL 104,Geology of the National Parks,NULL
+GEOL 107,Physical Geology,NULL
+GEOL 111,Emergence of Life,NULL
+GEOL 118,Natural Disasters,NULL
+GEOL 199,Undergraduate Open Seminar,NULL
+GEOL 208,History of the Earth System,GEOL 100 GEOL 101 GEOL 103 GEOL 104 GEOL 107 
+GEOL 333,Earth Materials and the Env,CHEM 102 CHEM 103 GEOL 100 GEOL 110 GEOL 101 GEOL 103 GEOL 104 GEOL 107 
+GEOL 350,Volcanoes,GEOL 106 GEOL 111 GEOL 143 
+GEOL 380,Environmental Geology,CHEM 102 CHEM 103 GEOL 100 GEOL 110 GEOL 101 GEOL 103 GEOL 104 GEOL 107 
+GEOL 390,Individual Study,GEOL 208 
+GEOL 391,Individual Honors Study,GEOL 208 
+GEOL 415,Field Geology,NULL
+GEOL 436,Petrology and Petrography,GEOL 432 
+GEOL 440,Sedimentology and Stratigraphy,GEOL 208 
+GEOL 450,Probing the Earth's Interior,PHYS 102 GEOL 107 
+GEOL 454,Introduction to Seismology,MATH 285 
+GEOL 490,Undergraduate Research,GEOL 208 
+GEOL 491,Honors Undergraduate Research,GEOL 208 
+GEOL 492,Senior Thesis,NULL
+GEOL 493,Honors Senior Thesis,NULL
+GEOL 497,Special Topics in Geology,NULL
+GEOL 515,Advanced Field Geology,NULL
+GEOL 573,River Morphodynamics,NULL
+GEOL 591,Current Research in Geoscience,NULL
+GEOL 593,Advanced Studies in Geology,NULL
+GEOL 599,Thesis Research,NULL
+GER 101,Beginning German I,NULL
+GER 102,Beginning German II,NULL
+GER 103,Intermediate German I,NULL
+GER 104,Intermediate German II,NULL
+GER 191,Freshman Honors Tutorial,NULL
+GER 201,German Popular Culture,NULL
+GER 211,Conversation and Writing I,GER 104 
+GER 212,Conversation and Writing II,GER 211 
+GER 251,Grimm's Fairy Tales in Context,NULL
+GER 261,The Holocaust in Context,NULL
+GER 299,Study Abroad,GER 104 
+GER 321,German for Economics,GER 320 
+GER 331,Intro to German Literature,NULL
+GER 385,Politics of the European Union,NULL
+GER 418,Language & Minorities in Europe,NULL
+GER 420,German Cultural History,NULL
+GER 460,Principles of Language Testing,NULL
+GER 465,Ling Structures of German,NULL
+GER 489,Theoretical Foundations of SLA,NULL
+GER 491,Honors Senior Thesis,NULL
+GER 496,Special Topics German Studies,NULL
+GER 575,20thC German Studies,NULL
+GER 576,Open Seminar in German Studies,NULL
+GER 588,Sem Second Lang Learn,NULL
+GER 593,Research in Special Topics,NULL
+GER 599,Thesis Research,NULL
+GLBL 100,Intro to Global Studies,NULL
+GLBL 118,Natural Disasters,NULL
+GLBL 199,Undergraduate Open Seminar,NULL
+GLBL 200,Foundations of Research,NULL
+GLBL 225,Career Development:Internships,NULL
+GLBL 250,Development,NULL
+GLBL 251,Warfare Milit Insts & Soc,NULL
+GLBL 260,Global Human Rights,NULL
+GLBL 270,Introduction to Global Markets and Society,NULL
+GLBL 280,Nuclear Weapons & Arms Control,NULL
+GLBL 283,Intro to Intl Security,NULL
+GLBL 296,Global St Foundation Seminar,NULL
+GLBL 340,Global Health: Policy & Governance,GLBL 240 
+GLBL 392,Int Diplomacy and Negotiation,NULL
+GLBL 450,Poverty Interventions and Evaluation,GLBL 250 
+GLBL 483,Seminar on Security,NULL
+GLBL 495,Research Methods II,GLBL 494 
+GLBL 501,Perspectives on Global Studies,NULL
+GMC 199,Undergraduate Open Seminar,NULL
+GRK 102,Elementary Greek II,GRK 101 
+GRK 199,Undergraduate Open Seminar,NULL
+GRK 252,Elementary Modern Greek II,NULL
+GRK 404,Intermediate Modern Greek II,NULL
+GRK 492,Senior Thesis,NULL
+GRK 493,Independent Reading,GRK 401 
+GRK 498,Senior Survey,NULL
+GRK 520,Proseminar,GRK 491 
+GRK 599,Thesis Research,NULL
+GRKM 202,Elementary Modern Greek II,GRKM 201 
+GRKM 404,Intermediate Modern Greek II,GRKM 403 
+GS 101,Exploring General Studies,NULL
+GS 198,DGS Honors Seminar,NULL
+GS 299,DGS Study Abroad,NULL
+GWS 100,Intro Gender & Women's Studies,NULL
+GWS 103,Black Women in the Diaspora,NULL
+GWS 199,Undergraduate Open Seminar,NULL
+GWS 202,Sexualities,NULL
+GWS 204,Gender in Gaming,NULL
+GWS 215,US Citizenship Comparatively,NULL
+GWS 218,Intro to Social Issues Theatre,NULL
+GWS 226,Black Women Contemp US Society,NULL
+GWS 240,Sex & Gender in Antiquity,NULL
+GWS 280,Women Writers,NULL
+GWS 287,African-American Women,NULL
+GWS 305,Theories of Race  Gender  and Sexuality,NULL
+GWS 315,War  Memory  and Cinema,NULL
+GWS 320,Gender & Latina/o Migration,NULL
+GWS 343,Criminalization and Punishment,NULL
+GWS 350,Feminist & Gender Theory,NULL
+GWS 356,Sex & Gender in Popular Media,NULL
+GWS 383,Hist of Blk Women's Activism,NULL
+GWS 390,Individual Study,NULL
+GWS 395,Intermediate Topics GWS,NULL
+GWS 397,Sexuality in Modern Europe,NULL
+GWS 399,GWS Internship,NULL
+GWS 409,Women's Health,NULL
+GWS 417,Leading Post-Perform Dialog,NULL
+GWS 418,Devising Social Issues Theatre,NULL
+GWS 454,Social Work with Women,NULL
+GWS 470,Transgender Studies,NULL
+GWS 475,Queering Legal Cultures,NULL
+GWS 490,Individual Study,NULL
+GWS 495,Advanced Topics GWS,NULL
+GWS 498,Senior Seminar,NULL
+GWS 512,Gender Relations & Intl Dev,NULL
+GWS 580,Queer Theories & Methods,NULL
+GWS 590,Topics in GWS,NULL
+HDFS 105,Intro to Human Development,NULL
+HDFS 120,Intro to Family Studies,NULL
+HDFS 140,Intro Gender & Women's Studies,NULL
+HDFS 199,Undergraduate Open Seminar,NULL
+HDFS 206,Early Childhood Curriculum Dev,HDFS 105 
+HDFS 208,Child Fam with Special Needs,HDFS 105 
+HDFS 220,Families in Global Perspective,NULL
+HDFS 221,Asian Families in America,NULL
+HDFS 225,Close Relationships,NULL
+HDFS 259,Motor Development and Control,NULL
+HDFS 262,Motor Develop  Growth & Form,NULL
+HDFS 263,Diversity in Recreation  Sport  and Tourism,NULL
+HDFS 290,Intro to Research Methods,HDFS 105 
+HDFS 291,HDFS Career Planning & Preparation,NULL
+HDFS 294,Research Internship,NULL
+HDFS 295,Independent Study or Research,NULL
+HDFS 305,Middle Childhood,HDFS 105 
+HDFS 310,Adult Development,HDFS 105 
+HDFS 322,US Latina and Latino Families,NULL
+HDFS 379,HDFS Study Abroad Experience,NULL
+HDFS 396,Honors Research or Thesis,NULL
+HDFS 408,Hospitalized Children,HDFS 105 
+HDFS 420,Inequality  Public Policy  and U.S. Families,HDFS 120 
+HDFS 424,Racial and Ethnic Families,NULL
+HDFS 426,Family Conflict Management,HDFS 120 
+HDFS 444,LGBT Indiv  Fam & Community,SOC 100 
+HDFS 459,Physical Activity & Aging,NULL
+HDFS 494,Applied Research Methods,NULL
+HDFS 499,Seminar,NULL
+HDFS 521,Family Theories,NULL
+HDFS 550,Advanced Practicum in HDFS,HDFS 450 
+HDFS 591,Qualitative Methods,NULL
+HDFS 594,Intermed Statistical Analysis,HDFS 590 
+HDFS 595,Seminar,NULL
+HDFS 596,Advanced Studies in HDFS,NULL
+HDFS 598,Special Problems in HDFS,NULL
+HDFS 599,Thesis Research,NULL
+HEBR 199,Undergraduate Open Seminar,NULL
+HEBR 202,Elementary Modern Hebrew II,HEBR 201 
+HEBR 407,Topics Hebrew Lang & Lit I,HEBR 205 HEBR 406 
+HIST 100,Global History,NULL
+HIST 101,History Now!,NULL
+HIST 104,Black Music,NULL
+HIST 105,Latin America to Independence,NULL
+HIST 110,History of Africa,NULL
+HIST 120,East Asian Civilizations,NULL
+HIST 135,History of Islamic Middle East,NULL
+HIST 140,Western Civ to 1660-ACP,NULL
+HIST 141,Western Civ to 1660,NULL
+HIST 142,Western Civ Since 1660,NULL
+HIST 143,Western Civ Since 1660-ACP,NULL
+HIST 171,US Hist to 1877,NULL
+HIST 172,US Hist Since 1877,NULL
+HIST 191,Freshman Honors Tutorial,NULL
+HIST 199,Undergraduate Open Seminar,NULL
+HIST 200,Intro Hist Interpretation,NULL
+HIST 203,Reacting to the Past,NULL
+HIST 207,Publishing the Past,NULL
+HIST 219,History of the Prison,NULL
+HIST 221,Modern China,NULL
+HIST 241,History of Ancient Rome,NULL
+HIST 251,Warfare Milit Insts & Soc,NULL
+HIST 252,The Holocaust,NULL
+HIST 258,20thC World to Midcentury,NULL
+HIST 260,History of Russia,NULL
+HIST 264,Technology in Western Society,NULL
+HIST 265,Science in Western Civ,NULL
+HIST 273,Illinois History,NULL
+HIST 274,US & World Since 1917,NULL
+HIST 276,Afro-American Hist Since 1877,NULL
+HIST 279,Mexican-American History,NULL
+HIST 280,Caribbean Latina/o Migration,NULL
+HIST 281,Constructing Race in America,NULL
+HIST 283,Asian American History,NULL
+HIST 287,African-American Women,NULL
+HIST 289,History of Religion in America,NULL
+HIST 293,The President and the People,NULL
+HIST 300,Topics in Film and History,NULL
+HIST 310,Global Capitalism in History,NULL
+HIST 312,Immigrant America,NULL
+HIST 325,History of Korea,NULL
+HIST 334,Modern Palestinian History,NULL
+HIST 345,Medieval Civilization,NULL
+HIST 361,Euro Thght & Soc Since 1789,NULL
+HIST 374,Civil War and Reconstruction,NULL
+HIST 377,United States since 1932,NULL
+HIST 379,Latina/os and the City,NULL
+HIST 381,Urban History,NULL
+HIST 383,Hist of Blk Women's Activism,NULL
+HIST 390,Sport and Society,NULL
+HIST 397,Sexuality in Modern Europe,NULL
+HIST 398,Internship in Public History,NULL
+HIST 399,Independent Study,NULL
+HIST 400,War  Soc  Politics  & Culture,NULL
+HIST 441,The Roman Empire,NULL
+HIST 478,Black Freed Move  1955-Present,NULL
+HIST 490,Honors Independent Study,NULL
+HIST 492,Historiography and Methodology,NULL
+HIST 493,Honors Senior Thesis,HIST 492 HIST 495 HIST 499 
+HIST 498,Research and Writing Seminar,NULL
+HIST 499,Thesis Seminar,HIST 492 HIST 495 HIST 493 
+HIST 502,Prob in Comparative History,NULL
+HIST 520,Problems in Chinese History,NULL
+HIST 572,Prob in US Hist Since 1815,NULL
+HIST 575,Problems African American Hist,NULL
+HIST 594,Intro Historical Writing,HIST 593 
+HIST 596,Individual Research Project,NULL
+HIST 597,Reading Course,NULL
+HIST 598,Teaching of College History,NULL
+HIST 599,Thesis Research,NULL
+HNDI 115,Language and Culture in India,NULL
+HNDI 202,Elementary Hindi-Urdu II,HNDI 201 
+HNDI 404,Intermediate Hindi II,HNDI 403 
+HNDI 406,Advanced Hindi II,HNDI 405 
+HORT 100,Introduction to Horticulture,NULL
+HORT 105,Vegetable Gardening,NULL
+HORT 106,The Sustainable Home Garden,NULL
+HORT 107,Introduction to Floral Design,NULL
+HORT 180,Medicinal Plants and Herbology,NULL
+HORT 240,Plant Propagation,IB 103 
+HORT 261,Biotechnology in Agriculture,NULL
+HORT 293,Off-Campus Horticulture Internship,NULL
+HORT 294,On-Campus Horticulture Internship,NULL
+HORT 295,Undergrad Research or Thesis,NULL
+HORT 341,Greenhouse Mgmt and Production,NRES 201 HORT 100 
+HORT 361,Small Fruit Production,HORT 100 IB 103 
+HORT 396,Ug Honors Research or Thesis,NULL
+HORT 430,Children and Nature,NULL
+HORT 434,Designing Urban Agriculture,NULL
+HORT 453,Principles of Plant Breeding,NULL
+HORT 466,Growth and Dev of Hort Crops,CHEM 104 HORT 421 IB 420 
+HRD 402,Business Principles for HRD,NULL
+HRD 411,Instructional and Training System Design,NULL
+HRD 414,Facilitation Skills,NULL
+HRD 415,Diversity in the Workplace,NULL
+HRD 440,Work Analysis,HRD 400 
+HRD 472,Learning Technologies,HRD 411 
+HRD 509,Advanced Theories in HRD,HRD 400 HRD 411 HRD 530 
+HRD 530,Organization Development,NULL
+HRD 535,Consulting in HRD,NULL
+HRD 550,Adult & Professional Education,NULL
+HRD 585,Program Evaluation,NULL
+HUM 191,Freshman Honors Tutorial,NULL
+HUM 199,Undergraduate Open Seminar,NULL
+HUM 389,French & Comparative Cinema II,NULL
+HUM 390,Individual Study,NULL
+HUM 397,Special Topics Junior,NULL
+HUM 492,Senior Thesis,NULL
+HUM 495,Special Advanced Topics,NULL
+HUM 498,Special Topics Senior,NULL
+IB 100,Biology in Today's World,NULL
+IB 103,Introduction to Plant Biology,NULL
+IB 105,Environmental Biology,NULL
+IB 108,The Biology of Dinosaurs,NULL
+IB 150,Organismal & Evolutionary Biol,NULL
+IB 151,Organismal & Evol Biol Lab,IB 150 
+IB 199,Undergraduate Open Seminar,NULL
+IB 202,Physiology,IB 150 MCB 150 
+IB 271,Organismal Biology,IB 270 
+IB 299,Undergraduate Special Course,NULL
+IB 302,Evolution,IB 204 
+IB 329,Animal Behavior,NULL
+IB 335,Systematics of Plants,IB 100 IB 103 IB 150 
+IB 361,Ecology and Human Health,NULL
+IB 390,Introductory Research,NULL
+IB 405,Ecological Genetics,IB 204 
+IB 416,Population Genetics,NULL
+IB 420,Plant Physiology,IB 103 IB 150 MCB 150 CHEM 232 
+IB 430,Animal Behavior Lab,NULL
+IB 432,Genes and Behavior,IB 150 IB 204 
+IB 435,Critical Evaluation of Herbal Remedies,IB 202 IB 203 
+IB 439,Biogeography,IB 150 
+IB 442,Evolution of Infectious Disease,NULL
+IB 451,Conservation Biology,IB 203 
+IB 453,Community Ecology,IB 203 
+IB 461,Ornithology,IB 203 
+IB 464,Herpetology,IB 302 
+IB 483,Insect Pathology,IB 150 MCB 150 
+IB 485,Environ Toxicology & Health,NULL
+IB 486,Pesticide Toxicology,NULL
+IB 487,Math Modeling in Life Sciences,NULL
+IB 490,Independent Study,NULL
+IB 492,Science Communication Skills,IB 203 IB 271 IB 299 IB 390 IB 490 
+IB 496,Special Courses,NULL
+IB 502,Biological Networks,NULL
+IB 504,Genomic Analysis of Insects,IB 204 
+IB 505,Bioinformatics & Systems Biol,NULL
+IB 512,Plant Metabolomics,NULL
+IB 513,Disc in Plant Physiology,NULL
+IB 516,Ecosystem Biogeochemistry,NULL
+IB 526,Seminar in Entomology,NULL
+IB 532,Sustainability & Global Change,NULL
+IB 536,Evolutionary Biology,NULL
+IB 546,Topics in Ecology & Evolution,NULL
+IB 590,Individual Topics,NULL
+IE 199,Undergraduate Open Seminar,NULL
+IE 300,Analysis of Data,MATH 241 
+IE 310,Deterministic Models in Optimization,MATH 415 
+IE 330,Industrial Quality Control,IE 300 
+IE 340,Human Factors,PSYC 100 PSYC 103 
+IE 361,Production Planning & Control,IE 310 
+IE 370,Stochastic Processes and Applications,IE 300 IE 310 
+IE 397,Independent Study,NULL
+IE 398,Special Topics,NULL
+IE 413,Simulation,CS 101 IE 310 
+IE 420,Financial Engineering,IE 300 
+IE 431,Design for Six Sigma,IE 300 
+IE 497,Independent Study,NULL
+IE 511,Integer Programming,IE 411 MATH 482 
+IE 514,Optimization Methods for Large-Scale  Network-Based Systems,IE 411 
+IE 521,Convex Optimization,ECE 490 IE 411 MATH 415 MATH 444 
+IE 525,Numerical Methods in Finance,FIN 500 
+IE 526,Stochastic Calculus in Finance,IE 525 
+IE 527,MSFE Professional Development,NULL
+IE 529,Stats of Big Data & Clustering,MATH 415 IE 300 
+IE 531,Algorithms for Data Analytics,IE 411 CS 225 
+IE 590,Seminar,NULL
+IE 597,Independent Study,NULL
+IE 598,Special Topics,NULL
+IE 599,Thesis Research,NULL
+IHLT 102,Survey of Interdisc Health,NULL
+IHLT 232,Health Disparities in the U.S.,NULL
+IHLT 375,Interdis Collab in Health Serv,NULL
+IHLT 474,Pre-Field Experience in Health,NULL
+IHLT 475,Field Experience in i-Health,NULL
+INFO 102,Little Bits to Big Ideas,NULL
+INFO 199,Undergraduate Open Seminar,NULL
+INFO 202,Social Aspects Info Tech,NULL
+INFO 303,Writing Across Media,NULL
+INFO 326,New Media  Culture & Society,NULL
+INFO 399,Individual Study,NULL
+INFO 403,An Introduction to Top Down Video Game Design,NULL
+INFO 490,Special Topics,NULL
+INFO 491,Ugrad Bioinformatics Seminar,NULL
+INFO 500,Orientation Seminar,NULL
+INFO 510,Research Practicum,NULL
+INFO 590,Advanced Special Topics,NULL
+INFO 591,Grad Bioinformatics Seminar,NULL
+INFO 597,Individual Study,NULL
+INFO 599,Thesis Research,NULL
+IS 202,Social Aspects Info Tech,NULL
+IS 390,Special Topics in Information Studies,NULL
+IS 404,Literature and Resources for Young Adults,NULL
+IS 409,Storytelling,NULL
+IS 418,Community Engagement,NULL
+IS 445,Information Books and Resources for Youth,NULL
+IS 451,Introduction to Network Information Systems,NULL
+IS 452,Foundations of Information Processing,NULL
+IS 457,Introduction to Data Science,NULL
+IS 458,Instructional Strategies and Techniques for Information Professionals,NULL
+IS 461,Museum Informatics,NULL
+IS 462,Information Assurance,NULL
+IS 483,Ugrad Bioinformatics Seminar,NULL
+IS 490,Advanced Topics in Information Studies,NULL
+IS 501,Information Organization and Access,NULL
+IS 502,Libraries  Information and Society,NULL
+IS 504,Reference and Information Services,NULL
+IS 505,Administration & Management of Libraries and Information Centers,NULL
+IS 506,Youth Services Librarianship,NULL
+IS 507,Introduction to Bibliographic Metadata,IS 501 IS 501 IS 507 
+IS 508,Collection Development,IS 501 IS 501 IS 508 
+IS 515,Media Literacy for Youth,NULL
+IS 516,School Library Media Center,NULL
+IS 518,Community Informatics,NULL
+IS 519,Soc Sc Research in LIS,NULL
+IS 524,Information Sources and Services in the Arts and Humanities,IS 504 
+IS 525,Government Information,IS 504 
+IS 530,Information Needs of Particular Communities,IS 504 
+IS 532,Theory & Practice of Data Cleaning,NULL
+IS 538,Competitive Intelligence & Knowledge Management,NULL
+IS 539,Information Consulting,NULL
+IS 540,Applied Business Research,NULL
+IS 542,Data  Statistical Models and Information,NULL
+IS 543,Sociotechnical Information Systems,NULL
+IS 547,Information Services for Diverse Populations,NULL
+IS 548,Library Buildings,NULL
+IS 559,Network Analysis,NULL
+IS 561,Information Modeling,NULL
+IS 562,Metadata in Theory & Practice,IS 501 
+IS 567,Academic Librarianship,NULL
+IS 568,Theological Librarianship,NULL
+IS 572,Medieval Manuscripts and Early Modern Books,NULL
+IS 581,Administration and Use of Archival Materials,NULL
+IS 582,Preserving Info Resources,NULL
+IS 583,Grad Bioinformatics Seminar,NULL
+IS 586,Digital Preservation,NULL
+IS 587,History and Foundations of Library and Information Science,NULL
+IS 590,Advanced Problems in Information Sciences,NULL
+IS 591,Practicum,NULL
+IS 592,Independent Study,IS 592 
+IS 593,CAS Project,IS 593 
+IS 599,Thesis Research,IS 599 
+ITAL 101,Elementary Italian I,NULL
+ITAL 102,Elementary Italian II,ITAL 101 
+ITAL 103,Intermediate Italian I,ITAL 102 
+ITAL 104,Intermediate Italian II,ITAL 103 
+ITAL 199,Undergraduate Open Seminar,NULL
+ITAL 200,Italian Studies in a Mediterranean Context,ITAL 104 
+ITAL 220,Contemporary Italian  Oral and Written,NULL
+ITAL 310,Advanced Grammar,NULL
+ITAL 390,Spec Topics Italian Studies,ITAL 104 
+ITAL 413,Dante,NULL
+ITAL 418,Language & Minorities in Europe,NULL
+ITAL 435,Introduction to Romance Linguistics,NULL
+ITAL 460,Principles of Language Testing,NULL
+ITAL 489,Theoretical Foundations of SLA,NULL
+ITAL 490,Italian Critical Theory,NULL
+ITAL 491,Honors Senior Thesis,NULL
+ITAL 510,Seminar in Italian Studies,NULL
+ITAL 588,Sem Second Lang Learn,NULL
+ITAL 595,Spec Topics in Italian,NULL
+ITAL 599,Thesis Research,NULL
+JAPN 202,Elementary Japanese II,JAPN 201 
+JAPN 204,Intermediate Japanese II,JAPN 203 
+JAPN 306,Advanced Japanese II,JAPN 305 
+JAPN 441,Fourth Year Japanese II,JAPN 440 
+JAPN 490,Readings in Japanese Lit,NULL
+JAPN 499,Study Abroad,NULL
+JOUR 199,Undergraduate Open Seminar,NULL
+JOUR 200,Introduction to Journalism,NULL
+JOUR 210,Newsgathering Across Platforms,NULL
+JOUR 215,Multimedia Reporting,JOUR 210 
+JOUR 220,News Editing,NULL
+JOUR 293,Digital Photography for Everyone,NULL
+JOUR 311,Media Law,NULL
+JOUR 315,Adv Public Affairs Reporting,JOUR 210 
+JOUR 335,Audio Journalism,JOUR 210 
+JOUR 340,Video Reporting & Storytelling,JOUR 210 
+JOUR 361,Readings in Sports Journalism,NULL
+JOUR 425,Multimedia Editing and Design,JOUR 215 
+JOUR 445,Video Storytelling 2-Producing,JOUR 340 
+JOUR 450,Media and Public Opinion,NULL
+JOUR 453,Crisis Communications,NULL
+JOUR 454,Propaganda & the News Media,NULL
+JOUR 460,Special Topics,NULL
+JOUR 471,Science Journalism,NULL
+JOUR 480,Advanced Reporting Topics,JOUR 210 
+JOUR 483,Investigative Journalism,NULL
+JOUR 490,Professional Project,NULL
+JOUR 495,Internship Seminar,NULL
+JOUR 500,Current Issues in Journalism,NULL
+JOUR 515,Master's Project,NULL
+JOUR 590,Advanced Topics in Journalism,NULL
+JS 252,The Holocaust,NULL
+JS 261,The Holocaust in Context,NULL
+JS 320,Lit Responses to the Holocaust,NULL
+JS 399,Special Topics,NULL
+JS 495,Independent Study,NULL
+JS 551,Seminar in Jewish Culture,NULL
+KIN 100,Development Activities,NULL
+KIN 101,Dance Activities,NULL
+KIN 102,Individual and Dual Activities,NULL
+KIN 103,Indoor Court Activities,NULL
+KIN 104,Skating Activities,NULL
+KIN 107,Aquatic Sport Activities,NULL
+KIN 109,Team Sport Activities,NULL
+KIN 111,Prescribed Exercise,NULL
+KIN 122,Physical Activity and Health,NULL
+KIN 125,Orientation KIN & Comm Health,NULL
+KIN 140,Social Sci of Human Movement,NULL
+KIN 142,Contemporary Issues in Sport,NULL
+KIN 150,Bioscience of Human Movement,NULL
+KIN 199,Undergraduate Open Seminar,NULL
+KIN 201,Physical Activity Research Methods,NULL
+KIN 230,Diversity in Recreation  Sport  and Tourism,NULL
+KIN 247,Intro to Sport Psychology,NULL
+KIN 249,Sport & Modern Society,NULL
+KIN 259,Motor Development and Control,NULL
+KIN 261,Teaching Activities II,KIN 130 
+KIN 262,Motor Develop  Growth & Form,NULL
+KIN 268,Children's Movement,NULL
+KIN 340,Soc & Psych of Phys Activity,KIN 140 PSYC 100 
+KIN 345,Sport and Society,NULL
+KIN 346,Case Study: Endless Summer,NULL
+KIN 352,Bioenergetics of Movement,NULL
+KIN 355,Biomechanics of Human Movement,NULL
+KIN 362,Curriculum in Grades 7-12,NULL
+KIN 363,Instructional Strategies in PE,NULL
+KIN 365,Civic Engagement in Wellness,NULL
+KIN 369,Coaching Strategies,NULL
+KIN 375,Comm Partners & Health,NULL
+KIN 385,Exper in Kinesiology Research,NULL
+KIN 386,Exercise Instruction & Elderly,KIN 352 
+KIN 387,Exper in the Agency Setting,NULL
+KIN 391,Special Project-Problems,NULL
+KIN 393,Honors Thesis,NULL
+KIN 401,Measure & Eval in Kinesiology,KIN 140 KIN 150 
+KIN 407,Disability  Culture & Society,NULL
+KIN 443,Psychophysiology in Ex & Sport,KIN 340 
+KIN 452,Clin & Applied Ex Physiology,KIN 352 
+KIN 459,Physical Activity & Aging,NULL
+KIN 460,Technology & Pedagogical KINES,NULL
+KIN 470,Exercise Endocrinology,KIN 352 
+KIN 473,Skill Acquisition Strategies,KIN 257 
+KIN 474,Tech-Driven Health Intervention,NULL
+KIN 485,Clin Exper in Sports Medicine,NULL
+KIN 494,Special Topics,NULL
+KIN 540,Health Behavior: Theory,NULL
+KIN 543,Physical Activity & Cognition,NULL
+KIN 564,Qualitative Research Methods,NULL
+KIN 590,Independent Study,NULL
+KIN 591,Seminar,NULL
+KIN 594,Special Topics,NULL
+KIN 599,Thesis Research,NULL
+KOR 202,Elementary Korean II,KOR 201 KOR 201 
+KOR 204,Intermediate Korean II,KOR 203 KOR 203 
+KOR 222,Korean Reading and Writing II,KOR 221 KOR 221 
+KOR 242,Korean Reading and Writing IV,KOR 241 KOR 241 
+KOR 306,Advanced Korean II,KOR 305 KOR 305 
+KOR 441,Fourth Year Korean II,KOR 440 KOR 440 
+LA 199,Undergraduate Open Seminar,NULL
+LA 221,History of the Prison,NULL
+LA 222,Islamic Gardens & Architecture,NULL
+LA 234,Site Design Studio,LA 233 
+LA 241,Landform Design & Construction,MATH 014 
+LA 242,Nature and American Culture,NULL
+LA 270,Behavioral Factors in Design,NULL
+LA 281,Design Communications II,LA 234 LA 280 
+LA 301,Senior Honors,NULL
+LA 314,History of World Landscapes,NULL
+LA 336,Design Workshop Studio I,LA 335 
+LA 343,Landscape Construction,LA 342 
+LA 390,Independent Study,NULL
+LA 430,Children and Nature,NULL
+LA 438,Design Workshop Studio II,LA 336 
+LA 466,Energy  Plng & Blt Environment,NULL
+LA 472,Museum Theory and Practice,NULL
+LA 513,History of World Landscapes,NULL
+LA 563,Soc/Beh Research Designed Env,NULL
+LA 590,Directed Research,NULL
+LA 594,Cultural Heritage,LA 438 
+LA 597,Research Design & Methods,NULL
+LA 598,Master's Project,NULL
+LA 599,Thesis Research,NULL
+LAS 102,Transfer Advantage,NULL
+LAS 199,Undergraduate Open Seminar,NULL
+LAS 291,Global Perspectives for Intercultural Learning,NULL
+LAS 292,Global Perspectives in Cross-Cultural Contexts,LAS 291 
+LAS 299,LAS Study Abroad,NULL
+LAS 399,Leadership & Professional Development,NULL
+LAS 494,Senior Project,NULL
+LAST 170,Introduction to Latin America,NULL
+LAST 395,Special Topics,NULL
+LAST 441,International Water Project II,NULL
+LAST 445,Native Latin Amer Languages,NULL
+LAST 490,Individual Study,LAST 170 
+LAST 550,Interdisc Seminar Latin Am St,NULL
+LAST 597,M.A. Research,NULL
+LAST 599,Thesis Research,NULL
+LAT 101,Elementary Latin I,NULL
+LAT 102,Elementary Latin II,LAT 101 
+LAT 199,Undergraduate Open Seminar,NULL
+LAT 201,Intermediate Latin,LAT 102 
+LAT 202,Intro to Latin Literature,NULL
+LAT 411,Intermediate Prose Composition,LAT 202 LAT 104 
+LAT 460,Medieval Latin,NULL
+LAT 492,Senior Thesis,NULL
+LAT 493,Independent Reading,LAT 401 
+LAT 498,Senior Survey,NULL
+LAT 511,Advanced Prose Composition,NULL
+LAT 599,Thesis Research,NULL
+LAW 199,Undergraduate Open Seminar,NULL
+LAW 302,Transitional Justice,NULL
+LAW 303,Living the Law,NULL
+LAW 499,LAW Study Abroad,NULL
+LAW 501,Professional Responsibility,NULL
+LAW 599,Thesis Research,NULL
+LAW 600,Pro Bono Service,NULL
+LAW 601,Contracts,NULL
+LAW 602,Property,NULL
+LAW 604,Criminal Law,NULL
+LAW 606,Constitutional Law I,NULL
+LAW 607,Civil Procedure,NULL
+LAW 610,Introduction to Advocacy,NULL
+LAW 616,Environmental Law and Pol I,NULL
+LAW 624,Real Estate Finance,NULL
+LAW 625,State and Local Government,LAW 606 
+LAW 631,Secured Transactions,NULL
+LAW 633,Business Associations I,NULL
+LAW 638,White Collar Crime,NULL
+LAW 639,Corporate Finance,LAW 633 
+LAW 644,Copyright Law,NULL
+LAW 648,Corporate Taxation,LAW 647 
+LAW 657,International Human Rights Law,NULL
+LAW 660,Individual Employee Rights,NULL
+LAW 664,Employment Discrimination,NULL
+LAW 670,Elder Law,NULL
+LAW 680,Professional Responsibility,NULL
+LAW 682,Evidence,NULL
+LAW 684,Federal Courts,NULL
+LAW 685,Dispute Resolution,NULL
+LAW 687,Jurisprudence,NULL
+LAW 692,Field Placements,NULL
+LAW 693,Clinical Training,NULL
+LAW 694,Trial Advocacy,LAW 682 
+LAW 696,Legal Problems,NULL
+LAW 697,Moot Court,NULL
+LAW 699,Independent Study,NULL
+LAW 792,Current Legal Problems,NULL
+LAW 793,Advanced Litigation Topics,NULL
+LAW 794,Adv Topics in Business Law,NULL
+LAW 795,Adv Topics in Criminal Law,NULL
+LAW 796,Comparative Law Topics,NULL
+LAW 797,Intellectual Property Topics,NULL
+LAW 798,Seminars,NULL
+LER 100,Introduction to Labor Studies,NULL
+LER 110,Labor and Social Movements,NULL
+LER 120,Contemporary Labor Problems,NULL
+LER 130,Intro Labr Wrkng Class History,NULL
+LER 300,Workers  Unions  and Politics,NULL
+LER 410,Labor and the European Union,NULL
+LER 440,Economics of Labor Markets,NULL
+LER 523,Org Fundamentals for HR,NULL
+LER 540,Labor Economics I,NULL
+LER 542,Collective Bargaining,NULL
+LER 556,Industrial Relations Theory,NULL
+LER 558,Faculty-Student Workshop,NULL
+LER 561,Compensation Systems,NULL
+LER 562,HR Planning and Staffing,NULL
+LER 565,HR Management and Strategy,NULL
+LER 567,Negotiation in HR Decisions,NULL
+LER 568,Firm Performance and HR,NULL
+LER 569,Power & Influence in HRM,NULL
+LER 580,Internship,NULL
+LER 590,Individual Topics,NULL
+LER 591,Employment Relations Systems,NULL
+LER 593,Quantitative Methods in LER,NULL
+LER 595,Managing Diversity Globally,NULL
+LER 597,Employee Motivation & Perfmnce,NULL
+LER 599,Thesis Seminar,NULL
+LING 100,Intro to Language Science,NULL
+LING 111,Language in Globalization,NULL
+LING 115,Language and Culture in India,NULL
+LING 191,Freshman Honors Tutorial,NULL
+LING 199,Undergraduate Open Seminar,NULL
+LING 210,Language History,NULL
+LING 221,American Sign Language II,NULL
+LING 225,Language  Mind  and Brain,NULL
+LING 250,Language Diversity in the USA,NULL
+LING 270,Language  Technology & Society,LING 100 
+LING 290,Individual Study,NULL
+LING 291,Linguistics Laboratory Research Experience,NULL
+LING 301,Elements of Syntax,LING 100 
+LING 302,Elements of Phonology,LING 100 
+LING 303,General Speech Science,NULL
+LING 304,Elements of Morphology,LING 100 
+LING 307,Elmnts Semantics & Pragmatics,LING 100 
+LING 321,American Sign Language III,NULL
+LING 391,Honors Individual Study,NULL
+LING 400,Intro to Linguistic Structure,NULL
+LING 404,Tutorials in Non-Western Lang,NULL
+LING 406,Intro to Computational Ling,LING 402 
+LING 418,Language & Minorities in Europe,NULL
+LING 425,Intro to Psycholinguistics,NULL
+LING 427,Language and the Brain,NULL
+LING 430,Intro to East Asian Ling,LING 400 
+LING 438,Philosophy of Language,NULL
+LING 462,Introduction to Romance Linguistics,NULL
+LING 489,Theoretical Foundations of SLA,NULL
+LING 490,Special Topics in Linguistics,LING 100 LING 400 
+LING 502,Phonology I,LING 401 
+LING 524,Dev Psycholinguistics,NULL
+LING 525,Psycholinguistics,NULL
+LING 541,Syntax II,LING 501 
+LING 542,Phonology II,LING 502 
+LING 550,Sociolinguistics II,LING 450 
+LING 551,Pragmatics,LING 501 LING 507 
+LING 588,Sem Second Lang Learn,NULL
+LING 590,Special Topics in Linguistics,NULL
+LING 599,Thesis Research,NULL
+LLS 100,Intro Latina/Latino Studies,NULL
+LLS 215,US Citizenship Comparatively,NULL
+LLS 240,Latina/o Popular Culture,NULL
+LLS 265,Politics of Hip Hop,NULL
+LLS 279,Mexican-American History,NULL
+LLS 280,Caribbean Latina/o Migration,NULL
+LLS 281,Constructing Race in America,NULL
+LLS 305,Theories of Race  Gender  and Sexuality,NULL
+LLS 308,Spanish in the United States,NULL
+LLS 310,Race and Cultural Diversity,NULL
+LLS 320,Gender & Latina/o Migration,LLS 100 SOC 100 
+LLS 322,US Latina and Latino Families,NULL
+LLS 343,Criminalization and Punishment,NULL
+LLS 379,Latina/os and the City,NULL
+LLS 390,Independent Study,NULL
+LLS 396,Adv Topics Latina/o Studies,NULL
+LLS 458,Latina/o Performance,NULL
+LLS 490,Research and Writing Seminar,LLS 385 
+LLS 495,Senior Honors Thesis,NULL
+LLS 590,Independent Study,NULL
+MACS 100,Intro to Popular TV & Movies,NULL
+MACS 101,Intro to the Media,NULL
+MACS 104,Intro to Film,NULL
+MACS 166,Contemporary Media Literacy,NULL
+MACS 199,Undergraduate Open Seminar,NULL
+MACS 202,Social Aspects Info Tech,NULL
+MACS 203,Contemporary Movies,NULL
+MACS 204,Gender in Gaming,NULL
+MACS 205,Introduction to Documentary,NULL
+MACS 207,Indian Cinema in Context,NULL
+MACS 224,Sportsmedia Technology & Culture,NULL
+MACS 262,Survey of World Cinema II,NULL
+MACS 264,Creative and Information Economies,NULL
+MACS 273,American Cinema Since 1950,NULL
+MACS 275,Am Indian and Indigenous Film,NULL
+MACS 284,Animated Media from Mickey to GIFs,NULL
+MACS 295,Intro Media/Cinema Topics,NULL
+MACS 300,Topics in Film and History,NULL
+MACS 320,Popular Culture,NULL
+MACS 323,Studies Film/Media Production,NULL
+MACS 326,New Media  Culture & Society,NULL
+MACS 346,Case Study: Endless Summer,NULL
+MACS 351,Social Aspects of Media,NULL
+MACS 356,Sex & Gender in Popular Media,NULL
+MACS 365,Asian American Media and Film,NULL
+MACS 373,Special Topics in Film Studies,NULL
+MACS 383,French & Comparative Cinema II,NULL
+MACS 389,International Communications,NULL
+MACS 391,Individual Study,NULL
+MACS 425,Intro to Psycholinguistics,NULL
+MACS 464,Film Festivals,NULL
+MACS 495,Internship Seminar,NULL
+MACS 496,Advanced Media/Cinema Topics,NULL
+MACS 499,Senior Project,NULL
+MACS 504,Theories of Cinema,NULL
+MATH 103,Theory of Arithmetic,MATH 112 MATH 012 
+MATH 112,Algebra,NULL
+MATH 115,Preparation for Calculus,MATH 112 
+MATH 117,Elementary Mathematics,MATH 112 MATH 012 
+MATH 124,Finite Mathematics,MATH 112 MATH 012 
+MATH 181,A Mathematical World,NULL
+MATH 199,Undergraduate Open Seminar,NULL
+MATH 213,Basic Discrete Mathematics,MATH 220 MATH 221 
+MATH 220,Calculus,MATH 115 MATH 221 
+MATH 225,Introductory Matrix Theory,MATH 220 MATH 221 
+MATH 231,Calculus II,MATH 220 MATH 221 
+MATH 234,Calculus for Business I,MATH 112 
+MATH 241,Calculus III,MATH 231 
+MATH 285,Intro Differential Equations,MATH 241 
+MATH 286,Intro to Differential Eq Plus,MATH 241 
+MATH 347,Fundamental Mathematics,MATH 231 
+MATH 357,Numerical Methods I,NULL
+MATH 362,Probability with Engrg Applic,NULL
+MATH 390,Individual Study,NULL
+MATH 399,Math/Actuarial Internship,NULL
+MATH 402,Non Euclidean Geometry,MATH 241 MATH 347 MATH 348 
+MATH 403,Euclidean Geometry,MATH 241 MATH 347 
+MATH 412,Graph Theory,MATH 347 MATH 348 CS 374 
+MATH 413,Intro to Combinatorics,MATH 347 MATH 348 
+MATH 414,Mathematical Logic,MATH 347 MATH 348 
+MATH 415,Applied Linear Algebra,MATH 241 
+MATH 416,Abstract Linear Algebra,MATH 241 MATH 347 
+MATH 417,Intro to Abstract Algebra,MATH 416 MATH 410 MATH 415 MATH 347 MATH 348 CS 374 
+MATH 418,Intro to Abstract Algebra II,MATH 417 
+MATH 425,Honors Advanced Analysis,MATH 424 MATH 415 MATH 416 
+MATH 432,Set Theory and Topology,MATH 347 MATH 348 
+MATH 441,Differential Equations,MATH 241 MATH 347 MATH 348 
+MATH 442,Intro Partial Diff Equations,MATH 284 MATH 285 MATH 286 MATH 441 
+MATH 444,Elementary Real Analysis,MATH 241 MATH 347 MATH 348 
+MATH 446,Applied Complex Variables,MATH 241 
+MATH 447,Real Variables,MATH 241 MATH 347 MATH 348 
+MATH 448,Complex Variables,MATH 447 
+MATH 450,Numerical Analysis,NULL
+MATH 453,Elementary Theory of Numbers,MATH 241 
+MATH 461,Probability Theory,MATH 241 
+MATH 463,Statistics and Probability I,NULL
+MATH 464,Statistics and Probability II,NULL
+MATH 481,Vector and Tensor Analysis,MATH 241 MATH 415 MATH 416 
+MATH 482,Linear Programming,MATH 410 MATH 415 MATH 416 
+MATH 484,Nonlinear Programming,MATH 241 MATH 347 MATH 348 MATH 415 
+MATH 487,Advanced Engineering Math,MATH 284 MATH 285 MATH 286 MATH 441 
+MATH 489,Dynamics & Differential Eqns,MATH 284 MATH 285 MATH 286 MATH 441 
+MATH 490,Advanced Topics in Mathematics,NULL
+MATH 492,Undergraduate Research in Math,NULL
+MATH 496,Honors Seminar,NULL
+MATH 499,Introduction Graduate Research,NULL
+MATH 501,Abstract Algebra II,MATH 500 
+MATH 511,Intro to Algebraic Geometry,MATH 500 
+MATH 519,Differentiable Manifolds II,MATH 518 
+MATH 525,Algebraic Topology I,MATH 417 MATH 448 
+MATH 527,Homotopy Theory,MATH 526 MATH 501 
+MATH 530,Algebraic Number Theory,MATH 500 
+MATH 532,Analytic Theory of Numbers II,MATH 531 
+MATH 540,Real Analysis,MATH 447 
+MATH 541,Functional Analysis,MATH 540 
+MATH 553,Partial Differential Equations,NULL
+MATH 561,Theory of Probability I,MATH 541 
+MATH 571,Model Theory,MATH 570 
+MATH 582,Structure of Graphs,MATH 580 
+MATH 593,Mathematical Internship,NULL
+MATH 595,Advanced Topics in Mathematics,NULL
+MATH 597,Reading Course,NULL
+MATH 599,Thesis Research,NULL
+MBA 503,Prin & Proc of Management I,NULL
+MBA 504,Prin & Proc of Management II,NULL
+MBA 530,Internship,NULL
+MBA 531,Special Projects,NULL
+MCB 100,Introductory Microbiology,MCB 100 
+MCB 101,Intro Microbiology Laboratory,MCB 100 
+MCB 150,Molec & Cellular Basis of Life,NULL
+MCB 151,Molec & Cellular Laboratory,MCB 150 
+MCB 198,Internship,NULL
+MCB 199,Undergraduate Open Seminar,NULL
+MCB 246,Human Anatomy & Physiology II,MCB 244 CHEM 101 CHEM 102 
+MCB 247,Human Anat & Physiol Lab II,MCB 245 CHEM 101 CHEM 102 
+MCB 250,Molecular Genetics,MCB 150 CHEM 102 CHEM 104 
+MCB 251,Exp Techniqs in Molecular Biol,MCB 250 
+MCB 252,Cells  Tissues & Development,MCB 250 
+MCB 253,Exp Techniqs in Cellular Biol,MCB 252 
+MCB 270,Medical Genetics,MCB 252 
+MCB 290,Undergraduate Research,NULL
+MCB 297,MCB Honors Discussion,NULL
+MCB 298,MCB Honors Lab Discussion,NULL
+MCB 299,MCB Merit Program Discussion,NULL
+MCB 300,Microbiology,MCB 250 MCB 252 
+MCB 301,Experimental Microbiology,MCB 250 MCB 300 
+MCB 317,Genetics and Genomics,MCB 250 MCB 251 MCB 252 MCB 253 
+MCB 320,Mechanisms of Human Disease,MCB 252 
+MCB 354,Biochem & Phys Basis of Life,CHEM 232 CHEM 236 MCB 250 MCB 252 
+MCB 364,Eukaryotic Cell Biology Laboratory,NULL
+MCB 402,Sys & Integrative Physiology,MCB 252 
+MCB 408,Immunology,MCB 250 MCB 251 MCB 252 MCB 253 MCB 354 
+MCB 410,Developmental Biology  Stem Cells and Regenerative Medicine,MCB 252 
+MCB 419,Brain  Behavior & Info Process,CS 101 PHYS 102 PHYS 212 MCB 252 
+MCB 421,Microbial Genetics,MCB 300 
+MCB 429,Cellular Microbiology &Disease,MCB 300 MCB 354 
+MCB 432,Computing in Molecular Biology,MCB 250 MCB 252 MCB 354 MATH 220 MATH 221 MATH 231 STAT 212 
+MCB 433,Virology & Viral Pathogenesis,NULL
+MCB 434,Food & Industrial Microbiology,NULL
+MCB 435,Evolution of Infectious Disease,MCB 300 
+MCB 442,Comparative Immunobiology,NULL
+MCB 446,Physical Biochemistry,NULL
+MCB 450,Introductory Biochemistry,CHEM 232 CHEM 236 
+MCB 458,Basic Human Pathology,MCB 354 
+MCB 462,Integrative Neuroscience,MCB 252 MCB 461 
+MCB 465,Human Metabolic Disease,MCB 250 MCB 252 
+MCB 480,Eukaryotic Cell Signaling,MCB 252 
+MCB 492,Senior Thesis,MCB 290 
+MCB 493,Special Topics Mol Cell Biol,NULL
+MCB 521,Advanced Microbial Genetics,MCB 421 
+MCB 529,Special Topics Cell Devel Biol,NULL
+MCB 530,Reproductive Physiol Seminar,NULL
+MCB 539,Advanced Cellular Microbiology,MCB 429 
+MCB 543,Interdisciplinary Approaches to Neuroscience II,NULL
+MCB 571,Bioinformatics,NULL
+MCB 581,Laboratory Rotation I,MCB 582 
+MCB 582,Laboratory Rotation II,MCB 581 
+MCB 583,Laboratory Rotation III,MCB 581 MCB 582 
+MCB 585,Current Topics in Microbiology,NULL
+MDIA 223,Watching the Environment,NULL
+MDIA 270,Introduction to Media Sales,NULL
+MDIA 299,Media Study Abroad,NULL
+MDIA 320,Media Sales Management,MDIA 270 
+MDIA 370,Advanced Media Sales,MDIA 270 
+MDIA 380,21st Century Documentaries,NULL
+MDIA 390,Special Topics in Media,NULL
+MDIA 524,Dev Psycholinguistics,NULL
+MDIA 525,Psycholinguistics,NULL
+MDIA 572,Proseminar II,NULL
+MDIA 590,Special Topics,NULL
+MDIA 599,Thesis Research,NULL
+MDVL 201,Medieval Lit and Culture,NULL
+MDVL 345,Medieval Civilization,NULL
+MDVL 413,Dante,NULL
+MDVL 500,Seminar in Medieval Studies,NULL
+ME 170,Computer-Aided Design,NULL
+ME 199,Undergraduate Open Seminar,NULL
+ME 200,Thermodynamics,MATH 241 
+ME 270,Design for Manufacturability,ME 170 
+ME 297,Introductory Independent Study,NULL
+ME 310,Fundamentals of Fluid Dynamics,MATH 285 MATH 286 MATH 441 ME 200 
+ME 320,Heat Transfer,MATH 285 MATH 286 MATH 441 ME 200 
+ME 330,Engineering Materials,CHEM 102 TAM 251 
+ME 340,Dynamics of Mechanical Systems,MATH 285 MATH 286 MATH 441 TAM 212 ECE 205 MATH 415 
+ME 360,Signal Processing,ME 340 
+ME 370,Mechanical Design I,ME 270 TAM 212 TAM 251 
+ME 371,Mechanical Design II,ME 330 CEE 300 ME 370 
+ME 400,Energy Conversion Systems,ME 200 
+ME 404,Intermediate Thermodynamics,ME 200 
+ME 410,Intermediate Gas Dynamics,ME 200 ME 310 TAM 335 AE 311 
+ME 412,Numerical Thermo-Fluid Mechs,ME 310 TAM 335 ME 320 
+ME 431,Mechanical Component Failure,ME 330 ME 371 ME 430 
+ME 440,Kinem & Dynamics of Mech Syst,ME 370 
+ME 445,Introduction to Robotics,NULL
+ME 446,Robot Dynamics and Control,NULL
+ME 452,Num Control of Mfg Processes,CS 101 ME 270 
+ME 455,Micromanufacturing Process & Automation,ME 270 
+ME 460,Industrial Control Systems,ME 340 ME 360 
+ME 465,Optics: Theory & Applications,PHYS 212 MATH 285 MATH 286 MATH 441 
+ME 470,Senior Design Project,NULL
+ME 471,Finite Element Analysis,CS 101 ME 371 TAM 470 AE 370 
+ME 472,Introduction to Tribology,NULL
+ME 481,Whole-Body Musculoskel Biomech,TAM 212 TAM 251 
+ME 483,Mechanobiology,CHEM 103 TAM 251 
+ME 487,MEMS-NEMS Theory & Fabrication,PHYS 212 
+ME 496,Honors Project,NULL
+ME 497,Independent Study,NULL
+ME 498,Special Topics,NULL
+ME 501,Combustion Fundamentals,AE 311 ME 410 
+ME 502,Thermal Systems,ME 402 
+ME 510,Advanced Gas Dynamics,ME 410 
+ME 520,Heat Conduction,ME 420 
+ME 523,Nanoscale Energy Transport,NULL
+ME 540,Control System Theory & Design,NULL
+ME 546,Analysis of Nonlinear Systems,NULL
+ME 570,Nonlinear Solid Mech Design,AE 420 CEE 470 ME 471 TAM 470 TAM 445 TAM 551 
+ME 590,Seminar,NULL
+ME 597,Independent Study,NULL
+ME 598,Special Topics,NULL
+ME 599,Thesis Research,NULL
+MICR 590,Individual Topics,NULL
+MICR 595,Microbiology Graduate Seminar,NULL
+MICR 599,Thesis Research,NULL
+MILS 102,Introduction to the Profession of Arms,NULL
+MILS 114,Leadership Laboratory,NULL
+MILS 202,Leadership and Teamwork,NULL
+MILS 214,Leadership Laboratory,NULL
+MILS 302,Leadership and Ethics,MILS 301 MILS 302 
+MILS 314,Leadership Laboratory,NULL
+MILS 324,Leadership Laboratory,NULL
+MILS 325,Independent Study,NULL
+MILS 342,Officership,MILS 341 MILS 342 
+MIP 590,Individual Topics,NULL
+MIP 595,Seminars in Physiology,NULL
+MIP 599,Thesis Research,NULL
+MSE 183,Freshman Materials Laboratory,MSE 182 
+MSE 199,Undergraduate Open Seminar,NULL
+MSE 201,Phases and Phase Relations,MSE 182 CHEM 104 MATH 231 PHYS 211 
+MSE 206,Mechanics for MatSE,MATH 225 MATH 241 PHYS 211 CS 101 MSE 201 
+MSE 280,Engineering Materials,CHEM 102 PHYS 211 
+MSE 304,Electronic Properties of Matls,PHYS 214 
+MSE 308,Materials Laboratory II,MSE 307 MSE 304 MSE 405 
+MSE 395,Materials Design,NULL
+MSE 396,Introduction to Research,NULL
+MSE 397,Independent Study,NULL
+MSE 402,Kinetic Processes in Materials,MSE 201 MSE 401 
+MSE 404,Laboratory Studies in Materials Science and Engineering,MSE 307 MSE 308 
+MSE 405,Microstructure Determination,PHYS 214 CHEM 104 MSE 201 MSE 307 
+MSE 420,Ceramic Materials & Properties,NULL
+MSE 422,Electrical Ceramics,MSE 420 
+MSE 441,Metals Processing,MSE 406 
+MSE 450,Polymer Science & Engineering,NULL
+MSE 453,Plastics Engineering,MSE 450 
+MSE 455,Macromolecular Solids,MSE 450 
+MSE 458,Polymer Physics,MSE 401 
+MSE 460,Electronic Materials I,ECE 340 MSE 304 PHYS 460 
+MSE 473,Biomolecular Materials Science,NULL
+MSE 474,Biomaterials and Nanomedicine,CHEM 236 MSE 457 MCB 450 
+MSE 487,Materials for Nanotechnology,MSE 401 PHYS 214 
+MSE 492,Lab Safety Fundamentals,NULL
+MSE 497,Independent Study,NULL
+MSE 499,Senior Thesis,NULL
+MSE 529,Hard Materials Seminar,NULL
+MSE 559,Soft Materials Seminar,NULL
+MSE 581,Advanced Electron Microscopy,MSE 405 MSE 481 
+MSE 582,Surface Physics,MSE 501 PHYS 560 
+MSE 590,Research Seminars,NULL
+MSE 595,Materials Colloquium,NULL
+MSE 597,Independent Study,NULL
+MSE 599,Thesis Research,NULL
+MUS 090,Seminar in Music Education,NULL
+MUS 102,Music Theory and Practice II,MUS 101 
+MUS 104,Rudiments of Music Theory II,MUS 103 
+MUS 106,Beginning Composition,NULL
+MUS 108,Musicianship II,MUS 101 MUS 107 
+MUS 120,English Diction,NULL
+MUS 122,German Diction,NULL
+MUS 125,English Diction and Dialects,NULL
+MUS 130,Introd to the Art of Music,NULL
+MUS 133,Introduction to World Music,NULL
+MUS 140,String Instrument Class,NULL
+MUS 144,Supp WW Inst: Clarinet,NULL
+MUS 146,Supp WW Inst: Flute,NULL
+MUS 147,Supp WW Inst: Oboe,NULL
+MUS 148,Supp WW Inst: Saxophone,NULL
+MUS 149,Supp WW Inst: Bassoon,NULL
+MUS 151,Supp Brass Inst: Trumpet,NULL
+MUS 153,Supp Brass Inst: Horn,NULL
+MUS 154,Supp Brass Inst: Trombone,NULL
+MUS 155,Supp Brass Inst: Euph/Tuba,NULL
+MUS 158,Supp Percussion Instruments,NULL
+MUS 164,Jazz Keyboard Studies II,MUS 163 
+MUS 165,Applied Jazz Instruction,NULL
+MUS 167,Class Jazz Improvisation II,MUS 166 
+MUS 169,Unit One Sem Instruct in Music,NULL
+MUS 173,Grp Instr Pno for Mus Maj II,MUS 101 MUS 107 MUS 172 
+MUS 175,Grp Instr Pno for Mus Maj IV,MUS 201 MUS 207 MUS 174 
+MUS 178,Guitar,NULL
+MUS 179,Harpsichord,NULL
+MUS 180,Piano,NULL
+MUS 181,Voice,NULL
+MUS 182,Organ,NULL
+MUS 183,Violin,NULL
+MUS 184,Viola,MUS 250 
+MUS 185,Cello,MUS 250 
+MUS 186,Double Bass,MUS 250 
+MUS 187,Harp,NULL
+MUS 188,Flute,NULL
+MUS 189,Clarinet,NULL
+MUS 190,Oboe,NULL
+MUS 191,Bassoon,NULL
+MUS 192,Saxophone,NULL
+MUS 193,Trumpet,NULL
+MUS 194,Horn,NULL
+MUS 195,Trombone,NULL
+MUS 196,Euphonium,NULL
+MUS 197,Tuba,NULL
+MUS 198,Percussion,NULL
+MUS 199,Undergraduate Open Seminar,NULL
+MUS 205,Computation and Music II,CS 125 CS 126 MUS 101 
+MUS 206,Intermediate Composition,MUS 106 
+MUS 208,Musicianship IV,MUS 201 MUS 207 
+MUS 209,Music  Sound  Technology,NULL
+MUS 222,Singing in Musical Theatre,NULL
+MUS 240,Orientation Mus Tchg Lrng K-HS,NULL
+MUS 242,Elements of Conducting,NULL
+MUS 244,Social Foundations of Music Ed,MUS 240 
+MUS 250,University Orchestra,NULL
+MUS 252,Ethnomusicology Perf Ensembles,NULL
+MUS 256,Brass Ensemble,NULL
+MUS 257,Percussion Ensemble,NULL
+MUS 258,Piano Ensemble,NULL
+MUS 260,Oratorio Society,NULL
+MUS 261,Choral Ensemble,NULL
+MUS 262,Women's Glee Club,NULL
+MUS 263,Men's Glee Club,NULL
+MUS 266,Jazz Ensemble,NULL
+MUS 267,Chamber Music,NULL
+MUS 268,Wind Symphony,NULL
+MUS 269,Wind Orchestra,NULL
+MUS 271,Hindsley Symphonic Band,NULL
+MUS 272,Concert Band,NULL
+MUS 274,Basketball Band,NULL
+MUS 299,Thesis/Adv UG Honors in Music,NULL
+MUS 314,The History of Music II,MUS 313 
+MUS 320,Pre-Student Tchng Experience,NULL
+MUS 331,Advanced Choral Conducting II,MUS 330 
+MUS 332,Advanced Wind Band Conducting and Rehearsal Strategies,MUS 242 
+MUS 342,Music in Childhood,MUS 240 
+MUS 344,Instrumental Methods for Secondary Ensembles,MUS 240 MUS 350 
+MUS 346,Choral Methods for Secondary Ensembles,NULL
+MUS 348,Choral Literature,MUS 242 
+MUS 361,Jazz Improv:Theory and Prac II,MUS 360 
+MUS 363,Jazz Arranging II,MUS 362 
+MUS 365,Jazz Composition II,MUS 364 
+MUS 369,Jazz Improvisation Styles II,MUS 368 
+MUS 400,Counterpoint and Fugue,MUS 202 MUS 208 
+MUS 406,Advanced Composition,MUS 206 
+MUS 408,Analysis of Musical Form,MUS 202 MUS 208 
+MUS 409,Elec Music Techniques II,NULL
+MUS 412,Composer Studies in Musicology,MUS 313 MUS 314 
+MUS 413,Music and Performance,MUS 313 MUS 314 
+MUS 414,Music and Society,MUS 313 MUS 314 
+MUS 422,Musical Theatre Repertoire,MUS 181 
+MUS 424,Musical Informatics,NULL
+MUS 430,Applied Music Pedagogy,NULL
+MUS 432,Piano Pedagogy II,NULL
+MUS 433,Music Interdisciplinary Curriculum,MUS 240 MUS 342 MUS 343 
+MUS 434,Assessment and Evaluation in Music Education,NULL
+MUS 436,Jazz Aural Skills II,MUS 107 
+MUS 440,Marching Band Procedures,NULL
+MUS 443,Orchestral Repertory,NULL
+MUS 450,Advanced Ensemble Music,NULL
+MUS 451,Basso Continuo,NULL
+MUS 452,Special Topics in Harpsichord,NULL
+MUS 453,Special Topics in Organ,NULL
+MUS 455,Advanced Keyboard Skills II,MUS 180 MUS 175 MUS 202 MUS 208 MUS 454 
+MUS 456,Adv Jazz Piano Improvisation,MUS 161 
+MUS 459,Professional Internship,NULL
+MUS 463,Jazz Listening Seminar II,NULL
+MUS 465,Jazz History II,NULL
+MUS 466,Applied Jazz Instruction,NULL
+MUS 467,Lyric Theatre Voice,NULL
+MUS 468,Lyric Studio,NULL
+MUS 475,Vocal Repertoire II,MUS 481 
+MUS 477,Principles of Accompanying,NULL
+MUS 478,Guitar,NULL
+MUS 479,Harpsichord,NULL
+MUS 480,Piano,NULL
+MUS 481,Voice,NULL
+MUS 482,Organ,NULL
+MUS 483,Violin,MUS 250 
+MUS 484,Viola,MUS 250 
+MUS 485,Cello,MUS 250 
+MUS 486,Double Bass,MUS 250 
+MUS 487,Harp,NULL
+MUS 488,Flute,NULL
+MUS 489,Clarinet,NULL
+MUS 490,Oboe,NULL
+MUS 491,Bassoon,NULL
+MUS 492,Saxophone,NULL
+MUS 493,Trumpet,NULL
+MUS 494,Horn,NULL
+MUS 495,Trombone,NULL
+MUS 496,Euphonium,NULL
+MUS 497,Tuba,NULL
+MUS 498,Percussion,NULL
+MUS 499,Proseminar in Music,NULL
+MUS 500,Artist Diploma Recital,NULL
+MUS 501,Grad Music History Review,NULL
+MUS 502,Graduate Theory Review,NULL
+MUS 505,Individ Topics in Music Theory,NULL
+MUS 506,Graduate Level Composition,NULL
+MUS 507,Sem in Music Comp and Theory,NULL
+MUS 508,Grad. Jazz Improv. II,MUS 504 
+MUS 509,Graduate Seminar in Band Conducting  History  and Literature,NULL
+MUS 512,Fdns/Methods of Musicology II,MUS 511 
+MUS 514,Musicology and Pedagogy,NULL
+MUS 516,Fieldwork and Ethnography,MUS 512 
+MUS 522,Special Topics Seminar,MUS 528 
+MUS 523,Seminar in Musicology,MUS 528 
+MUS 525,Rdgs in Musicol and Mus Theory,NULL
+MUS 526,Baroque Performance Practice,NULL
+MUS 528,Res & Bibliography in Music,NULL
+MUS 530,Critical Readings in Mus Ed,NULL
+MUS 533,Research in Music Education,NULL
+MUS 540,Graduate Wind Band Conducting,NULL
+MUS 544,Doctoral Seminar in Music Education,NULL
+MUS 545,Topics in Music Education,NULL
+MUS 547,Orchestral Literature II,NULL
+MUS 549,Advanced Jazz Harmony II,MUS 548 
+MUS 553,Graduate Orchestral Conducting,MUS 333 
+MUS 557,Piano Literature,NULL
+MUS 558,Vocal Literature,NULL
+MUS 559,Organ Literature,NULL
+MUS 560,String Instrument Literature,NULL
+MUS 561,Wind Instrument Literature,NULL
+MUS 563,Hist of Voc Ens and Chor Music,MUS 551 
+MUS 564,Choral Conducting Project,NULL
+MUS 565,Adv Choral Perform Techniques,NULL
+MUS 566,Graduate Applied Jazz Instruc,NULL
+MUS 569,Music Education Thesis,MUS 533 
+MUS 572,Doctoral Orchestral Conducting,NULL
+MUS 573,Doctoral Wind Band Conducting,NULL
+MUS 575,Jazz Arranging IV,MUS 574 
+MUS 576,Doctoral Projects,NULL
+MUS 577,Advanced Accompanying,NULL
+MUS 579,Graduate Level Harpischord,NULL
+MUS 580,Graduate Level Piano,NULL
+MUS 581,Graduate Level Voice,NULL
+MUS 582,Graduate Level Organ,NULL
+MUS 583,Graduate Level Violin,MUS 450 
+MUS 584,Graduate Level Viola,MUS 450 
+MUS 585,Graduate Level Cello,MUS 450 
+MUS 586,Graduate Level Double Bass,MUS 450 
+MUS 587,Graduate Level Harp,NULL
+MUS 588,Graduate Level Flute,NULL
+MUS 589,Graduate Level Clarinet,NULL
+MUS 590,Graduate Level Oboe,NULL
+MUS 591,Graduate Level Bassoon,NULL
+MUS 592,Graduate Level Saxophone,NULL
+MUS 593,Graduate Level Trumpet,NULL
+MUS 594,Graduate Level Horn,NULL
+MUS 595,Graduate Level Trombone,NULL
+MUS 596,Graduate Level Euphonium,NULL
+MUS 597,Graduate Level Tuba,NULL
+MUS 598,Graduate Level Percussion,NULL
+MUS 599,Thesis Research,NULL
+MUSE 250,The World Through Museums,NULL
+MUSE 390,Museum Internship,NULL
+NEUR 302,Applied Neuroscience,NULL
+NEUR 405,Cognitive Neuroscience,NULL
+NEUR 413,Psychopharmacology,NULL
+NEUR 419,Brain  Behavior & Info Process,NULL
+NEUR 432,Genes and Behavior,NULL
+NEUR 445,Cognitive Neuroscience Lab,NULL
+NEUR 462,Integrative Neuroscience,NULL
+NEUR 510,Advances in Behavioral Neuroscience,NULL
+NEUR 520,Advanced Topics in Neuroscience,NULL
+NEUR 543,Interdisciplinary Approaches to Neuroscience II,NEUR 542 
+NEUR 590,Indiv Topics Neuroscience,NULL
+NEUR 598,Proseminar in Psychology,NULL
+NEUR 599,Thesis Research,NULL
+NPRE 101,Introduction to Energy Sources,NULL
+NPRE 199,Undergraduate Open Seminar,NULL
+NPRE 247,Modeling Nuclear Energy System,PHYS 212 MATH 285 
+NPRE 397,Independent Study,NULL
+NPRE 402,Nuclear Power Engineering,NULL
+NPRE 421,Plasma and Fusion Science,NULL
+NPRE 429,Plasma Engineering,ECE 329 PHYS 435 
+NPRE 441,Radiation Protection,NPRE 446 
+NPRE 442,Radioactive Waste Management,MATH 231 PHYS 102 PHYS 212 
+NPRE 447,Radiation Interact w/Matter II,NPRE 446 
+NPRE 451,NPRE Laboratory,NPRE 446 
+NPRE 455,Neutron Diffusion & Transport,NPRE 247 
+NPRE 458,Design in NPRE,NPRE 448 
+NPRE 470,Fuel Cells & Hydrogen Sources,CHEM 102 MATH 285 PHYS 212 
+NPRE 475,Wind Power Systems,CS 101 MATH 241 CHBE 421 ECE 110 ECE 205 ME 310 TAM 335 
+NPRE 483,Seminar on Security,NULL
+NPRE 498,Special Topics,NULL
+NPRE 521,Interact of Radiation w/Matter,NPRE 446 
+NPRE 554,Independent Lab Investigations,NULL
+NPRE 558,Advanced Design in NPRE,NPRE 448 NPRE 501 
+NPRE 560,Reactor Kinetics and Dynamics,NPRE 555 
+NPRE 595,Student Research Seminar,NULL
+NPRE 596,Seminar in Nuclear Sci & Engrg,NULL
+NPRE 597,Independent Study,NULL
+NPRE 598,Special Topics,NULL
+NPRE 599,Thesis Research,NULL
+NRES 101,Wildlife Conserv 21st Century,NULL
+NRES 102,Introduction to NRES,NULL
+NRES 105,Climate Change Impacts on Ecological Systems,NULL
+NRES 108,Env Sc & Nat Resource Careers,NULL
+NRES 199,Undergraduate Open Seminar,NULL
+NRES 201,Introductory Soils,MATH 234 CHEM 102 CHEM 104 
+NRES 210,Environmental Economics,NULL
+NRES 220,Communicating Agriculture,NULL
+NRES 223,Watching the Environment,NULL
+NRES 242,Nature and American Culture,NULL
+NRES 285,Field Experience,NRES 201 NRES 219 
+NRES 287,Environment and Society,NRES 102 
+NRES 293,Professional Internship,NULL
+NRES 294,Resident Internship,NULL
+NRES 295,Undergrad Research or Thesis,NULL
+NRES 310,Natural Resource Economics,NULL
+NRES 325,Natural Resource Policy Mgmt,ECON 102 ACE 100 
+NRES 330,Environmental Communications,NULL
+NRES 352,Plant Genetics,NULL
+NRES 362,Ecology of Invasive Species,NRES 219 
+NRES 396,UG Honors Research or Thesis,NULL
+NRES 401,Watershed Hydrology,CHEM 102 
+NRES 407,Wildlife Population Ecology,NRES 348 
+NRES 420,Restoration Ecology,NRES 219 LA 450 
+NRES 421,Quantitative Methods in NRES,MATH 220 MATH 221 MATH 234 
+NRES 427,Modeling Natural Resources,MATH 220 MATH 221 MATH 234 
+NRES 439,Env and Sustainable Dev,NRES 219 ACE 210 
+NRES 440,Applied Statistical Methods I,NULL
+NRES 441,Biogeography,NULL
+NRES 452,Community Ecology,NULL
+NRES 455,Adv GIS for Nat Res Planning,GEOG 479 NRES 454 
+NRES 456,Integrative Ecosystem Management,NRES 219 NRES 287 
+NRES 460,Aerial Photo Analysis,NULL
+NRES 461,Ornithology,NULL
+NRES 474,Soil and Water Conservation,NRES 201 
+NRES 477,Introduction to Remote Sensing,NULL
+NRES 488,Soil Fertility and Fertilizers,NRES 201 
+NRES 499,Special Topics,NULL
+NRES 500,Graduate Seminar,NULL
+NRES 501,Special Problems,NULL
+NRES 502,Research Methods in NRES,NULL
+NRES 503,Capstone Research Project,NULL
+NRES 505,Capstone Internship Experience,NULL
+NRES 507,Capstone Group Research Project,NULL
+NRES 511,Principles of Applied Ecology,NULL
+NRES 512,Discussions in NRES,NULL
+NRES 516,Ecosystem Biogeochemistry,NULL
+NRES 522,Terrestrial Remote Sensing Applications,NULL
+NRES 592,Sustainable Urban Systems,NULL
+NRES 594,NRES Professional Orientation,NULL
+NRES 599,Thesis Research,NULL
+NS 100,Leadership Laboratory,NULL
+NS 102,Sea Power and Maritime Affairs,NULL
+NS 303,Leadership and Management,NULL
+NS 306,Naval Weapons Systems,NULL
+NS 307,Navigation/Naval Operations II,NS 204 
+NUTR 426,Biochemical Nutrition I,NULL
+NUTR 427,Biochemical Nutrition II,NULL
+NUTR 500,Nutritional Sciences Seminar,NULL
+NUTR 510,Topics in Nutrition Research,NULL
+NUTR 511,Regulation of Metabolism,MCB 450 MCB 244 MCB 246 FSHN 426 ANSC 520 
+NUTR 520,Protein and Energy Nutrition,NULL
+NUTR 561,Advanced Clinical Nutrition,NULL
+NUTR 590,Disciplinary Seminar,NULL
+NUTR 591,Animal Sciences Seminar,NULL
+NUTR 593,Individual Topics in Nutrition,NULL
+NUTR 599,Thesis Research,NULL
+PATH 290,Undergraduate Research,NULL
+PATH 410,Comparative Immunobiology,NULL
+PATH 433,Virology & Viral Pathogenesis,MCB 300 MCB 354 
+PATH 521,Biophysics of Viruses,NULL
+PATH 527,Parasitology/Epidemiology Sem,VM 607 
+PATH 542,Ocular Pathology,NULL
+PATH 545,Vet Diagnostic Path 1,NULL
+PATH 547,Pathology Seminar,PATH 545 
+PATH 551,Interpretive Cytopathology,NULL
+PATH 552,Diagnostic Cytology,NULL
+PATH 556,Exotic/Wild Animal Diag Path 1,VM 605 VM 608 
+PATH 557,Exotic/Wild Animal Diag Path 2,PATH 556 
+PATH 558,Exotic/Wild Animal Path Sem,PATH 556 PATH 557 
+PATH 559,Surgical Pathology,PATH 545 PATH 546 
+PATH 590,Seminar,NULL
+PATH 592,Special Problems,NULL
+PATH 596,Interdisciplinary Tox Sem,NULL
+PATH 598,Non-Thesis Research,NULL
+PATH 599,Thesis Research,NULL
+PATH 636,Advanced Clinical Pathology,NULL
+PATH 692,Special Problems,NULL
+PBIO 599,Thesis Research,NULL
+PERS 202,Elementary Persian II,PERS 201 
+PERS 403,Intermediate Persian I,PERS 202 
+PERS 404,Intermediate Persian II,PERS 403 
+PERS 454,Advanced Persian II,PERS 453 
+PHIL 100,Intro to Philosophy-ACP,NULL
+PHIL 101,Introduction to Philosophy,NULL
+PHIL 102,Logic and Reasoning,NULL
+PHIL 103,Logic and Reasoning QR II,NULL
+PHIL 104,Intro to Ethics-ACP,NULL
+PHIL 105,Introduction to Ethics,NULL
+PHIL 107,Intro to Political Philosophy,NULL
+PHIL 109,Religion & Society in West II,NULL
+PHIL 110,World Religions,NULL
+PHIL 191,Freshman Honors Tutorial,NULL
+PHIL 199,Undergraduate Open Seminar,NULL
+PHIL 202,Symbolic Logic,NULL
+PHIL 203,Ancient Philosophy,NULL
+PHIL 206,Early Modern Philosophy,NULL
+PHIL 214,Biomedical Ethics,NULL
+PHIL 307,Elmnts Semantics & Pragmatics,NULL
+PHIL 316,Ethics and Engineering,NULL
+PHIL 390,Individual Study,NULL
+PHIL 412,Classical Modern Philosophers,PHIL 206 
+PHIL 414,Major Recent Philosophers,NULL
+PHIL 419,Space  Time  and Matter-ACP,NULL
+PHIL 420,Space  Time  and Matter,NULL
+PHIL 421,Ethical Theories,NULL
+PHIL 426,Metaphysics,NULL
+PHIL 438,Philosophy of Language,NULL
+PHIL 441,Existential Philosophy,NULL
+PHIL 453,Formal Logic and Philosophy,NULL
+PHIL 471,Contemporary Phil of Science,NULL
+PHIL 492,Thesis,NULL
+PHIL 501,Seminar on the History of Philosophy,NULL
+PHIL 511,Seminar Ethical Theory,NULL
+PHIL 551,Pragmatics,NULL
+PHIL 583,Individual Topics,NULL
+PHIL 590,Directed Research,NULL
+PHIL 599,Thesis Research,NULL
+PHYS 101,College Physics: Mech & Heat,NULL
+PHYS 102,College Physics: E&M & Modern,PHYS 101 
+PHYS 123,Physics Made Easy,NULL
+PHYS 199,Undergraduate Open Seminar,NULL
+PHYS 211,University Physics: Mechanics,MATH 231 
+PHYS 212,University Physics: Elec & Mag,PHYS 211 MATH 241 
+PHYS 213,Univ Physics: Thermal Physics,PHYS 211 MATH 241 
+PHYS 214,Univ Physics: Quantum Physics,PHYS 212 
+PHYS 221,Enrichment Mechanics,PHYS 100 PHYS 211 
+PHYS 225,Relativity & Math Applications,PHYS 212 
+PHYS 280,Nuclear Weapons & Arms Control,NULL
+PHYS 298,Freshmen/Sophomore Special Topics in Physics,NULL
+PHYS 325,Classical Mechanics I,PHYS 225 MATH 285 
+PHYS 326,Classical Mechanics II,PHYS 325 
+PHYS 330,Atmospheric Dynamics II,NULL
+PHYS 398,Sophomore/Junior Special Topics in Physics,NULL
+PHYS 401,Classical Physics Lab,PHYS 325 
+PHYS 402,Light,MATH 285 PHYS 102 PHYS 214 
+PHYS 403,Modern Experimental Physics,PHYS 486 
+PHYS 419,Space  Time  and Matter-ACP,PHIL 101 PHYS 101 PHYS 211 
+PHYS 420,Space  Time  and Matter,PHIL 101 PHYS 101 PHYS 211 
+PHYS 427,Thermal & Statistical Physics,PHYS 213 PHYS 214 PHYS 325 
+PHYS 435,Electromagnetic Fields I,MATH 285 PHYS 325 
+PHYS 436,Electromagnetic Fields II,PHYS 435 
+PHYS 470,Subatomic Physics,PHYS 485 PHYS 486 
+PHYS 486,Quantum Physics I,NULL
+PHYS 487,Quantum Physics II,PHYS 486 
+PHYS 496,Intro to Physics Research,NULL
+PHYS 497,Individual Study,NULL
+PHYS 498,Special Topics in Physics,NULL
+PHYS 504,Statistical Physics,PHYS 427 PHYS 486 
+PHYS 509,Mathematical Physics II,PHYS 508 
+PHYS 513,Quantum Optics & Information,PHYS 580 
+PHYS 560,Condensed Matter Physics I,PHYS 427 PHYS 580 
+PHYS 575,Particle Physics I,PHYS 570 PHYS 582 
+PHYS 581,Quantum Mechanics II,PHYS 580 
+PHYS 583,Advanced Field Theory,PHYS 582 
+PHYS 597,Individual Study,NULL
+PHYS 598,Special Topics in Physics,NULL
+PHYS 599,Thesis Research,NULL
+PLPA 200,Plants  Pathogens  and People,RHET 105 
+PLPA 204,Introductory Plant Pathology,NULL
+PLPA 295,Undergrad Research or Thesis,NULL
+PLPA 599,Thesis Research,NULL
+POL 102,Elementary Polish II,POL 101 
+POL 115,Intro to Polish Culture,NULL
+POL 199,Undergraduate Open Seminar,NULL
+POL 202,Second Yr Polish II,POL 201 
+PORT 199,Undergraduate Open Seminar,NULL
+PORT 400,Intensive Beginning Portuguese,NULL
+PORT 401,Intensive Intermediate Portuguese,PORT 400 
+PORT 402,Advanced Grammar,PORT 401 
+PORT 403,Readings in Portuguese,PORT 401 
+PORT 406,Brazilian Film,PORT 402 
+PORT 435,Introduction to Romance Linguistics,NULL
+PORT 460,Principles of Language Testing,NULL
+PORT 489,Theoretical Foundations of SLA,NULL
+PORT 588,Sem Second Lang Learn,NULL
+PORT 595,Special Topics Port & Braz Lit,NULL
+PORT 599,Thesis Research,NULL
+PS 100,Intro to Political Science,NULL
+PS 101,Intro to US Gov & Pol,NULL
+PS 125,Washington Experience,NULL
+PS 191,Topics in Civic Leadership,NULL
+PS 199,Undergraduate Open Seminar,NULL
+PS 220,Intro to Public Policy,PS 100 PS 101 
+PS 224,Politics of the National Parks,NULL
+PS 231,Strategic Models,NULL
+PS 240,Intro to Comp Politics,NULL
+PS 241,Comp Politics in Dev Nations,NULL
+PS 270,Intro to Political Theory,NULL
+PS 273,Environment and Society,NULL
+PS 280,Intro to Intl Relations,NULL
+PS 282,Governing Globalization,NULL
+PS 283,Intro to Intl Security,NULL
+PS 299,Study Abroad,NULL
+PS 300,Special Topics,NULL
+PS 301,The US Constitution I,PS 101 
+PS 318,Interests Grps & Soc Movements,PS 101 
+PS 321,Principles of Public Policy,PS 101 
+PS 343,Gov & Pol of China,PS 240 PS 241 
+PS 355,Democratization,PS 240 PS 241 
+PS 376,American Political Theory,PS 270 
+PS 377,Topics Contemp Pol Theory,PS 270 
+PS 385,Politics of the European Union,PS 240 PS 241 
+PS 386,International Law,PS 280 PS 283 
+PS 389,International Communications,NULL
+PS 390,American Foreign Policy,PS 280 PS 283 
+PS 391,Soviet & Post-Sov Foreign Pol,PS 280 PS 283 
+PS 396,International Conflict,PS 280 PS 281 PS 283 
+PS 397,Authoritarian Regimes,PS 240 PS 241 
+PS 399,Politics of International Treaties,PS 280 
+PS 411,Campaigning to Win,NULL
+PS 418,Language & Minorities in Europe,NULL
+PS 490,Individual Study,NULL
+PS 491,Internship,NULL
+PS 496,Senior Honors Thesis,NULL
+PS 514,Founds of Organizational Behav,NULL
+PS 522,Research Design and Techniques,PS 521 
+PS 525,Formal Theory I: Game Theory,NULL
+PS 531,Quant Pol Analysis II,PS 530 
+PS 546,Comparative Political Behavior,PS 540 PS 541 
+PS 584,International Cooperation,PS 580 
+PS 590,Research in Selected Topics,NULL
+PS 598,Dissertation Design Seminar,NULL
+PS 599,Thesis Research,NULL
+PSM 502,PSM Industry Seminar II,PSM 501 
+PSM 503,PSM Industry Seminar III,PSM 502 
+PSM 520,Special Topics-Sci & Business,NULL
+PSM 555,PSM Internship,NULL
+PSYC 100,Intro Psych,NULL
+PSYC 102,Psych Orientation,NULL
+PSYC 199,Undergraduate Open Seminar,NULL
+PSYC 201,Intro to Social Psych,PSYC 100 PSYC 103 
+PSYC 207,Psychology of Prejudice and Discrimination,NULL
+PSYC 210,Behavioral Neuroscience,PSYC 100 PSYC 103 
+PSYC 216,Child Psych,PSYC 100 PSYC 103 
+PSYC 224,Cognitive Psych,PSYC 100 PSYC 103 
+PSYC 230,Perception & Sensory Processes,NULL
+PSYC 235,Intro to Statistics,PSYC 100 PSYC 103 
+PSYC 238,Psychopathology and Problems in Living,PSYC 100 PSYC 103 
+PSYC 239,Community Psych,PSYC 100 PSYC 103 
+PSYC 245,Industrial Org Psych,PSYC 100 PSYC 103 
+PSYC 248,Learning and Memory,PSYC 100 PSYC 103 
+PSYC 250,Psych of Personality,PSYC 100 PSYC 103 
+PSYC 290,Research Experience in Psych,NULL
+PSYC 302,Applied Neuroscience,PSYC 100 
+PSYC 308,Psychology of Religion and Spirituality,PSYC 100 
+PSYC 311,Behavioral Neuroscience Lab,PSYC 210 
+PSYC 318,Psych of the Infant,PSYC 216 
+PSYC 322,Intro Intellectual Disability,NULL
+PSYC 327,Psychology of Human Sexuality,PSYC 100 
+PSYC 328,Psychology of Gender,PSYC 100 
+PSYC 329,Animal Behavior,NULL
+PSYC 331,Cognitive Psych Lab,PSYC 224 PSYC 248 PSYC 235 
+PSYC 332,Social Psych Methods Lab,PSYC 201 PSYC 235 
+PSYC 341,Advanced Community Projects,PSYC 340 
+PSYC 350,Personality Lab,PSYC 235 PSYC 250 
+PSYC 353,Social Cognition,PSYC 201 PSYC 235 
+PSYC 358,Human Factors,NULL
+PSYC 361,The Psychology of Aging,PSYC 100 PSYC 216 PSYC 224 
+PSYC 363,Developmental Child Psych Lab,PSYC 216 PSYC 235 
+PSYC 365,Stress  Trauma and Resilience,PSYC 100 
+PSYC 379,Clinical/Abnormal Psych Lab,PSYC 238 
+PSYC 383,Adv Prac in Mental Hlth I,NULL
+PSYC 385,Adv Prac in Mental Hlth II,NULL
+PSYC 396,Intermediate Current Topics in Psychology,PSYC 100 
+PSYC 398,Junior Honors Seminar,NULL
+PSYC 402,Intro Clin Neuropsych,PSYC 210 PSYC 238 
+PSYC 404,Cognitive Neuroscience,PSYC 210 PSYC 224 
+PSYC 413,Psychopharmacology,PSYC 210 MCB 150 
+PSYC 420,Theories of Psychotherapy,NULL
+PSYC 427,Language and the Brain,NULL
+PSYC 432,Genes and Behavior,NULL
+PSYC 443,Psychophysiology in Ex & Sport,NULL
+PSYC 445,Cognitive Neuroscience Lab,PSYC 204 PSYC 210 PSYC 220 PSYC 235 
+PSYC 455,Organizational Psych,PSYC 201 PSYC 245 
+PSYC 465,Personality and Soc Dev,PSYC 216 EPSY 236 
+PSYC 492,Capstone Undergrad Research,NULL
+PSYC 494,Advanced Research in Psych,NULL
+PSYC 496,Adv Current Topics in Psych,PSYC 100 
+PSYC 499,Senior Honors Seminar II,PSYC 498 
+PSYC 500,Professional Develop for Psych,NULL
+PSYC 501,Best Psych Research Practices,NULL
+PSYC 504,Theories of Attention,NULL
+PSYC 507,Statistical Methods II,PSYC 506 
+PSYC 510,Advances in Behavioral Neuroscience,NULL
+PSYC 515,Neurotoxicology,NULL
+PSYC 524,Dev Psycholinguistics,LING 425 PSYC 425 PSYC 462 
+PSYC 525,Psycholinguistics,NULL
+PSYC 534,Models of Decision and Choice,PSYC 407 
+PSYC 535,Cultural Psychology,NULL
+PSYC 537,Development & Psychopathology,NULL
+PSYC 539,Intro to Clin-Comm Psych II,NULL
+PSYC 541,Personality and Behav Dynamics,NULL
+PSYC 543,Interdisciplinary Approaches to Neuroscience II,NULL
+PSYC 545,Intro to Clin-Comm Psych IV,NULL
+PSYC 546,Intervention & Assessment,PSYC 538 PSYC 539 PSYC 532 PSYC 545 
+PSYC 553,Founds of Organizational Behav,NULL
+PSYC 567,Personality Assessment,PSYC 407 
+PSYC 570,Prin and Meth of Tchg Psych,NULL
+PSYC 573,Clin/Comm: History & Systems,NULL
+PSYC 574,Microskills & Prof Standards,NULL
+PSYC 575,Clinical/Community: Diversity,NULL
+PSYC 576,Clinical/Community: Biological,NULL
+PSYC 577,Clinical/Community:Cog/Affect,NULL
+PSYC 578,Clinical/Community:Development,NULL
+PSYC 579,Clinical/Community: Social,NULL
+PSYC 581,Applied Regression Analysis,NULL
+PSYC 587,Hierarchical Linear Models,NULL
+PSYC 590,Individual Research,NULL
+PSYC 593,Seminar,NULL
+PSYC 596,Theories of Measurement II,NULL
+PSYC 598,Proseminar in Psychology,NULL
+PSYC 599,Thesis Research,NULL
+REES 115,Intro to Polish Culture,NULL
+REES 201,Introduction to Eastern Europe,NULL
+REES 390,Individual Study or Research,NULL
+REES 477,Post-Communist Fiction,NULL
+REES 493,Honors Senior Thesis,NULL
+REES 590,Individual Study or Research,NULL
+REES 599,Thesis Research,NULL
+REHB 199,Undergraduate Open Seminar,NULL
+REHB 322,Intro Intellectual Disability,NULL
+REHB 330,Disability in American Society,NULL
+REHB 407,Disability  Culture & Society,NULL
+REHB 419,Counseling Pre-Practicum,NULL
+REHB 435,Work and Disability,NULL
+REHB 583,Counseling Internship,REHB 401 REHB 520 REHB 536 
+REHB 585,Rehabilitation Practicum,REHB 301 
+REHB 593,Special Problems,REHB 401 
+REHB 594,Special Topics,REHB 401 
+REHB 599,Thesis Research,NULL
+REL 109,Religion & Society in West II,NULL
+REL 110,World Religions,NULL
+REL 112,Elementary Greek II,NULL
+REL 115,Language and Culture in India,NULL
+REL 121,Introduction to Christianity,NULL
+REL 132,Zen,NULL
+REL 160,Ancient Greek & Roman Religion,NULL
+REL 202,New Testament in English,NULL
+REL 208,Cultures & Literatures of South Asia,NULL
+REL 235,History of Religion in America,NULL
+REL 286,Introduction to Hinduism,NULL
+REL 287,Introduction to Buddhism,NULL
+REL 308,Psychology of Religion and Spirituality,NULL
+REL 320,Lit Responses to the Holocaust,NULL
+REL 332,Interfaith Service and Theory,NULL
+REL 345,Medieval Civilization,NULL
+REL 350,South Asian Goddesses,NULL
+REL 439,Catholicism in the United States,NULL
+REL 480,Islamic Law,NULL
+REL 481,Muslim Ethics in Global Age,NULL
+REL 488,History of Chinese Buddhism,NULL
+REL 495,Topics in Asian Religions,NULL
+REL 590,Independent Study,NULL
+RHET 102,Principles of Research,RHET 101 
+RHET 105,Writing and Research,NULL
+RHET 199,Undergraduate Open Seminar,NULL
+RHET 233,Adv Rhetoric & Composition,NULL
+RMLG 435,Introduction to Romance Linguistics,NULL
+RST 100,Recreation  Sport  and Tourism in Modern Society,NULL
+RST 101,Orientation to Recreation  Sport and Tourism,NULL
+RST 120,Foundations of Recreation,NULL
+RST 130,Foundations of Sport Mgt,NULL
+RST 150,Foundations of Tourism,NULL
+RST 180,Professional Applications,NULL
+RST 199,Undergraduate Open Seminar,NULL
+RST 200,Leadership in Recreation  Sport and Tourism,NULL
+RST 224,Politics of the National Parks,NULL
+RST 230,Diversity in Recreation  Sport  and Tourism,NULL
+RST 240,Financial Resource Management in Recreation  Sport and Tourism,RST 100 RST 210 
+RST 242,Nature and American Culture,NULL
+RST 255,Ethical Issues in Recreation  Sport and Tourism,NULL
+RST 316,Leisure and Human Development,RST 100 
+RST 325,Marketing in Recreation  Sport and Tourism,NULL
+RST 335,Leisure and Consumer Culture,NULL
+RST 340,Facility Management in Recreation  Sport and Tourism,RST 100 RST 110 
+RST 346,Case Study: Endless Summer,NULL
+RST 350,Tourism and Culture,NULL
+RST 354,Legal Aspects of Sport,NULL
+RST 360,Communication in Recreation  Sport & Tourism,RST 210 
+RST 365,Civic Engagement in Wellness,NULL
+RST 370,Research Methods & Analysis,NULL
+RST 393,Special Problems,NULL
+RST 410,Strategic Thinking in Recreation  Sport and Tourism,RST 210 RST 240 RST 325 
+RST 429,Contemporary Issues in Recreation  Sport and Tourism,RST 120 RST 130 RST 150 
+RST 440,HR Management in RST,NULL
+RST 441,Community Planning and Engagement,NULL
+RST 460,Event Management in Recreation  Sport and Tourism,RST 210 RST 240 RST 325 
+RST 480,Orientation to Practicum,RST 100 RST 110 
+RST 485,Practicum,RST 480 RST 410 
+RST 503,Adv Leisure Research Methods,RST 100 RST 370 
+RST 512,Managing Recreation  Sport & Tourism Organizations,RST 410 
+RST 515,Marketing in RST,NULL
+RST 516,Finance & Budgeting in RST,NULL
+RST 518,Event Management,NULL
+RST 520,Critical Issues Sport Mgt,NULL
+RST 551,Contemporary Issues in Leisure,RST 550 
+RST 570,Cultural Aspects of Tourism,NULL
+RST 584,Management Internship,RST 484 
+RST 590,Doctoral Research Seminar and Colloquium,NULL
+RST 593,Special Problems,NULL
+RST 594,Special Topics in Leisure,NULL
+RST 599,Thesis Research,NULL
+RUSS 102,First-Year Russian II,RUSS 101 
+RUSS 191,Freshman Honors Tutorial,NULL
+RUSS 199,Undergraduate Open Seminar,NULL
+RUSS 202,Second-Year Russian II,RUSS 201 
+RUSS 225,Russian Lit and Revolution,NULL
+RUSS 260,Medicine & Russian Literature,NULL
+RUSS 290,Readings in Russian,RUSS 202 
+RUSS 302,Third Year Russian II,RUSS 301 
+RUSS 323,Tolstoy,NULL
+RUSS 402,Fourth Year Russian II,RUSS 401 
+RUSS 493,Honors Senior Thesis,NULL
+RUSS 502,Russian for Grad Students II,RUSS 501 
+SAME 150,Lang&Culture of Arab World,NULL
+SAME 208,Cultures & Literatures of South Asia,NULL
+SAME 350,South Asian Goddesses,NULL
+SAME 481,Muslim Ethics in Global Age,NULL
+SAME 590,Independent Study,NULL
+SBC 504,Managing Projects & Teams,NULL
+SBC 505,Consumer Insights II,NULL
+SBC 506,Measurement and Evaluation,NULL
+SBC 507,Promotional Strategy,NULL
+SCAN 102,Beginning Scandinavian II,SCAN 101 
+SCAN 104,Intermediate Scandinavian II,SCAN 103 
+SCAN 199,Undergraduate Open Seminar,NULL
+SCAN 225,Vikings to Volvos: Scandinavia,NULL
+SCAN 493,Honors Senior Thesis,NULL
+SCAN 496,Special Topics in Scan Studies,NULL
+SCAN 593,Research in Special Topics,NULL
+SE 101,Engineering Graphics & Design,NULL
+SE 199,Undergraduate Open Seminar,NULL
+SE 261,Business Side of Engineering,NULL
+SE 290,ISE Undergraduate Seminar,NULL
+SE 297,Independent Study,NULL
+SE 298,Special Topics,NULL
+SE 311,Engineering Design Analysis,SE 310 SE 312 
+SE 312,Instrumentation and Test Lab,SE 310 SE 311 
+SE 397,Independent Study,NULL
+SE 400,Engineering Law,RHET 105 
+SE 411,Reliability Engineering,IE 300 
+SE 413,Engineering Design Optimization,MATH 241 MATH 415 
+SE 422,Robot Dynamics and Control,SE 320 ECE 470 
+SE 423,Mechatronics,SE 320 
+SE 424,State Space Design for Control,SE 320 MATH 415 
+SE 494,Senior Engineering Project I,SE 261 SE 390 SE 311 IE 300 IE 310 TAM 335 IE 310 IE 311 SE 495 
+SE 495,Senior Engineering Project II,SE 494 
+SE 497,Independent Study,NULL
+SE 498,Special Topics,NULL
+SE 520,Analysis of Nonlinear Systems,NULL
+SE 590,Seminar,NULL
+SE 594,Project Design,NULL
+SE 597,Independent Study,NULL
+SE 598,Special Topics,NULL
+SE 599,Thesis Research,NULL
+SHS 111,Living-Learning ASL Part 1,NULL
+SHS 112,Living-Learning ASL Part 2,NULL
+SHS 120,Child  Comm  & Lang Ability,NULL
+SHS 121,American Sign Language I,NULL
+SHS 170,Intro Hum Comm Sys & Disorders,NULL
+SHS 191,Freshmen Seminar,NULL
+SHS 199,Undergraduate Open Seminar,NULL
+SHS 200,General Phonetics,NULL
+SHS 221,American Sign Language II,SHS 121 
+SHS 222,Language & Culture of Deaf Communities,NULL
+SHS 240,Intro Sound & Hearing Science,NULL
+SHS 271,Communication and Aging,NULL
+SHS 291,Research Lab Experience in SHS,NULL
+SHS 301,General Speech Science,NULL
+SHS 321,American Sign Language III,SHS 221 
+SHS 352,Hearing Health and Society,NULL
+SHS 370,Civic Engagement in Wellness,NULL
+SHS 375,Comm Partners & Health,NULL
+SHS 380,Comm Competence and Disorders,NULL
+SHS 385,Evidence-Based Practice in Communication Sciences and Disorders,NULL
+SHS 390,Individual Study,NULL
+SHS 395,Honors Individual Study,NULL
+SHS 410,Stuttering: Theory & Practice,NULL
+SHS 427,Language and the Brain,PSYC 210 PSYC 224 PSYC 248 LING 225 SHS 170 
+SHS 430,Devel & Disorders Phonol Artic,NULL
+SHS 473,Augmentative & Alt Comm,NULL
+SHS 475,Prepracticum in SHS,NULL
+SHS 477,Beginning Practicum in SHS,NULL
+SHS 513,Assessment and Management of Dysphagia,SHS 300 SHS 470 
+SHS 533,Advanced Language Diagnostics,SHS 520 
+SHS 551,Electrophys Indices Audition,SHS 550 
+SHS 552,Diag Hear Impair Infants Child,SHS 550 
+SHS 553,Hearing Aids and Amplification,SHS 550 
+SHS 554,Advanced Audiological Assess,SHS 551 
+SHS 556,Sens Prosth Devices Hear Loss,SHS 553 
+SHS 557,Adv Clin Prac Aud Assess Rehab,SHS 240 SHS 450 SHS 451 
+SHS 561,Medical Audiology,SHS 541 SHS 550 
+SHS 563,Amplification Lab,SHS 553 
+SHS 571,Clinical Sociolinguistics,NULL
+SHS 576,School Intrnshp Spch-Lang Path,SHS 475 
+SHS 577,Advanced Practicum in SHS,SHS 477 
+SHS 588,Adv Sem Neural Bases Com Dis,NULL
+SHS 592,Prosem Spch & Hear Sci,NULL
+SHS 593,Special Problems,NULL
+SHS 594,PhD Early Research Project,NULL
+SHS 599,Thesis Research,NULL
+SLAV 199,Undergraduate Open Seminar,NULL
+SLAV 399,Advanced Undergraduate Open Seminar,NULL
+SLAV 418,Language & Minorities in Europe,NULL
+SLAV 477,Post-Communist Fiction,NULL
+SLAV 591,Individual Topics,NULL
+SLAV 599,Thesis Research,NULL
+SLCL 200,Topics in Global Culture,NULL
+SLS 460,Principles of Language Testing,NULL
+SOC 100,Introduction to Sociology,NULL
+SOC 101,Sociology of Gender,NULL
+SOC 109,Religion & Society in West II,NULL
+SOC 130,Intro Gender & Women's Studies,NULL
+SOC 160,Global Ineq and Social Change,NULL
+SOC 162,Intro to Intl Health Policy,NULL
+SOC 163,Social Problems,NULL
+SOC 196,Issues in Sociology,NULL
+SOC 199,Undergraduate Open Seminar,NULL
+SOC 200,Introduction to Sociological Theory,NULL
+SOC 202,Sexualities,NULL
+SOC 223,Black Women Contemp US Society,NULL
+SOC 225,Race and Ethnicity,SOC 100 SOC 101 SOC 163 
+SOC 274,Health  Illness and Society,NULL
+SOC 275,Criminology,SOC 100 SOC 101 SOC 163 
+SOC 310,Sociology of Deviance,SOC 100 SOC 101 SOC 163 
+SOC 321,Gender & Latina/o Migration,NULL
+SOC 325,Black Men and Masculinities,NULL
+SOC 350,Technology and Society,NULL
+SOC 375,Criminal Justice System,SOC 275 
+SOC 378,Sociology of Law,NULL
+SOC 380,Social Research Methods,SOC 280 SOC 100 SOC 101 SOC 163 
+SOC 390,Individual Study,NULL
+SOC 396,Topics in Sociology,SOC 100 SOC 101 SOC 163 
+SOC 400,Internships,SOC 100 SOC 101 SOC 163 
+SOC 447,Environmental Sociology,SOC 380 SOC 100 SOC 101 SOC 163 RSOC 110 
+SOC 450,Senior Capstone Seminar,SOC 100 SOC 101 SOC 163 SOC 380 
+SOC 470,Social Movements,SOC 100 SOC 101 SOC 163 
+SOC 479,Law and Society,SOC 100 SOC 101 SOC 163 
+SOC 488,Demographic Analysis,SOC 270 
+SOC 490,Advanced Independent Study,NULL
+SOC 500,Classical Sociological Theory,SOC 200 
+SOC 510,Professionalization Seminar,NULL
+SOC 575,Founds of Organizational Behav,NULL
+SOC 586,Adv Social Statistics I,SOC 485 
+SOC 590,Individual Topics in Sociology,NULL
+SOC 596,Recent Developments in Soc,NULL
+SOC 597,Readings in Sociology,NULL
+SOC 598,Thesis Proposal,NULL
+SOC 599,Thesis Research,SOC 598 
+SOCW 199,Undergraduate Open Seminar,NULL
+SOCW 200,Introduction to Social Work,NULL
+SOCW 240,Death & Dying,NULL
+SOCW 297,Asian Families in America,NULL
+SOCW 299,Study Abroad,NULL
+SOCW 300,Diversity: Identities & Issues,NULL
+SOCW 310,UG Research Assistance,NULL
+SOCW 321,Social Entre & Social Change,NULL
+SOCW 330,International Perspectives,NULL
+SOCW 360,Social Work and the Military,NULL
+SOCW 370,Social Work and Disability Studies,NULL
+SOCW 401,Practice I,SOCW 200 
+SOCW 402,Practice II,SOCW 401 
+SOCW 403,Practice III,SOCW 401 
+SOCW 410,Social Welfare Pol and Svcs,NULL
+SOCW 416,Child Welfare Issues & Trends,NULL
+SOCW 417,Dementia Care for Older Adults,SOCW 315 
+SOCW 418,Independent Study,NULL
+SOCW 427,Social Work Research Methods,NULL
+SOCW 451,HBSE I: Human Development,NULL
+SOCW 455,Social Work with Women,NULL
+SOCW 457,Health Planning,NULL
+SOCW 461,Professional Practice Seminar I,SOCW 401 
+SOCW 470,Field Practicum & Professional Seminar II,SOCW 461 
+SOCW 475,Undergraduate Research Abroad,NULL
+SOCW 480,UG Research Project,NULL
+SOCW 500,SW Practice with Indiv and Fam,SOCW 400 
+SOCW 502,Brief Motivational Interventions for Substance Use,SOCW 400 
+SOCW 503,Trauma Informed Social Work with Children and Adolescents,SOCW 400 
+SOCW 506,SW Practice with Child/Adol,SOCW 400 
+SOCW 507,School Social Work Practice,SOCW 400 
+SOCW 508,Family Therapy Seminar,SOCW 400 
+SOCW 509,Adv Clin Assess & Interviewing,SOCW 400 SOCW 552 
+SOCW 514,Mental Health Pol and Svcs,SOCW 410 
+SOCW 515,Integrated Health Care Policy and Services,NULL
+SOCW 516,Child  Youth and Family Svcs,SOCW 410 
+SOCW 519,Public School Policy/Services,SOCW 410 
+SOCW 520,Social Welfare Planning,NULL
+SOCW 521,Leadership and Social Change,SOCW 400 
+SOCW 526,Managing Human Service Orgs,SOCW 400 
+SOCW 532,Field Practicum and Integrative Seminar II,SOCW 531 
+SOCW 533,Field Practicum III,SOCW 532 
+SOCW 541,Clinical Research Seminar,SOCW 427 
+SOCW 542,Program Evaluation,SOCW 427 
+SOCW 552,HBSE II: Mental Disorders,SOCW 451 
+SOCW 553,Integrated Behavorial Health & Health Care,NULL
+SOCW 554,Inequalities In A Diverse Society,SOCW 451 
+SOCW 561,Special Studies in Soc Work I,NULL
+SOCW 575,Social Work Teaching Seminar,NULL
+SOCW 580,Advanced Child Welfare,SOCW 516 
+SOCW 581,Gender Relations & Intl Dev,NULL
+SOCW 589,Social Work and the Law,NULL
+SOCW 594,Individual Research,SOCW 593 
+SOCW 595,Quantitative Research Designs,NULL
+SOCW 599,Dissertation Research,NULL
+SPAN 101,Elementary Spanish I,NULL
+SPAN 102,Elementary Spanish II,SPAN 101 
+SPAN 122,Intensive Elementary Spanish,SPAN 122 
+SPAN 130,Intermediate Spanish,SPAN 122 
+SPAN 141,Introduction to Spanish Grammar,SPAN 130 
+SPAN 142,Spanish in the Professions,SPAN 130 
+SPAN 191,Freshman Honors Tutorial,NULL
+SPAN 199,Undergraduate Open Seminar,NULL
+SPAN 200,Readings in Hispanic Texts,SPAN 141 SPAN 142 
+SPAN 204,Advanced Spanish Grammar in Context,SPAN 141 
+SPAN 208,Oral Spanish,SPAN 141 SPAN 142 SPAN 204 
+SPAN 228,Spanish Composition,SPAN 141 SPAN 142 
+SPAN 232,Spanish in the Community,SPAN 141 SPAN 142 
+SPAN 240,Latina/o Popular Culture,NULL
+SPAN 250,Introduction to Literary Analysis,SPAN 228 
+SPAN 252,Introduction to Hispanic Linguistics,SPAN 228 
+SPAN 254,Introduction to Cultural Analysis,SPAN 228 
+SPAN 303,The Sounds of Spanish,SPAN 228 
+SPAN 305,The Structure of Spanish,SPAN 252 SPAN 252 
+SPAN 307,Bilingualism,SPAN 252 SPAN 252 
+SPAN 308,Spanish in the United States,SPAN 228 
+SPAN 318,Spanish Cultural Studies I,SPAN 228 
+SPAN 320,Spanish Cultural Studies II,NULL
+SPAN 324,Latin America Cultural Studies I,SPAN 228 
+SPAN 326,Latin America Cultural Studies II,SPAN 228 
+SPAN 332,Spanish and Entrepreneurship,SPAN 228 
+SPAN 399,Advanced Study Abroad,SPAN 228 SPAN 228 
+SPAN 418,Language & Minorities in Europe,NULL
+SPAN 435,Introduction to Romance Linguistics,LING 100 SPAN 252 FR 416 
+SPAN 437,The Acquisition of Spanish,SPAN 303 SPAN 305 
+SPAN 460,Principles of Language Testing,NULL
+SPAN 468,20th-21stC Span Am Studies,SPAN 316 SPAN 326 
+SPAN 489,Theoretical Foundations of SLA,NULL
+SPAN 490,Advanced Readings in Spanish,SPAN 252 SPAN 310 SPAN 312 SPAN 314 SPAN 316 
+SPAN 491,Topics for Honors Students,NULL
+SPAN 588,Sem Second Lang Learn,SPAN 580 
+SPAN 590,Topics in Hispanic Studies,NULL
+SPAN 595,Special Topics in Spanish,NULL
+SPAN 599,Thesis Research,NULL
+SPED 117,The Culture of Disability,NULL
+SPED 199,Undergraduate Open Seminar,NULL
+SPED 312,Introduction to Educational Technology,NULL
+SPED 317,Characteristics & Eligibility,SPED 117 
+SPED 322,Intro Intellectual Disability,PSYC 100 SPED 117 
+SPED 391,Thesis,NULL
+SPED 395,Independent Study,NULL
+SPED 413,New Media &Learner Differences,NULL
+SPED 424,Foundations of Assessment,NULL
+SPED 426,Collaboration and Teaming,SPED 524 EDPR 420 
+SPED 438,Collaborating with Families,NULL
+SPED 441,Instructional Strategies II,SPED 440 SPED 524 EDPR 250 
+SPED 447,Curriculum Development II,SPED 446 
+SPED 448,Curriculum Development III,SPED 446 
+SPED 460,Communication and Phys Disab,NULL
+SPED 471,Learning Environments II,SPED 470 
+SPED 514,Equity Issues in Spec Educatio,NULL
+SPED 524,Supervised Prac in SPED,NULL
+SPED 526,Collaborative Leaders in SPED,SPED 426 
+SPED 550,Methods of Educational Inquiry,NULL
+SPED 566,Leadership in ECSE,SPED 465 SPED 524 
+SPED 575,Mixed Method Inquiry,NULL
+SPED 590,Seminar for Advanced Students,NULL
+SPED 591,Field Study and Thesis Seminar,NULL
+SPED 593,Concepts and Issues in SPED II,SPED 592 
+SPED 595,Independent Study,NULL
+SPED 599,Thesis Research,NULL
+STAT 100,Statistics,MATH 112 
+STAT 199,Undergraduate Open Seminar,NULL
+STAT 200,Statistical Analysis,NULL
+STAT 212,Biostatistics,NULL
+STAT 361,Probability & Statistics for Computer Science,NULL
+STAT 385,Statistics Programming Methods,STAT 200 STAT 212 
+STAT 390,Individual Study,NULL
+STAT 391,Honors Individual Study,NULL
+STAT 400,Statistics and Probability I,MATH 241 
+STAT 408,Actuarial Statistics I,MATH 241 
+STAT 410,Statistics and Probability II,STAT 400 STAT 100 MATH 461 
+STAT 420,Methods of Applied Statistics,STAT 408 STAT 400 MATH 231 
+STAT 424,Analysis of Variance,MATH 415 STAT 410 
+STAT 425,Applied Regression and Design,STAT 410 
+STAT 426,Sampling and Categorical Data,STAT 410 
+STAT 427,Statistical Consulting,STAT 425 
+STAT 428,Statistical Computing,STAT 410 
+STAT 430,Topics in Applied Statistics,NULL
+STAT 431,Applied Bayesian Analysis,STAT 410 
+STAT 432,Basics of Statistical Learning,STAT 400 STAT 420 STAT 425 
+STAT 440,Statistical Data Management,STAT 400 STAT 409 
+STAT 448,Advanced Data Analysis,STAT 400 STAT 409 STAT 410 
+STAT 458,Math Modeling in Life Sciences,NULL
+STAT 480,Data Science Foundations,STAT 425 
+STAT 510,Mathematical Statistics I,STAT 410 
+STAT 511,Mathematical Statistics II,STAT 510 
+STAT 530,Bioinformatics,NULL
+STAT 541,Predictive Analytics,NULL
+STAT 542,Statistical Learning,STAT 410 STAT 425 
+STAT 551,Theory of Probability I,NULL
+STAT 575,Large Sample Theory,STAT 511 MATH 561 STAT 554 
+STAT 578,Topics in Statistics,NULL
+STAT 587,Hierarchical Linear Models,NULL
+STAT 590,Individual Study and Research,NULL
+STAT 593,STAT Internship,STAT 425 
+STAT 595,Preparing Future Faculty,NULL
+STAT 599,Thesis Research,NULL
+SWAH 202,Elementary Swahili II,SWAH 201 
+SWAH 404,Intermediate Swahili II,SWAH 403 
+SWAH 406,Advanced Swahili II,SWAH 405 
+SWAH 408,Topics Swahili Lang & Lit II,SWAH 407 
+SWAH 410,Adv Topics Swahili Lang&Lit II,SWAH 409 
+TAM 199,Undergraduate Open Seminar,NULL
+TAM 210,Introduction to Statics,NULL
+TAM 211,Statics,PHYS 211 MATH 241 
+TAM 212,Introductory Dynamics,TAM 210 TAM 211 
+TAM 251,Introductory Solid Mechanics,TAM 210 TAM 211 
+TAM 252,Solid Mechanics Design,TAM 251 
+TAM 270,Design for Manufacturability,NULL
+TAM 297,Introductory Independent Study,NULL
+TAM 324,Behavior of Materials,NULL
+TAM 335,Introductory Fluid Mechanics,TAM 212 
+TAM 412,Intermediate Dynamics,MATH 225 MATH 415 MATH 285 MATH 441 TAM 212 
+TAM 445,Continuum Mechanics,TAM 251 
+TAM 456,Experimental Stress Analysis,TAM 251 
+TAM 497,Independent Study,NULL
+TAM 499,Senior Thesis,NULL
+TAM 500,Seminar,NULL
+TAM 516,Dynamical Systems Theory,NULL
+TAM 524,Micromechanics of Materials,CEE 300 ME 330 TAM 551 
+TAM 532,Viscous Flow,MATH 285 TAM 435 
+TAM 539,Fluid Mechanics Seminar,NULL
+TAM 542,Mathematical Methods II,TAM 541 
+TAM 552,Solid Mechanics II,TAM 551 
+TAM 574,Adv Finite Element Methods,TAM 470 CEE 570 CS 555 ME 471 
+TAM 597,Advanced Independent Study,NULL
+TAM 598,Advanced Special Topics,NULL
+TAM 599,Thesis Research,NULL
+TE 100,Introduction to Innovation  Leadership and Engineering Entrepreneurship,NULL
+TE 200,Introduction to Innovation,NULL
+TE 250,From Idea to Enterprise,NULL
+TE 298,Special Topics I,NULL
+TE 333,Creativity  Innovation  Vision,NULL
+TE 360,Lectures in Engineering Entrepreneurship,NULL
+TE 398,Special Topics II,NULL
+TE 401,Developing Breakthrough Projects,NULL
+TE 450,Startups: Inc  Fund  Contracts  IP,NULL
+TE 460,Lectures in Engineering Entrepreneurship,NULL
+TE 461,Technology Entrepreneurship,NULL
+TE 466,High-Tech Venture Marketing,NULL
+TE 497,Independent Study,NULL
+TE 498,Special Topics III,NULL
+TE 565,Technol Innovation & Strategy,STAT 400 
+TE 566,Finance for Engineering Mgmt,NULL
+TE 567,Venture Funded Startups,TE 566 
+TE 598,Special Topics IV,NULL
+THEA 100,Practicum I,NULL
+THEA 101,Introduction to Theatre Arts,NULL
+THEA 103,Survey of Theatre Production,NULL
+THEA 110,Broadway Musicals,NULL
+THEA 125,Graphic Skills,NULL
+THEA 151,Introduction to Digital Audio Workstations,NULL
+THEA 170,Fundamentals of Acting I,NULL
+THEA 175,Fundamentals of Acting II,THEA 170 
+THEA 199,Undergraduate Open Seminar,NULL
+THEA 212,Introduction to Directing,THEA 208 
+THEA 218,Intro to Social Issues Theatre,NULL
+THEA 222,Introduction to Scenic Design,THEA 125 
+THEA 223,Introduction to Stage Rigging,THEA 126 
+THEA 231,Intro to Lighting Design,NULL
+THEA 260,Intro Asian American Theatre,NULL
+THEA 262,Literature of Modern Theatre,THEA 208 
+THEA 275,Relationships in Acting II,THEA 270 
+THEA 276,Voice and Movement II,NULL
+THEA 359,Professional Stage Management,NULL
+THEA 361,History of Theatre II,THEA 360 
+THEA 375,Acting Studio II: Dynamics,THEA 371 THEA 372 THEA 373 THEA 374 THEA 376 THEA 377 THEA 378 
+THEA 376,Acting Studio II: Voice,THEA 371 THEA 372 THEA 373 THEA 374 THEA 375 THEA 377 THEA 378 
+THEA 377,Acting Studio II: Movement,THEA 371 THEA 372 THEA 373 THEA 374 THEA 375 THEA 376 THEA 378 
+THEA 378,Acting Studio II: Acting,THEA 371 THEA 372 THEA 373 THEA 374 THEA 375 THEA 376 THEA 377 
+THEA 391,Individual Topics,NULL
+THEA 392,Individual Topics,NULL
+THEA 399,Undergraduate Group Seminar,NULL
+THEA 400,Practicum IV,NULL
+THEA 406,Opera/Dance Stage Management,NULL
+THEA 409,Stage Management Workshop,THEA 445 THEA 446 
+THEA 410,Dramaturgs Workshop,NULL
+THEA 411,Playwrights Workshop,THEA 211 
+THEA 417,Leading Post-Perform Dialog,NULL
+THEA 418,Devising Social Issues Theatre,NULL
+THEA 421,Welding for the Stage,NULL
+THEA 425,Stage Drafting,THEA 125 
+THEA 426,History of Decor,NULL
+THEA 431,The Lighting Laboratory,THEA 231 THEA 423 
+THEA 433,Business of Lighting Design,THEA 231 THEA 423 THEA 431 THEA 432 
+THEA 434,Advanced Lighting Seminar,NULL
+THEA 442,Costume Patterning,NULL
+THEA 447,Costume Rendering,NULL
+THEA 450,Management Seminar,NULL
+THEA 452,Principles of Arts Management,NULL
+THEA 454,Sound Design I,THEA 453 
+THEA 455,Sound Design II,THEA 454 
+THEA 456,Properties Design,NULL
+THEA 458,Rendering for Live Performance,NULL
+THEA 462,Advanced Media Design,NULL
+THEA 475,Acting Studio IV: Dynamics,THEA 471 THEA 472 THEA 473 THEA 474 THEA 476 THEA 477 THEA 478 
+THEA 476,Acting Studio IV: Voice,THEA 471 THEA 472 THEA 473 THEA 474 THEA 475 THEA 477 THEA 478 
+THEA 477,Acting Studio IV: Movement,THEA 471 THEA 472 THEA 473 THEA 474 THEA 475 THEA 476 THEA 478 
+THEA 478,Acting Studio IV: Acting,THEA 471 THEA 472 THEA 473 THEA 474 THEA 475 THEA 476 THEA 477 
+THEA 479,Preparation for Auditions,THEA 375 THEA 376 THEA 377 THEA 378 
+THEA 482,Content Creation 2: Motion Graphics & VFX for Media Design,NULL
+THEA 490,Professional Internship,NULL
+THEA 491,Advanced CAD Drafting for Lighting Designers,THEA 437 
+THEA 493,Lighting Opera & Musicals,NULL
+THEA 495,Capstone Project,NULL
+THEA 498,Audio Engineering II,THEA 497 
+THEA 519,Theatrical CAD Drafting II,THEA 419 
+THEA 522,Structures for the Stage II,THEA 422 
+THEA 524,Automation for the Stage,THEA 424 
+THEA 550,Colloquium Design & Theat Tech,NULL
+THEA 559,Topics in Stage Management,NULL
+THEA 571,Colloquium in Acting: Dynamics,THEA 572 THEA 573 THEA 574 
+THEA 572,Colloquium in Acting: Voice,THEA 571 THEA 573 THEA 574 
+THEA 573,Colloquium in Acting: Movement,THEA 571 THEA 572 THEA 574 
+THEA 574,Colloquium in Acting: Acting,THEA 571 THEA 572 THEA 573 
+THEA 591,Special Problems,NULL
+THEA 595,Creative Project,NULL
+THEA 599,Thesis Research,NULL
+TMGT 366,Product Design and Development,NULL
+TMGT 461,Tech  Eng  & Mgt Final Project,NULL
+TRST 405,Commercial & Technical Trans,NULL
+TRST 410,Translation Theory & Practice,NULL
+TRST 440,Translation Studies Capstone,TRST 407 TRST 410 
+TRST 500,Translation and Interpretation: Reflective Practice,TRST 410 
+TRST 502,Applied LiteraryTranslation II,TRST 501 
+TRST 540,Translation Capstone,TRST 407 
+TRST 542,Conference Interpreting,NULL
+TRST 580,Special Topics in Translation,NULL
+TSM 100,Technical Systems in Agr,NULL
+TSM 132,Basics of Project Management,NULL
+TSM 199,Undergraduate Open Seminar,NULL
+TSM 234,Wiring  Motors and Control Sys,TSM 100 
+TSM 262,Off-Road Equipment Management,TSM 100 
+TSM 293,Off-Campus Internship,NULL
+TSM 295,Undergrad Research or Thesis,NULL
+TSM 311,Humanity in the Food Web,NULL
+TSM 363,Fluid Power Systems,NULL
+TSM 371,Residential Housing Design,NULL
+TSM 381,Grain Drying & Storage Systems,NULL
+TSM 396,UG Honors Research or Thesis,NULL
+TSM 421,Ag Safety-Injury Prevention,NULL
+TSM 425,Managing Ag Safety Risk,TSM 421 TSM 422 
+TSM 464,Engine and Tractor Power,NULL
+TSM 465,Chemical Applications Systems,NULL
+TSM 486,Grain Bioprocessing Coproducts,NULL
+TSM 496,Independent Study,NULL
+TSM 586,Advanced Bioprocess Coproducts,NULL
+TSM 594,Graduate Seminar,NULL
+TSM 598,Special Topics,NULL
+TSM 599,Thesis Research,NULL
+TURK 199,Undergraduate Open Seminar,NULL
+TURK 202,Elementary Turkish II,TURK 201 
+TURK 404,Intermediate Turkish II,TURK 403 
+TURK 406,Advanced Turkish II,TURK 405 
+UKR 102,Basic Ukrainian II,UKR 101 
+UKR 199,Undergraduate Open Seminar,NULL
+UKR 202,Second-Year Ukrainian II,UKR 201 
+UP 116,Urban Informatics I,NULL
+UP 136,Urban Sustainability,NULL
+UP 185,Cities in a Global Perspective,NULL
+UP 199,Undergraduate Open Seminar,NULL
+UP 201,Planning in Action,NULL
+UP 204,Chicago: Planning & Urban Life,UP 101 
+UP 205,Ecology & Environmental Sustainability,NULL
+UP 210,Environmental Economics,NULL
+UP 260,Social Inequality and Planning,NULL
+UP 301,Capstone Preparation,NULL
+UP 316,Urban Informatics II,UP 116 
+UP 345,Economic Development Planning,NULL
+UP 357,The Land Development Process,NULL
+UP 390,Planning Internship,NULL
+UP 397,Undergraduate Project,NULL
+UP 401,Undergraduate Capstone Seminar,NULL
+UP 406,Urban Ecology,NULL
+UP 418,GIS for Planners,NULL
+UP 428,International Planning Studio,NULL
+UP 430,Urban Transportation Planning,NULL
+UP 457,Small Town/Rural Planning Workshop,UP 211 
+UP 466,Energy  Plng & Blt Environment,NULL
+UP 470,Shrinking Cities,NULL
+UP 475,Real Estate Development Fundamentals,NULL
+UP 478,Community Development Workshop,UP 260 
+UP 481,Urban Communities & Public Pol,NULL
+UP 494,Special Topics in Planning,NULL
+UP 505,Urban and Regional Analysis,NULL
+UP 510,Plan Making,NULL
+UP 511,Law and Planning,NULL
+UP 512,Urban Skills & Applications I: Colloquium,NULL
+UP 519,Advanced Applications of GIS,UP 418 
+UP 521,International Planning Seminar,NULL
+UP 576,Sustainable Urban Systems,NULL
+UP 590,Professional Internship,NULL
+UP 591,Capstone Seminar,NULL
+UP 592,Doctoral Urban Planning Seminar,NULL
+UP 594,Seminar,NULL
+UP 596,Independent Study,NULL
+UP 597,Urban Planning Research,NULL
+UP 598,Master's Project,NULL
+UP 599,Thesis Research,NULL
+VCM 501,Zoological Medicine Seminar,NULL
+VCM 503,Current Lit in Equine Med Surg,NULL
+VCM 506,Topics in Pathophysiology,NULL
+VCM 522,Adv Comp Theriogenology,NULL
+VCM 524,Effective Biomedical Teacher,NULL
+VCM 535,Small Animal Internal Medicine Book Club,NULL
+VCM 536,ECC Journal Topics,NULL
+VCM 542,Ocular Pathology,NULL
+VCM 577,Advanced Large Animal Medicine,NULL
+VCM 584,Current Concepts Comp Surgery,NULL
+VCM 585,Current Lit Sm Anim Medicine,NULL
+VCM 588,Advances in Vet Dermatology,NULL
+VCM 590,Seminar,NULL
+VCM 591,Advances in Vet Internal Med,NULL
+VCM 592,Special Problems,NULL
+VCM 593,Adv Topics Vet Clin Med,NULL
+VCM 598,Manuscript Research,NULL
+VCM 599,Thesis Research,NULL
+VCM 608,Equine Veterinary Husbandry,NULL
+VCM 625,Exotic Mammal Medicine,NULL
+VCM 626,Shelter Medicine I,NULL
+VCM 627,Equine Infectious Disease,NULL
+VCM 641,Equine Neonatology,VM 606 
+VCM 645,Equine Surgery Laboratory,VM 606 
+VCM 661,Advanced Equine Lameness,NULL
+VCM 663,Small Animal Dermatology,VCM 631 
+VCM 673,Companion Animal Rehab,NULL
+VCM 674,Equine Exercise Physiology,NULL
+VCM 679,Adv Veterinary Ophthalmology,NULL
+VCM 681,Advanced Equine Internal Medicine,NULL
+VCM 682,Wildlife Medicine,NULL
+VCM 688,Food Supply Disease Management,VCM 672 
+VCM 690,Intro to Food Supply Medicine,VM 601 
+VCM 692,Special Problems,NULL
+VCM 693,Comparative Anatomy - Zoo,NULL
+VCM 694,Veterinary Clinical Medicine,NULL
+VM 603,Structure and Function II,VCM 602 
+VM 604,Structure and Function III,VM 603 
+VM 606,Clinical Practice II,VM 601 VM 604 
+VM 608,Pathobiology III,VM 607 
+VM 611,Medicine and Surgery III,VM 610 
+VM 612,Clinical Practice III,VM 611 
+VM 616,Clinical Practice VII,VM 611 
+VM 617,Professional Development,VM 616 
+VM 623,Research Project II,NULL
+VM 635,Veterinary Medical Spanish,NULL
+VM 642,Contemporary Issues in Vet Med,NULL
+VM 645,Communications in Practice,NULL
+WGGP 581,Gender Relations & Intl Dev,NULL
+WLOF 202,Elementary Wolof II,WLOF 201 
+WLOF 403,Intermediate Wolof I,WLOF 202 
+WLOF 405,Advanced Wolof I,WLOF 404 
+WLOF 406,Advanced Wolof II,WLOF 405 
+WRIT 303,Writing Across Media,NULL
+YDSH 320,Lit Responses to the Holocaust,NULL

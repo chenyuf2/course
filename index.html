@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<script src="http://d3js.org/d3.v2.min.js?2.9.3"></script>
+<link rel = "stylesheet" type = "text/css" href="main.css">
+<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+</head>
+<style>
+div#movieInfo {
+    position: relative;
+    right: 4px;
+    cursor: text;
+    width: 300px;
+    z-index: 1000;
+    background: #E5E4D6;
+    border: solid 1px #aaa;
+    border-radius: 8px;
+    font-family: "Raleway", sans-serif;
+    font-size: 10px;
+    padding: 4px;
+    text-align: right;
+}
+
+div#movieInfo div#cover {
+    text-align: left;
+    height: 300px;
+}
+
+div#movieInfo div.t {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+div#movieInfo img.cover {
+    margin-bottom: 6px;
+    position: absolute;
+    right: 3px;
+}
+
+div#movieInfo img.action {
+    cursor: pointer;
+    position: absolute;
+}
+
+div#movieInfo div.f {
+    border-top: 1px dotted #8E5981;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+div#movieInfo span.d {
+    font-weight: bold;
+}
+
+div#movieInfo span.c {
+    font-style: italic;
+}
+
+div#movieInfo span.l {
+    font-size: 11px;
+    color: #24553E;
+    font-variant: small-caps;
+}
+
+.link {
+  fill: none;
+  stroke: #9ecae1;
+  stroke-width: 0.3px;
+}
+
+.node text {
+stroke:#333;
+cursor:pointer;
+}
+
+.node circle{
+stroke-width:.5px;
+fill:#FFA500;
+cursor: pointer;
+stroke: #000;
+}
+
+.container{
+    height:30%;
+    width:30%;
+}
+
+.panel_off {
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.panel_on {
+    visibility: visible;
+    pointer-events: all;
+}
+
+
+
+</style>
+
+<body>
+  <div id="sample">
+    <script  async>
+
+    var width = 1200,
+        height =1100
+
+    var svg = d3.select("#sample").append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+    var force = d3.layout.force()
+        .gravity(.05)
+        .distance(50)
+        .charge(-5)
+        .size([width, height]);
+
+    d3.json("graphFile.json", function(json) {
+      force
+          .nodes(json.nodes)
+          .links(json.links)
+          .start();
+
+      var link = svg.selectAll(".link")
+          .data(json.links)
+        .enter().append("line")
+          .attr("class", "link");
+
+
+      var node = svg.selectAll(".node")
+          .data(json.nodes)
+        .enter().append("g")
+         .attr("class", "node")
+          .call(force.drag)
+          .on('mouseover', function(d) {
+          console.log("mouseover on", this);
+          // make the mouseover'd element
+          // bigger and red
+          d3.select(this)
+            .append("text")
+            .attr("dx", 6)
+            .attr("dy", ".15em")
+            .style("fill", "black")
+            .style("z-index", "9999999999")
+            .style("font-size", "13px")
+           .text(function(d) { return d.name +"\n"+ "dependency: "+d.weight });
+
+        })
+        .on('mouseout', function(d) {
+          console.log("mouseout", this);
+          // return the mouseover'd element
+          // to being smaller and black
+          d3.select(this).select("text")
+          .remove();
+            });
+
+      node.append("circle")
+          .attr("r", function(d) {
+        var minRadius = 2;
+        return minRadius + (d.weight*0.5);
+      });
+
+      node.on('click', function(d) {
+      console.log("You clicked", d.name);
+    })
+
+      force.on("tick", function() {
+        link.attr("x1", function(d) { return d.source.x; })
+            .attr("y1", function(d) { return d.source.y; })
+            .attr("x2", function(d) { return d.target.x; })
+            .attr("y2", function(d) { return d.target.y; });
+
+        node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+      });
+});
+
+    </script>
+<!-- <div id="myDiagramDiv" style=" width: 100%; height: 500px">
+  </div> -->
+  <div class="copyright-container">
+    <p>
+      This webpage is created by Stephen and Danjin.
+    </p>
+</div>
+</div>
+</body>

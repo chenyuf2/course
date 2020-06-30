@@ -1,0 +1,21 @@
+.copyright-container {
+  width: 100%;
+}
+.copyright-container > p {
+  text-align: center;
+  font-weight: 600;
+}
+#sample {
+width: 100%;
+height: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+background-color: #eef2f4;
+}
+
+body {
+  background-color: #eef2f4;
+  font-family: "Raleway", sans-serif;
+}
